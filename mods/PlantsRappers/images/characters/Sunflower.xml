@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sunflower.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunflower down0000" x="5" y="5" width="371" height="397"/>
+	<SubTexture name="sunflower idle0000" x="386" y="5" width="354" height="415" frameX="0" frameY="-28" frameWidth="370" frameHeight="416"/>
+	<SubTexture name="sunflower left0000" x="5" y="430" width="356" height="406" frameX="0" frameY="0" frameWidth="376" frameHeight="405"/>
+	<SubTexture name="sunflower right0000" x="371" y="430" width="351" height="404" frameX="-22" frameY="0" frameWidth="372" frameHeight="403"/>
+	<SubTexture name="sunflower up0000" x="750" y="5" width="355" height="434" frameX="-2" frameY="0" frameWidth="357" frameHeight="434"/>
+</TextureAtlas>

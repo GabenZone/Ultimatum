@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-zombieCheerful.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="5" y="5" width="669" height="579" frameX="0" frameY="-37" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Dancing Beat0001" x="684" y="5" width="669" height="609" frameX="0" frameY="-37" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Dancing Beat0002" x="5" y="624" width="667" height="611" frameX="0" frameY="-40" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Dancing Beat0003" x="684" y="5" width="669" height="609" frameX="0" frameY="-40" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Raise Flag0000" x="682" y="624" width="667" height="589" frameX="0" frameY="-44" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Raise Flag0001" x="682" y="624" width="667" height="589" frameX="0" frameY="-44" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Raise Flag0002" x="1363" y="5" width="668" height="608" frameX="0" frameY="-47" frameWidth="784" frameHeight="679"/>
+	<SubTexture name="GF Raise Flag0003" x="1363" y="5" width="668" height="608" frameX="0" frameY="-47" frameWidth="784" frameHeight="679"/>
+</TextureAtlas>
