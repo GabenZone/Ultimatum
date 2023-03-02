@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghostgf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghostgf0000" x="2800" y="431" width="310" height="381" frameX="-16" frameY="-25" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0001" x="2800" y="431" width="310" height="381" frameX="-16" frameY="-25" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0002" x="3140" y="431" width="309" height="381" frameX="-15" frameY="-26" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0003" x="3140" y="431" width="309" height="381" frameX="-15" frameY="-26" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0004" x="3479" y="431" width="309" height="381" frameX="-16" frameY="-20" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0005" x="0" y="854" width="309" height="381" frameX="-16" frameY="-20" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0006" x="339" y="854" width="308" height="382" frameX="-18" frameY="-16" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0007" x="677" y="854" width="328" height="384" frameX="-11" frameY="-5" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0008" x="1035" y="854" width="328" height="384" frameX="-11" frameY="-3" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0009" x="1393" y="854" width="328" height="384" frameX="-11" frameY="-3" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0010" x="1751" y="854" width="340" height="384" frameX="-1" frameY="-1" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0011" x="1751" y="854" width="340" height="384" frameX="-1" frameY="-1" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0012" x="2121" y="854" width="340" height="385" frameX="-1" frameY="0" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0013" x="2491" y="854" width="341" height="384" frameX="0" frameY="-1" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0014" x="2862" y="854" width="341" height="384" frameX="0" frameY="0" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0015" x="3233" y="854" width="339" height="380" frameX="-2" frameY="-11" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0016" x="3602" y="854" width="339" height="380" frameX="-2" frameY="-12" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0017" x="0" y="1269" width="338" height="381" frameX="-4" frameY="-12" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0018" x="0" y="1269" width="338" height="381" frameX="-4" frameY="-15" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0019" x="368" y="1269" width="335" height="381" frameX="-7" frameY="-15" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0020" x="733" y="1269" width="335" height="381" frameX="-7" frameY="-17" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0021" x="1098" y="1269" width="330" height="382" frameX="-10" frameY="-16" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0022" x="1458" y="1269" width="306" height="383" frameX="-39" frameY="-13" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0023" x="1458" y="1269" width="306" height="383" frameX="-39" frameY="-13" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0024" x="1458" y="1269" width="306" height="383" frameX="-39" frameY="-13" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0025" x="1794" y="1269" width="305" height="383" frameX="-39" frameY="-13" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0026" x="2129" y="1269" width="305" height="383" frameX="-39" frameY="-15" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0027" x="2129" y="1269" width="305" height="383" frameX="-39" frameY="-15" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0028" x="2464" y="1269" width="306" height="383" frameX="-38" frameY="-15" frameWidth="345" frameHeight="407"/>
+	<SubTexture name="ghostgf0029" x="2464" y="1269" width="306" height="383" frameX="-38" frameY="-15" frameWidth="345" frameHeight="407"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+﻿	<?xml version="1.0" encoding="utf-8"?>
+    <TextureAtlas imagePath="Menu_sus11">
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M BF Idle0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="15.15" frameX="0" frameY="-15" frameWidth="328" frameHeight="330"/>
+	<SubTexture name="M bf HEY0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="15.15" frameX="0" frameY="-15" frameWidth="328" frameHeight="330"/>
+</TextureAtlas>

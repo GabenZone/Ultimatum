@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wallBP.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wallBP0000" x="0" y="0" width="4286" height="1969"/>
+	<SubTexture name="wallBP0001" x="0" y="0" width="4286" height="1969"/>
+	<SubTexture name="wallBP0002" x="0" y="0" width="4286" height="1969"/>
+	<SubTexture name="wallBP0003" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0004" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0005" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0006" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0007" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0008" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0009" x="0" y="3948" width="4286" height="1969"/>
+	<SubTexture name="wallBP0010" x="0" y="3948" width="4286" height="1969"/>
+	<SubTexture name="wallBP0011" x="0" y="3948" width="4286" height="1969"/>
+	<SubTexture name="wallBP0012" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0013" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0014" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0015" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0016" x="0" y="1974" width="4286" height="1969"/>
+	<SubTexture name="wallBP0017" x="0" y="1974" width="4286" height="1969"/>
+</TextureAtlas>

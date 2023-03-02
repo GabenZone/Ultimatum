@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_sus5",
+	"position": [
+		490,
+		87
+	],
+	"scale": 1,
+	"idle_anim": "M BF Idle",
+	"confirm_anim": "M bf HEY"
+}
