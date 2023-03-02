@@ -1,0 +1,40 @@
+mods/data/defeat/defeat-easy.json
+mods/data/defeat/defeat-hard.json
+mods/data/defeat/defeat.json
+mods/data/defeat/events.json
+mods/Impostor/characters/bf-miedoso.json
+mods/Impostor/images/sus/BF_Defeat_Scared.png
+mods/Impostor/images/sus/BF_Defeat_Scared.xml
+mods/Impostor/characters/black-old.json
+mods/Impostor/images/sus/black-old.png
+mods/Impostor/images/sus/black-old.xml
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/black.json
+mods/Impostor/images/sus/black.png
+mods/Impostor/images/sus/black.xml
+mods/data/defeat/mod.txt
+mods/data/defeat/modchart.lua
+mods/data/defeat/script.lua
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/defeat.json
+mods/Impostor/stages/defeat.lua
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/characters/bf-preocupado.json
+mods/Impostor/images/sus/BF_Defeat_Nomal.png
+mods/Impostor/images/sus/BF_Defeat_Nomal.xml
+mods/Impostor/custom_events/Flashes Camera.lua
+mods/Impostor/custom_events/Flash Camera.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/Impostor/images/defeat/stageback.png
+mods/Impostor/images/defeat/defeat.png
+mods/Impostor/images/defeat/defeat.xml
+mods/Impostor/images/defeat/lol thing.png
+mods/Impostor/images/defeat/deadBG.png
+mods/Impostor/images/defeat/iluminao omaga.png
+mods/Impostor/images/defeat/deadFG.png
+mods/songs/defeat/Voices.ogg
+mods/songs/defeat/voices.ogg
+mods/songs/defeat/Inst.ogg
+mods/songs/defeat/inst.ogg

@@ -1,0 +1,18 @@
+mods/data/too-slow-dside/Cam Speed Increase.lua
+mods/data/too-slow-dside/mod.txt
+mods/data/too-slow-dside/too-slow-dside-easy.json
+mods/data/too-slow-dside/too-slow-dside-hard.json
+mods/data/too-slow-dside/too-slow-dside.json
+mods/D-Sides/stages/sonicstage.json
+mods/D-Sides/stages/sonicstage.lua
+mods/D-Sides/custom_notetypes/Ice Note.lua
+mods/D-Sides/custom_events/Lyrics.lua
+mods/D-Sides/custom_events/Flash Camera.lua
+mods/D-Sides/custom_events/ShowHud.lua
+mods/D-Sides/custom_events/BlackOut.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/sounds/Freeze.ogg
+mods/songs/too-slow-dside/Voices.ogg
+mods/songs/too-slow-dside/voices.ogg
+mods/songs/too-slow-dside/Inst.ogg
+mods/songs/too-slow-dside/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/diva/diva-easy.json
+mods/data/diva/diva-getreal.json
+mods/data/diva/diva-hard.json
+mods/data/diva/diva.json
+mods/data/diva/mod.txt
+mods/B3 Remixed/stages/miaStation.json
+mods/B3 Remixed/stages/miaStation.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/diva/Voices.ogg
+mods/songs/diva/voices.ogg
+mods/songs/diva/Inst.ogg
+mods/songs/diva/inst.ogg

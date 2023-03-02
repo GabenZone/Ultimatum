@@ -1,0 +1,11 @@
+mods/data/ur-girl/mod.txt
+mods/data/ur-girl/ur-girl-easy.json
+mods/data/ur-girl/ur-girl-hard.json
+mods/data/ur-girl/ur-girl.json
+mods/Fever/characters/bf-pixel.json
+mods/Fever/characters/senpai.json
+mods/Fever/characters/gf-pixel.json
+mods/songs/ur-girl/Voices.ogg
+mods/songs/ur-girl/voices.ogg
+mods/songs/ur-girl/Inst.ogg
+mods/songs/ur-girl/inst.ogg

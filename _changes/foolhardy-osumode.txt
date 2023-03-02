@@ -1,0 +1,8 @@
+mods/data/foolhardy/foolhardy.json
+mods/data/foolhardy/mod.txt
+mods/Zardy/stages/fuckyouZardyTime.json
+mods/Zardy/stages/fuckyouZardyTime.lua
+mods/songs/foolhardy/Voices.ogg
+mods/songs/foolhardy/voices.ogg
+mods/songs/foolhardy/Inst.ogg
+mods/songs/foolhardy/inst.ogg

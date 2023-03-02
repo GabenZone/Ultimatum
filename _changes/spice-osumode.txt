@@ -1,0 +1,10 @@
+mods/data/spice/mod.txt
+mods/data/spice/spice-easy.json
+mods/data/spice/spice-hard.json
+mods/data/spice/spice.json
+mods/Fever/stages/week 5 2nd song.json
+mods/Fever/stages/week 5 2nd song.lua
+mods/songs/spice/Voices.ogg
+mods/songs/spice/voices.ogg
+mods/songs/spice/Inst.ogg
+mods/songs/spice/inst.ogg

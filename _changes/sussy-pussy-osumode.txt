@@ -1,0 +1,12 @@
+mods/data/sussy-pussy/mod.txt
+mods/data/sussy-pussy/sussy-pussy.json
+mods/Hotline 024/stages/sus.json
+mods/Hotline 024/stages/sus.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/sussy-pussy/Voices.ogg
+mods/songs/sussy-pussy/voices.ogg
+mods/songs/sussy-pussy/Inst.ogg
+mods/songs/sussy-pussy/inst.ogg

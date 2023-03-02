@@ -1,0 +1,11 @@
+mods/data/philophobia/mod.txt
+mods/data/philophobia/philophobia.json
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/Trollge/images/blackscreen.png
+mods/Trollge/images/Circle.png
+mods/Trollge/images/TextAct1.png
+mods/songs/philophobia/Voices.ogg
+mods/songs/philophobia/voices.ogg
+mods/songs/philophobia/Inst.ogg
+mods/songs/philophobia/inst.ogg

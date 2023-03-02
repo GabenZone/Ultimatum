@@ -1,0 +1,26 @@
+mods/data/double-trouble/double-trouble-hard.json
+mods/data/double-trouble/mod.txt
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/impostor.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/polus.json
+mods/Impostor/stages/polus.lua
+mods/Impostor/images/characters/impostor.png
+mods/Impostor/images/characters/impostor.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/Impostor/images/polussus1/newsky.png
+mods/Impostor/images/polussus1/polusrocks.png
+mods/Impostor/images/polussus1/polusHills.png
+mods/Impostor/images/polussus1/polus_custom_lab.png
+mods/Impostor/images/polussus1/polus_custom_floor.png
+mods/Impostor/images/polussus1/snowback.png
+mods/Impostor/images/polussus1/snowback.xml
+mods/Impostor/images/pets/dog.png
+mods/Impostor/images/pets/dog.xml
+mods/songs/double-trouble/Voices.ogg
+mods/songs/double-trouble/voices.ogg
+mods/songs/double-trouble/Inst.ogg
+mods/songs/double-trouble/inst.ogg

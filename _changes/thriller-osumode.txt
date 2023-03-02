@@ -1,0 +1,9 @@
+mods/data/thriller/mod.txt
+mods/data/thriller/modchart.lua
+mods/data/thriller/thriller-easy.json
+mods/data/thriller/thriller-hard.json
+mods/data/thriller/thriller.json
+mods/songs/thriller/Voices.ogg
+mods/songs/thriller/voices.ogg
+mods/songs/thriller/Inst.ogg
+mods/songs/thriller/inst.ogg

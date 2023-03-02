@@ -1,0 +1,10 @@
+mods/data/hardships/hardships-hard.json
+mods/data/hardships/mod.txt
+mods/data/hardships/script.lua
+mods/Fever/stages/week2bgtaki.json
+mods/Fever/stages/week2bgtaki.lua
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/songs/hardships/Voices.ogg
+mods/songs/hardships/voices.ogg
+mods/songs/hardships/Inst.ogg
+mods/songs/hardships/inst.ogg

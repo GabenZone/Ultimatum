@@ -1,0 +1,14 @@
+mods/data/sugarcrush/events.json
+mods/data/sugarcrush/mod.txt
+mods/data/sugarcrush/sugarcrush.json
+mods/Hotline 024/stages/skatepark.json
+mods/Hotline 024/stages/skatepark.lua
+mods/Hotline 024/custom_notetypes/Swap Note.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/sugarcrush/Voices.ogg
+mods/songs/sugarcrush/voices.ogg
+mods/songs/sugarcrush/Inst.ogg
+mods/songs/sugarcrush/inst.ogg

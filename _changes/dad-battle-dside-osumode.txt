@@ -1,0 +1,12 @@
+mods/data/dad-battle-dside/dad-battle-dside-easy.json
+mods/data/dad-battle-dside/dad-battle-dside-hard.json
+mods/data/dad-battle-dside/dad-battle-dside.json
+mods/data/dad-battle-dside/events.json
+mods/data/dad-battle-dside/mod.txt
+mods/D-Sides/stages/W1_stageDARK.json
+mods/D-Sides/stages/W1_stageDARK.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/songs/dad-battle-dside/Voices.ogg
+mods/songs/dad-battle-dside/voices.ogg
+mods/songs/dad-battle-dside/Inst.ogg
+mods/songs/dad-battle-dside/inst.ogg

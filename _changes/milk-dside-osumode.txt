@@ -1,0 +1,14 @@
+mods/data/milk-dside/milk-dside-easy.json
+mods/data/milk-dside/milk-dside-hard.json
+mods/data/milk-dside/milk-dside.json
+mods/data/milk-dside/mod.txt
+mods/data/milk-dside/script.lua
+mods/D-Sides/stages/sunkageStage.json
+mods/D-Sides/stages/sunkageStage.lua
+mods/D-Sides/custom_notetypes/Cum Note.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/sounds/splurge.ogg
+mods/songs/milk-dside/Voices.ogg
+mods/songs/milk-dside/voices.ogg
+mods/songs/milk-dside/Inst.ogg
+mods/songs/milk-dside/inst.ogg

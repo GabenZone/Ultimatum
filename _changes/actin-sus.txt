@@ -1,0 +1,18 @@
+mods/data/actin-sus/actin-sus-hard.json
+mods/data/actin-sus/mod.txt
+mods/Impostor/characters/susfriend.json
+mods/Impostor/characters/oldpostor.json
+mods/Impostor/characters/oldgf.json
+mods/Impostor/stages/alpha.json
+mods/Impostor/images/characters/susfriend.png
+mods/Impostor/images/characters/susfriend.xml
+mods/Impostor/images/characters/oldpostor.png
+mods/Impostor/images/characters/oldpostor.xml
+mods/Impostor/images/characters/oldgf.png
+mods/Impostor/images/characters/oldgf.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/actin-sus/Voices.ogg
+mods/songs/actin-sus/voices.ogg
+mods/songs/actin-sus/Inst.ogg
+mods/songs/actin-sus/inst.ogg

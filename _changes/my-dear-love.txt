@@ -1,0 +1,28 @@
+mods/data/my-dear-love/mod.txt
+mods/data/my-dear-love/my-dear-love.json
+mods/Trollge/characters/bf_good.json
+mods/Trollge/characters/gfmdl.json
+mods/Trollge/characters/no.json
+mods/Trollge/stages/regf.json
+mods/Trollge/stages/regf.lua
+mods/Trollge/images/characters/Boyfriend_good.png
+mods/Trollge/images/characters/Boyfriend_good.xml
+mods/Trollge/images/characters/gfmdl.png
+mods/Trollge/images/characters/gfmdl.xml
+mods/Trollge/images/characters/no.png
+mods/Trollge/images/characters/no.xml
+mods/Trollge/custom_events/Image Flashc.lua
+mods/Trollge/custom_events/Set_Health.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/custom_events/quitarhud.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/Trollge/images/xdxdxd.png
+mods/Trollge/images/mmmm.png
+mods/Trollge/images/blackscreen.png
+mods/Trollge/images/Circle.png
+mods/Trollge/images/TextAct1.png
+mods/songs/my-dear-love/Voices.ogg
+mods/songs/my-dear-love/voices.ogg
+mods/songs/my-dear-love/Inst.ogg
+mods/songs/my-dear-love/inst.ogg

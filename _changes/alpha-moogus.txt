@@ -1,0 +1,16 @@
+mods/data/alpha-moogus/alpha-moogus-hard.json
+mods/data/alpha-moogus/mod.txt
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/oldpostor.json
+mods/Impostor/characters/oldgf.json
+mods/Impostor/stages/alpha.json
+mods/Impostor/images/characters/oldpostor.png
+mods/Impostor/images/characters/oldpostor.xml
+mods/Impostor/images/characters/oldgf.png
+mods/Impostor/images/characters/oldgf.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/alpha-moogus/Voices.ogg
+mods/songs/alpha-moogus/voices.ogg
+mods/songs/alpha-moogus/Inst.ogg
+mods/songs/alpha-moogus/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/su-vecindad/events.json
+mods/data/su-vecindad/mod.txt
+mods/data/su-vecindad/script.lua
+mods/data/su-vecindad/su-vecindad-hard.json
+mods/El Chavo/stages/Vecindad.json
+mods/El Chavo/stages/Vecindad.lua
+mods/El Chavo/custom_events/XD.lua
+mods/El Chavo/custom_events/Set Cam Zoom.lua
+mods/El Chavo/custom_events/Cam Boom Speed.lua
+mods/songs/su-vecindad/Voices.ogg
+mods/songs/su-vecindad/voices.ogg
+mods/songs/su-vecindad/Inst.ogg
+mods/songs/su-vecindad/inst.ogg

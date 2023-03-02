@@ -1,0 +1,21 @@
+mods/data/sauces-moogus/events.json
+mods/data/sauces-moogus/mod.txt
+mods/data/sauces-moogus/sauces-moogus-hard.json
+mods/Impostor/characters/bfsauce.json
+mods/Impostor/characters/chefogus.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/chef.json
+mods/Impostor/stages/chef.lua
+mods/Impostor/images/characters/bfsauce.png
+mods/Impostor/images/characters/bfsauce.xml
+mods/Impostor/images/characters/chefogus.png
+mods/Impostor/images/characters/chefogus.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/sauces-moogus/Voices.ogg
+mods/songs/sauces-moogus/voices.ogg
+mods/songs/sauces-moogus/Inst.ogg
+mods/songs/sauces-moogus/inst.ogg

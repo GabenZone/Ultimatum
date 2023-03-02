@@ -1,0 +1,15 @@
+mods/data/school/events.json
+mods/data/school/mod.txt
+mods/data/school/school-easy.json
+mods/data/school/school-getreal.json
+mods/data/school/school-hard.json
+mods/data/school/school.json
+mods/data/school/script.lua
+mods/B3 Remixed/stages/philly-b3.json
+mods/B3 Remixed/stages/philly-b3.lua
+mods/B3 Remixed/custom_notetypes/Gay Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/school/Voices.ogg
+mods/songs/school/voices.ogg
+mods/songs/school/Inst.ogg
+mods/songs/school/inst.ogg

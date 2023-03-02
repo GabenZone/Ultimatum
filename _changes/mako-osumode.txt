@@ -1,0 +1,10 @@
+mods/data/mako/mako-easy.json
+mods/data/mako/mako-hard.json
+mods/data/mako/mako.json
+mods/data/mako/mod.txt
+mods/Fever/stages/melonpatch.json
+mods/Fever/stages/melonpatch.lua
+mods/songs/mako/Voices.ogg
+mods/songs/mako/voices.ogg
+mods/songs/mako/Inst.ogg
+mods/songs/mako/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/awooga/awooga-easy.json
+mods/data/awooga/awooga-hard.json
+mods/data/awooga/awooga.json
+mods/data/awooga/mod.txt
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/awooga/Voices.ogg
+mods/songs/awooga/voices.ogg
+mods/songs/awooga/Inst.ogg
+mods/songs/awooga/inst.ogg

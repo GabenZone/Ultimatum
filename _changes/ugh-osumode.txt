@@ -1,0 +1,11 @@
+mods/data/ugh/events.json
+mods/data/ugh/mod.txt
+mods/data/ugh/ugh-easy.json
+mods/data/ugh/ugh-hard.json
+mods/data/ugh/ugh.json
+mods/Vanilla/stages/tank.json
+mods/Vanilla/stages/tank.lua
+mods/songs/ugh/Voices.ogg
+mods/songs/ugh/voices.ogg
+mods/songs/ugh/Inst.ogg
+mods/songs/ugh/inst.ogg

@@ -1,0 +1,33 @@
+mods/data/neurotic/bfisscread.lua
+mods/data/neurotic/events.json
+mods/data/neurotic/mod.txt
+mods/data/neurotic/neurotic-hard.json
+mods/Impostor/characters/bfairship.json
+mods/Impostor/characters/grey.json
+mods/Impostor/characters/gf-car.json
+mods/Impostor/stages/grey.json
+mods/Impostor/stages/grey.lua
+mods/Impostor/images/characters/bfairship.png
+mods/Impostor/images/characters/bfairship.xml
+mods/Impostor/images/characters/grey.png
+mods/Impostor/images/characters/grey.xml
+mods/Impostor/images/characters/gfCar.png
+mods/Impostor/images/characters/gfCar.xml
+mods/Impostor/custom_events/Change HitHealth.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/Impostor/images/crazygrzy/graybg.png
+mods/Impostor/images/crazygrzy/grayfg.png
+mods/Impostor/images/crazygrzy/lightingpretender.png
+mods/Impostor/images/crazygrzy/graymultiply.png
+mods/Impostor/images/crazygrzy/grayoverlay.png
+mods/Impostor/images/crazygrzy/grayblack.png
+mods/Impostor/images/crazygrzy/grayblack.xml
+mods/Impostor/images/crazygrzy/grayglowy.png
+mods/Impostor/images/crazygrzy/grayglowy.xml
+mods/Impostor/images/pets/crab.png
+mods/Impostor/images/pets/crab.xml
+mods/songs/neurotic/Voices.ogg
+mods/songs/neurotic/voices.ogg
+mods/songs/neurotic/Inst.ogg
+mods/songs/neurotic/inst.ogg

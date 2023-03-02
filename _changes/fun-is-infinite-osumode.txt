@@ -1,0 +1,13 @@
+mods/data/fun-is-infinite/events.json
+mods/data/fun-is-infinite/fun-is-infinite.json
+mods/data/fun-is-infinite/mod.txt
+mods/Hotline 024/stages/mazin-mall.json
+mods/Hotline 024/stages/mazin-mall.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/fun-is-infinite/Voices.ogg
+mods/songs/fun-is-infinite/voices.ogg
+mods/songs/fun-is-infinite/Inst.ogg
+mods/songs/fun-is-infinite/inst.ogg

@@ -1,0 +1,22 @@
+mods/data/mild/mild-easy.json
+mods/data/mild/mild-hard.json
+mods/data/mild/mild.json
+mods/data/mild/mod.txt
+mods/Fever/characters/bf_first2songs.json
+mods/Fever/characters/dickbutt.json
+mods/Fever/characters/tea.json
+mods/Fever/stages/week5 first song.json
+mods/Fever/stages/week5 first song.lua
+mods/Fever/images/characters/BOYFRIEND.png
+mods/Fever/images/characters/BOYFRIEND.xml
+mods/Fever/images/characters/dickbutt.png
+mods/Fever/images/characters/dickbutt.xml
+mods/Fever/images/characters/tea_Assets.png
+mods/Fever/images/characters/tea_Assets.xml
+mods/Fever/images/first2songs.png
+mods/Fever/images/crowd.png
+mods/Fever/images/crowd.xml
+mods/songs/mild/Voices.ogg
+mods/songs/mild/voices.ogg
+mods/songs/mild/Inst.ogg
+mods/songs/mild/inst.ogg

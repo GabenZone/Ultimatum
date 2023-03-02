@@ -1,0 +1,22 @@
+mods/data/c354r/c354r-hard.json
+mods/data/c354r/mod.txt
+mods/data/c354r/script.lua
+mods/data/c354r/script1.lua
+mods/Fever/characters/cesarDEMON_C354R.json
+mods/Fever/characters/C354R.json
+mods/Fever/characters/tea.json
+mods/Fever/stages/C354R.json
+mods/Fever/stages/C354R.lua
+mods/Fever/images/characters/cesarDEMON.png
+mods/Fever/images/characters/cesarDEMON.xml
+mods/Fever/images/characters/roboCesar.png
+mods/Fever/images/characters/roboCesar.xml
+mods/Fever/images/characters/tea_Assets.png
+mods/Fever/images/characters/tea_Assets.xml
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/Fever/custom_events/Image Flash.lua
+mods/Fever/images/roboCesar.png
+mods/songs/c354r/Voices.ogg
+mods/songs/c354r/voices.ogg
+mods/songs/c354r/Inst.ogg
+mods/songs/c354r/inst.ogg

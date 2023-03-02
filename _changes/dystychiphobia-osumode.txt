@@ -1,0 +1,14 @@
+mods/data/dystychiphobia/cinematica.lua
+mods/data/dystychiphobia/dystychiphobia.json
+mods/data/dystychiphobia/mod.txt
+mods/data/dystychiphobia/script.lua
+mods/Trollge/stages/quierosemen.json
+mods/Trollge/stages/quierosemen.lua
+mods/Trollge/custom_notetypes/derp_notes.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/dystychiphobia/Voices.ogg
+mods/songs/dystychiphobia/voices.ogg
+mods/songs/dystychiphobia/Inst.ogg
+mods/songs/dystychiphobia/inst.ogg

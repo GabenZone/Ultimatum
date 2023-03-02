@@ -1,0 +1,18 @@
+mods/data/identity-crisis/events.json
+mods/data/identity-crisis/identity-crisis-hard.json
+mods/data/identity-crisis/impostorUI.lua
+mods/data/identity-crisis/mod.txt
+mods/data/identity-crisis/porting.lua
+mods/data/identity-crisis/uiscret.lua
+mods/data/identity-crisis/uiunsecret.lua
+mods/Impostor/stages/monotone.json
+mods/Impostor/stages/monotone.lua
+mods/Impostor/custom_events/Hide Hud.lua
+mods/Impostor/custom_events/Flash Camera.lua
+mods/Impostor/custom_events/Change HitHealth.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/identity-crisis/Voices.ogg
+mods/songs/identity-crisis/voices.ogg
+mods/songs/identity-crisis/Inst.ogg
+mods/songs/identity-crisis/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/crucify/crucify-easy.json
+mods/data/crucify/crucify-hard.json
+mods/data/crucify/crucify.json
+mods/data/crucify/mod.txt
+mods/data/crucify/script.lua
+mods/data/crucify/script1.lua
+mods/data/crucify/script2.lua
+mods/Fever/stages/week2bgtaki.json
+mods/Fever/stages/week2bgtaki.lua
+mods/songs/crucify/Voices.ogg
+mods/songs/crucify/voices.ogg
+mods/songs/crucify/Inst.ogg
+mods/songs/crucify/inst.ogg

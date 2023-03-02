@@ -1,0 +1,15 @@
+mods/data/uncanny-valley/events.json
+mods/data/uncanny-valley/mod.txt
+mods/data/uncanny-valley/script.lua
+mods/data/uncanny-valley/uncanny-valley-easy.json
+mods/data/uncanny-valley/uncanny-valley.json
+mods/Hotline 024/stages/ena.json
+mods/Hotline 024/stages/ena.lua
+mods/Hotline 024/scripts/Death.lua
+mods/Hotline 024/scripts/Hotline Bar.lua
+mods/Hotline 024/scripts/Hotline Cache.lua
+mods/Hotline 024/fonts/AbstractGroovy.ttf
+mods/songs/uncanny-valley/Voices.ogg
+mods/songs/uncanny-valley/voices.ogg
+mods/songs/uncanny-valley/Inst.ogg
+mods/songs/uncanny-valley/inst.ogg

@@ -1,0 +1,16 @@
+mods/data/your-mom/mod.txt
+mods/data/your-mom/script.lua
+mods/data/your-mom/your-mom.json
+mods/Trollge/stages/pendejo.json
+mods/Trollge/stages/pendejo.lua
+mods/Trollge/custom_notetypes/stairway_notes.lua
+mods/Trollge/custom_notetypes/smiler_notes.lua
+mods/Trollge/custom_notetypes/smiler_notesdrain.lua
+mods/Trollge/custom_notetypes/derp_notes.lua
+mods/Trollge/custom_notetypes/paliaso_notes.lua
+mods/Trollge/custom_events/Set_Health.lua
+mods/Trollge/custom_events/Set Cam ZoomEx.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/custom_events/quitarhud.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua

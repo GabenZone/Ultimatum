@@ -1,0 +1,12 @@
+mods/data/titular/gamestart.lua
+mods/data/titular/mod.txt
+mods/data/titular/porting.lua
+mods/data/titular/titular-hard.json
+mods/Impostor/stages/henry.json
+mods/Impostor/stages/henry.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/titular/Voices.ogg
+mods/songs/titular/voices.ogg
+mods/songs/titular/Inst.ogg
+mods/songs/titular/inst.ogg

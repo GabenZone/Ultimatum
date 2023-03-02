@@ -1,0 +1,14 @@
+mods/data/redemption/Esacosainv.lua
+mods/data/redemption/events.json
+mods/data/redemption/mod.txt
+mods/data/redemption/redemption.json
+mods/data/redemption/script.lua
+mods/Trollge/stages/redempt.json
+mods/Trollge/stages/redempt.lua
+mods/Trollge/custom_events/Image Flash.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/redemption/Voices.ogg
+mods/songs/redemption/voices.ogg
+mods/songs/redemption/Inst.ogg
+mods/songs/redemption/inst.ogg

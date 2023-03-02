@@ -1,0 +1,11 @@
+mods/data/chicken-sandwich/chicken-sandwich-easy.json
+mods/data/chicken-sandwich/chicken-sandwich-hard.json
+mods/data/chicken-sandwich/chicken-sandwich.json
+mods/data/chicken-sandwich/mod.txt
+mods/Fever/characters/bf-pixel.json
+mods/Fever/characters/senpai-angry.json
+mods/Fever/characters/gf-pixel.json
+mods/songs/chicken-sandwich/Voices.ogg
+mods/songs/chicken-sandwich/voices.ogg
+mods/songs/chicken-sandwich/Inst.ogg
+mods/songs/chicken-sandwich/inst.ogg

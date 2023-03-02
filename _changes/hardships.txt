@@ -1,0 +1,18 @@
+mods/data/hardships/hardships-hard.json
+mods/data/hardships/mod.txt
+mods/data/hardships/script.lua
+mods/Fever/characters/cesarDEMON.json
+mods/Fever/characters/tea_bat.json
+mods/Fever/characters/gf.json
+mods/Fever/stages/week2bgtaki.json
+mods/Fever/stages/week2bgtaki.lua
+mods/Fever/images/characters/cesarDEMON.png
+mods/Fever/images/characters/cesarDEMON.xml
+mods/Fever/images/characters/tea_bat.png
+mods/Fever/images/characters/tea_bat.xml
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/Fever/images/week2bgtaki.png
+mods/songs/hardships/Voices.ogg
+mods/songs/hardships/voices.ogg
+mods/songs/hardships/Inst.ogg
+mods/songs/hardships/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/ugh-bside/events.json
+mods/data/ugh-bside/mod.txt
+mods/data/ugh-bside/script1.lua
+mods/data/ugh-bside/SongIntroB-Side.lua
+mods/data/ugh-bside/ugh-bside-flip.json
+mods/B-Sides/stages/tank-b.json
+mods/B-Sides/stages/tank-b.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
+mods/songs/ugh-bside/Voices.ogg
+mods/songs/ugh-bside/voices.ogg
+mods/songs/ugh-bside/Inst.ogg
+mods/songs/ugh-bside/inst.ogg

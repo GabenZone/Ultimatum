@@ -1,0 +1,15 @@
+mods/data/bopeebo-bside/bopeebo-bside-flip.json
+mods/data/bopeebo-bside/events.json
+mods/data/bopeebo-bside/mod.txt
+mods/data/bopeebo-bside/script.lua
+mods/data/bopeebo-bside/SongIntroB-Side.lua
+mods/B-Sides/stages/stage-b.json
+mods/B-Sides/stages/stage-b.lua
+mods/B-Sides/custom_events/Wacky Zoom.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
+mods/songs/bopeebo-bside/Voices.ogg
+mods/songs/bopeebo-bside/voices.ogg
+mods/songs/bopeebo-bside/Inst.ogg
+mods/songs/bopeebo-bside/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/triple-b-trouble/events.json
+mods/data/triple-b-trouble/mod.txt
+mods/data/triple-b-trouble/scriptREAL.lua
+mods/data/triple-b-trouble/triple-b-trouble-getreal.json
+mods/data/triple-b-trouble/triple-b-trouble-hard.json
+mods/data/triple-b-trouble/triple-b-trouble.json
+mods/B3 Remixed/stages/dream.json
+mods/B3 Remixed/stages/dream.lua
+mods/B3 Remixed/custom_notetypes/Gay Note.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/triple-b-trouble/Voices.ogg
+mods/songs/triple-b-trouble/voices.ogg
+mods/songs/triple-b-trouble/Inst.ogg
+mods/songs/triple-b-trouble/inst.ogg

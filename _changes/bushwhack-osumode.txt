@@ -1,0 +1,13 @@
+mods/data/bushwhack/bushwhack.json
+mods/data/bushwhack/mod.txt
+mods/Zardy/stages/ohshitTheSequal.json
+mods/Zardy/stages/ohshitTheSequal.lua
+mods/Zardy/custom_events/ZardyEvent.lua
+mods/Zardy/custom_events/shakey arrows complex.lua
+mods/Zardy/sounds/bf_grabbed_by_vine.ogg
+mods/Zardy/sounds/bf_vine_defeat.ogg
+mods/Zardy/sounds/bf_axe_chop.ogg
+mods/songs/bushwhack/Voices.ogg
+mods/songs/bushwhack/voices.ogg
+mods/songs/bushwhack/Inst.ogg
+mods/songs/bushwhack/inst.ogg

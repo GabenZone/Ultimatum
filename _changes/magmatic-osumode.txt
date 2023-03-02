@@ -1,0 +1,13 @@
+mods/data/magmatic/events.json
+mods/data/magmatic/gamestart.lua
+mods/data/magmatic/magmatic-hard.json
+mods/data/magmatic/mod.txt
+mods/data/magmatic/porting.lua
+mods/Impostor/stages/polus5.json
+mods/Impostor/stages/polus5.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/magmatic/Voices.ogg
+mods/songs/magmatic/voices.ogg
+mods/songs/magmatic/Inst.ogg
+mods/songs/magmatic/inst.ogg

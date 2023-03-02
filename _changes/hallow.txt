@@ -1,0 +1,23 @@
+mods/data/hallow/hallow-hard.json
+mods/data/hallow/mod.txt
+mods/data/hallow/modchart.lua
+mods/data/hallow/script.lua
+mods/Fever/characters/cesarDEMON.json
+mods/Fever/characters/hallow.json
+mods/Fever/characters/tea_painting.json
+mods/Fever/stages/spooky_hallow.json
+mods/Fever/stages/spooky_hallow.lua
+mods/Fever/images/characters/cesarDEMON.png
+mods/Fever/images/characters/cesarDEMON.xml
+mods/Fever/images/characters/Hallow.png
+mods/Fever/images/characters/Hallow.xml
+mods/Fever/images/characters/tea_painting.png
+mods/Fever/images/characters/tea_painting.xml
+mods/Fever/custom_notetypes/Attack Note.lua
+mods/Fever/images/week2bghallow.png
+mods/Fever/images/NOTE_HALLOW.png
+mods/Fever/images/NOTE_HALLOW.xml
+mods/songs/hallow/Voices.ogg
+mods/songs/hallow/voices.ogg
+mods/songs/hallow/Inst.ogg
+mods/songs/hallow/inst.ogg

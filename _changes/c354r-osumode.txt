@@ -1,0 +1,12 @@
+mods/data/c354r/c354r-hard.json
+mods/data/c354r/mod.txt
+mods/data/c354r/script.lua
+mods/data/c354r/script1.lua
+mods/Fever/stages/C354R.json
+mods/Fever/stages/C354R.lua
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/Fever/custom_events/Image Flash.lua
+mods/songs/c354r/Voices.ogg
+mods/songs/c354r/voices.ogg
+mods/songs/c354r/Inst.ogg
+mods/songs/c354r/inst.ogg

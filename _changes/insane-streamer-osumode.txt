@@ -1,0 +1,10 @@
+mods/data/insane-streamer/insane-streamer-hard.json
+mods/data/insane-streamer/mod.txt
+mods/Impostor/stages/jerma.json
+mods/Impostor/stages/jerma.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/songs/insane-streamer/Voices.ogg
+mods/songs/insane-streamer/voices.ogg
+mods/songs/insane-streamer/Inst.ogg
+mods/songs/insane-streamer/inst.ogg

@@ -1,0 +1,35 @@
+mods/data/sabotage/events.json
+mods/Impostor/characters/ghostgf.json
+mods/Impostor/images/characters/ghostgf.png
+mods/Impostor/images/characters/ghostgf.xml
+mods/data/sabotage/gamestart.lua
+mods/data/sabotage/mod.txt
+mods/data/sabotage/porting.lua
+mods/data/sabotage/sabotage-hard.json
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/sabotage.json
+mods/Impostor/characters/invisigf.json
+mods/Impostor/stages/polus2.json
+mods/Impostor/stages/polus2.lua
+mods/Impostor/images/characters/impostorS.png
+mods/Impostor/images/characters/impostorS.xml
+mods/Impostor/images/characters/invisigf.png
+mods/Impostor/images/characters/invisigf.xml
+mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
+mods/Impostor/images/polussus1/newsky.png
+mods/Impostor/images/polussus1/polusrocks.png
+mods/Impostor/images/polussus1/polusHills.png
+mods/Impostor/images/polussus1/polus_custom_lab.png
+mods/Impostor/images/polussus1/polus_custom_floor.png
+mods/Impostor/images/polussus1/speakerlonely.png
+mods/Impostor/images/polussus1/speakerlonely.xml
+mods/Impostor/images/polussus1/snowback.png
+mods/Impostor/images/polussus1/snowback.xml
+mods/Impostor/images/pets/dog.png
+mods/Impostor/images/pets/dog.xml
+mods/songs/sabotage/Voices.ogg
+mods/songs/sabotage/voices.ogg
+mods/songs/sabotage/Inst.ogg
+mods/songs/sabotage/inst.ogg

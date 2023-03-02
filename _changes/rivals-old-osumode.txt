@@ -1,0 +1,6 @@
+mods/data/rivals-old/mod.txt
+mods/data/rivals-old/rivals-old-hard.json
+mods/Impostor/stages/school.json
+mods/Impostor/stages/school.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/scripts/Version.lua
