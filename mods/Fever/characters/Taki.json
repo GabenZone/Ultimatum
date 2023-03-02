@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "takiidle"
+		},
+		{
+			"offsets": [
+				35,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "takileft"
+		},
+		{
+			"offsets": [
+				-5,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "takidown"
+		},
+		{
+			"offsets": [
+				5,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "takiup"
+		},
+		{
+			"offsets": [
+				-9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "takiright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Taki_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		82,
+		135
+	],
+	"camera_position": [
+		-90,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

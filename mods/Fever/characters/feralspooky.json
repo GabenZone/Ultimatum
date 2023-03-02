@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "feral dance idle"
+		},
+		{
+			"offsets": [
+				-53,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "feral DOWN note"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "feral note sing left"
+		},
+		{
+			"offsets": [
+				10,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "feral sing right"
+		},
+		{
+			"offsets": [
+				2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "feral UP NOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/feral_wee_assets",
+	"position": [
+		-440,
+		-310
+	],
+	"healthicon": "spookferal",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		60,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

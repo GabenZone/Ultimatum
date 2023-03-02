@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pepper Idle"
+		},
+		{
+			"offsets": [
+				293,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pepper Left"
+		},
+		{
+			"offsets": [
+				150,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pepper Down"
+		},
+		{
+			"offsets": [
+				14,
+				382
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pepper Up"
+		},
+		{
+			"offsets": [
+				-60,
+				373
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pepper Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dickbutt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		105,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

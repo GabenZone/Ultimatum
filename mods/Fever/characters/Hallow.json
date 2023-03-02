@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hallow idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				370
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hallow left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hallow down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				299
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hallow up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				347
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hallow right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hallow",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

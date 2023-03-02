@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.23,
+			"portrait": "TakiSprites",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "you will meet god"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feversprites",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "this bitch looks like a fucking egg"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"playVideo",
+						"ejected",
+						""
+					],
+					[
+						"Change HitHealth",
+						"0.020",
+						""
+					]
+				]
+			]
+		]
+	}
+}

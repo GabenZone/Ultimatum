@@ -1,0 +1,561 @@
+{
+	"song": {
+		"events": [
+			[
+				1200,
+				[
+					[
+						"flash",
+						"",
+						""
+					],
+				    [
+						"Change HitHealth",
+						"0.018",
+						""
+					]
+				]
+			],
+			[
+				10800,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Opponent Two",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Both Opponents",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				87590.625,
+				[
+					[
+						"Both Opponents",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Double Kill Events",
+						"airship",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Double Kill Events",
+						"brighten",
+						""
+					]
+				]
+			],
+			[
+				126009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.3"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				175470.12987013,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				192924.675324675,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				201651.948051948,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				211470.12987013,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				212015.584415584,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				212288.311688312,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				213174.675324675,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				213311.038961039,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblck"
+					]
+				]
+			],
+			[
+				213379.220779221,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				213515.584415584,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				215288.311688312,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				215492.857142857,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				215561.038961039,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				215833.766233766,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				217061.038961039,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				217129.220779221,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				217333.766233766,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				219651.948051948,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				219720.12987013,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				219924.675324675,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitedk"
+					]
+				]
+			],
+			[
+				220197.402597402,
+				[
+					[
+						"Change Character",
+						"1",
+						"whiteonlyblack"
+					]
+				]
+			],
+			[
+				228856.493506493,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitewithblack"
+					]
+				]
+			],
+			[
+				228924.675324675,
+				[
+					[
+						"Both Opponents",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246379.220779221,
+				[
+					[
+						"Double Kill Events",
+						"gonnakill",
+						""
+					]
+				]
+			],
+			[
+				246447.402597402,
+				[
+					[
+						"Opponent Two",
+						"",
+						""
+					]
+				]
+			],
+			[
+				246515.584415584,
+				[
+					[
+						"Opponent Two",
+						"readykill",
+						""
+					]
+				]
+			],
+			[
+				247470.12987013,
+				[
+					[
+						"Double Kill Events",
+						"readykill",
+						""
+					]
+				]
+			],
+			[
+				282379.220779221,
+				[
+					[
+						"Double Kill Events",
+						"kill",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				4800,
+				[
+					[
+						"Finale Flashback Change",
+						"moog",
+						""
+					],
+					[
+						"Change HitHealth",
+						"114514",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Finale Flashback Change",
+						"toog",
+						""
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Finale Flashback Change",
+						"doog",
+						""
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"Finale Flashback Change",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"HUD Fade",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Finale Drop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20409.375,
+				[
+					[
+						"Change Character",
+						"1",
+						"blackparasite"
+					],
+					[
+						"Change HitHealth",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Finale End",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148875,
+				[
+					[
+						"playVideo",
+						"credits3",
+						""
+					]
+				]
+			]
+		]
+	}
+}

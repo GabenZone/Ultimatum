@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				-174
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				-184
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF RIGHT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				-184
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				-178
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				-183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF LEFT NOTE instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bdbFever",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "oldcesar",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		40,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6.1
+}

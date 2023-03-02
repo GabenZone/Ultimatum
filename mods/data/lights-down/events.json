@@ -1,0 +1,671 @@
+{
+	"song": {
+		"events": [
+			[
+				22500,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				45176.4705882353,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				70499.9999999999,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				71294.1176470587,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				71999.9999999999,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				73411.7647058823,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				97411.7647058822,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				98823.5294117646,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				100235.294117647,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				104470.588235294,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				104823.529411765,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				105176.470588235,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				105529.411764706,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				106588.235294117,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				107294.117647059,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				127058.823529412,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				129882.352941176,
+				[
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					]
+				]
+			],
+			[
+				129999.470588235,
+				[
+					[
+						"Lights",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"whitebf"
+					],
+					[
+						"Change Character",
+						"1",
+						"whitegreen"
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Lights",
+						"b",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"gf-car"
+					],
+					[
+						"Change Character",
+						"1",
+						"impostor3"
+					],
+					[
+					    "Change Character",
+						"2",
+						"gf-car"
+					],
+					[
+						"bf venting",
+						"vent",
+						"vent"
+					],
+					[
+					    "Play Animation",
+						"liveReaction",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}
