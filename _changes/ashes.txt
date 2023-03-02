@@ -1,7 +1,6 @@
 mods/data/ashes/ashes-hard.json
 mods/data/ashes/gamestart.lua
 mods/data/ashes/mod.txt
-mods/data/ashes/porting.lua
 mods/Impostor/characters/bfpolus.json
 mods/Impostor/characters/maroon.json
 mods/Impostor/characters/gfpolus.json

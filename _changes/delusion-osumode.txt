@@ -3,7 +3,6 @@ mods/data/delusion/delusion-hard.json
 mods/data/delusion/events.json
 mods/data/delusion/gamestart.lua
 mods/data/delusion/mod.txt
-mods/data/delusion/porting.lua
 mods/Impostor/stages/grey.json
 mods/Impostor/stages/grey.lua
 mods/Impostor/custom_events/Reactor Beep.lua

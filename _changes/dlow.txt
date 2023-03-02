@@ -5,7 +5,6 @@ mods/Impostor/images/characters/bfshock.png
 mods/Impostor/images/characters/bfshock.xml
 mods/data/dlow/gamestart.lua
 mods/data/dlow/mod.txt
-mods/data/dlow/porting.lua
 mods/Impostor/characters/bf.json
 mods/Impostor/characters/yellow.json
 mods/Impostor/characters/gf.json

@@ -2,7 +2,6 @@ mods/data/dlow/dlow-hard.json
 mods/data/dlow/events.json
 mods/data/dlow/gamestart.lua
 mods/data/dlow/mod.txt
-mods/data/dlow/porting.lua
 mods/Impostor/stages/airshipRoom1.json
 mods/Impostor/stages/airshipRoom1.lua
 mods/Impostor/custom_events/flash.lua

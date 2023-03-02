@@ -19,9 +19,7 @@ mods/Impostor/characters/blackdk.json
 mods/Impostor/images/characters/blackdk.png
 mods/Impostor/images/characters/blackdk.xml
 mods/data/identity-crisis/identity-crisis-hard.json
-mods/data/identity-crisis/impostorUI.lua
 mods/data/identity-crisis/mod.txt
-mods/data/identity-crisis/porting.lua
 mods/data/identity-crisis/uiscret.lua
 mods/data/identity-crisis/uiunsecret.lua
 mods/Impostor/characters/bfscary.json

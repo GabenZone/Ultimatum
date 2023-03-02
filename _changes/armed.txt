@@ -2,7 +2,6 @@ mods/data/armed/armed-hard.json
 mods/data/armed/events.json
 mods/data/armed/gamestart.lua
 mods/data/armed/mod.txt
-mods/data/armed/porting.lua
 mods/data/armed/reginald.lua
 mods/data/armed/shit.lua
 mods/Impostor/characters/bf.json

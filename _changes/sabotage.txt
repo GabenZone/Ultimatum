@@ -4,7 +4,6 @@ mods/Impostor/images/characters/ghostgf.png
 mods/Impostor/images/characters/ghostgf.xml
 mods/data/sabotage/gamestart.lua
 mods/data/sabotage/mod.txt
-mods/data/sabotage/porting.lua
 mods/data/sabotage/sabotage-hard.json
 mods/Impostor/characters/bf.json
 mods/Impostor/characters/sabotage.json

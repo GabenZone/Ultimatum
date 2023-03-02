@@ -6,7 +6,6 @@ mods/Impostor/characters/hamster.json
 mods/Impostor/images/characters/hamster.png
 mods/Impostor/images/characters/hamster.xml
 mods/data/rivals/mod.txt
-mods/data/rivals/porting.lua
 mods/data/rivals/rivals-hard.json
 mods/Impostor/characters/bf-pixel.json
 mods/Impostor/characters/tomongus.json

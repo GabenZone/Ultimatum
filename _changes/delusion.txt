@@ -3,7 +3,6 @@ mods/data/delusion/delusion-hard.json
 mods/data/delusion/events.json
 mods/data/delusion/gamestart.lua
 mods/data/delusion/mod.txt
-mods/data/delusion/porting.lua
 mods/Impostor/characters/bfairship.json
 mods/Impostor/characters/grey.json
 mods/Impostor/characters/gfdead.json

@@ -2,7 +2,6 @@ mods/data/magmatic/events.json
 mods/data/magmatic/gamestart.lua
 mods/data/magmatic/magmatic-hard.json
 mods/data/magmatic/mod.txt
-mods/data/magmatic/porting.lua
 mods/Impostor/characters/bfpolus.json
 mods/Impostor/characters/maroon.json
 mods/Impostor/characters/gfpolus.json

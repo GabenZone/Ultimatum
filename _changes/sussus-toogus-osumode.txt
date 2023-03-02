@@ -1,7 +1,6 @@
 mods/data/sussus-toogus/events.json
 mods/data/sussus-toogus/gamestart.lua
 mods/data/sussus-toogus/mod.txt
-mods/data/sussus-toogus/porting.lua
 mods/data/sussus-toogus/sussus-toogus-hard.json
 mods/data/sussus-toogus/uiscret.lua
 mods/Impostor/stages/toogus.json

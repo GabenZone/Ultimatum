@@ -1,7 +1,6 @@
 mods/data/ashes/ashes-hard.json
 mods/data/ashes/gamestart.lua
 mods/data/ashes/mod.txt
-mods/data/ashes/porting.lua
 mods/Impostor/stages/polus5.json
 mods/Impostor/stages/polus5.lua
 mods/Impostor/scripts/Kade Engine's long note.lua

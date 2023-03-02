@@ -1,7 +1,6 @@
 mods/data/o2/events.json
 mods/data/o2/mod.txt
 mods/data/o2/o2-hard.json
-mods/data/o2/porting.lua
 mods/Impostor/stages/lounge.json
 mods/Impostor/stages/lounge.lua
 mods/Impostor/custom_events/Reactor Beep.lua

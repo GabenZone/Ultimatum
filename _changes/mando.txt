@@ -1,7 +1,6 @@
 mods/data/mando/gamestart.lua
 mods/data/mando/mando-hard.json
 mods/data/mando/mod.txt
-mods/data/mando/porting.lua
 mods/Impostor/characters/bf.json
 mods/Impostor/characters/yellow.json
 mods/Impostor/characters/gf.json

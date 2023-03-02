@@ -1,7 +1,6 @@
 mods/data/sabotage/events.json
 mods/data/sabotage/gamestart.lua
 mods/data/sabotage/mod.txt
-mods/data/sabotage/porting.lua
 mods/data/sabotage/sabotage-hard.json
 mods/Impostor/stages/polus2.json
 mods/Impostor/stages/polus2.lua

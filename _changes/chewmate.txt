@@ -1,6 +1,5 @@
 mods/data/chewmate/chewmate-hard.json
 mods/data/chewmate/mod.txt
-mods/data/chewmate/porting.lua
 mods/Impostor/characters/bfsus-pixel.json
 mods/Impostor/characters/hamster.json
 mods/Impostor/characters/gf-pixel.json
