@@ -1,9 +1,7 @@
 mods/data/sunshine-b3/mod.txt
 mods/data/sunshine-b3/script.lua
-mods/data/sunshine-b3/sunshine-b3-easy.json
 mods/data/sunshine-b3/sunshine-b3-getreal.json
 mods/data/sunshine-b3/sunshine-b3-hard.json
-mods/data/sunshine-b3/sunshine-b3.json
 mods/B3 Remixed/stages/sunshine.json
 mods/B3 Remixed/stages/sunshine.lua
 mods/B3 Remixed/scripts/Intro.lua

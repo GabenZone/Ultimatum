@@ -12,7 +12,6 @@ mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/esculent/Voices.ogg
 mods/songs/esculent/voices.ogg
 mods/songs/esculent/Inst.ogg

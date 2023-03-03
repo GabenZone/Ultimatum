@@ -5,7 +5,6 @@ mods/Impostor/stages/esculent.json
 mods/Impostor/stages/esculent.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/esculent/Voices.ogg
 mods/songs/esculent/voices.ogg
 mods/songs/esculent/Inst.ogg

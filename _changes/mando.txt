@@ -11,7 +11,6 @@ mods/Impostor/images/characters/yellow.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/newAirship/fartingSky.png
 mods/Impostor/images/newAirship/backSkyyellow.png
 mods/Impostor/images/newAirship/yellow cloud 3.png

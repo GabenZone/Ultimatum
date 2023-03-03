@@ -4,7 +4,6 @@ mods/data/sussus-nuzzus/sussus-nuzzus-hard.json
 mods/Impostor/stages/nuzzus.json
 mods/Impostor/stages/nuzzus.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/sussus-nuzzus/Voices.ogg
 mods/songs/sussus-nuzzus/voices.ogg
 mods/songs/sussus-nuzzus/Inst.ogg

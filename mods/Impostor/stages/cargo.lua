@@ -26,15 +26,7 @@ end
 function onCreatePost()
     setProperty('gf.alpha', 0);
     
-   setProperty('scoreTxt.visible', false)
-
-
-   --makeLuaTexts
-  makeLuaText('Watermark', 'Port by black,pillowslime001', 0, 4, getProperty('healthBarBG.y') + 58);
-
-  
-   --addLuaText
-   addLuaText('Watermark')
+   setProperty('scoreTxt.visible', true)
    
    --Text sizes
    setTextSize('Watermark', 16);

@@ -7,7 +7,6 @@ mods/Impostor/images/characters/redMungParasite.png
 mods/Impostor/images/characters/redMungParasite.xml
 mods/data/turbulence/frountcloud.lua
 mods/data/turbulence/gamestart.lua
-mods/data/turbulence/impostorUI.lua
 mods/data/turbulence/midclouds.lua
 mods/data/turbulence/mod.txt
 mods/data/turbulence/redshit.lua
@@ -23,7 +22,6 @@ mods/Impostor/images/characters/bf_turb.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/funny/turbsky.png
 mods/Impostor/images/funny/hotairballoon.png
 mods/Impostor/images/funny/backclouds.png

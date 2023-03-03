@@ -20,7 +20,6 @@ mods/Impostor/images/characters/gfPixel.png
 mods/Impostor/images/characters/gfPixel.xml
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/weeb/weebStreet.png
 mods/Impostor/images/weeb/stars.png
 mods/songs/rivals/Voices.ogg

@@ -20,7 +20,6 @@ mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/black.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/victory/fog_back.png
 mods/Impostor/images/victory/victorytext.png
 mods/Impostor/images/victory/victorytext.xml

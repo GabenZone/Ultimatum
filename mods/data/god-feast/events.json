@@ -7,41 +7,6 @@
 		"player3": null,
 		"events": [
 			[
-				0,
-				[
-					[
-						"Change Character",
-						"1",
-						"feast-x"
-					],
-					[
-						"Change Character",
-						"1",
-						"feast-mazin"
-					],
-					[
-						"Change Character",
-						"1",
-						"feast-exe"
-					],
-					[
-						"Change Character",
-						"1",
-						"feast-z"
-					],
-					[
-						"Change Character",
-						"1",
-						"feast-tenma"
-					],
-					[
-						"Change Character",
-						"1",
-						"feast-zeph"
-					]
-				]
-			],
-			[
 				75967.7419354839,
 				[
 					[

@@ -4,7 +4,6 @@ mods/data/chippin/mod.txt
 mods/Impostor/stages/piptowers.json
 mods/Impostor/stages/piptowers.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/chippin/Voices.ogg
 mods/songs/chippin/voices.ogg
 mods/songs/chippin/Inst.ogg

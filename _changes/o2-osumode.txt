@@ -5,7 +5,6 @@ mods/Impostor/stages/lounge.json
 mods/Impostor/stages/lounge.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/o2/Voices.ogg
 mods/songs/o2/voices.ogg
 mods/songs/o2/Inst.ogg

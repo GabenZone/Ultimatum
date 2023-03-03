@@ -8,7 +8,6 @@ mods/Impostor/stages/toogus1.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/custom_events/Lights.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/lights-down/Voices.ogg
 mods/songs/lights-down/voices.ogg
 mods/songs/lights-down/Inst.ogg

@@ -26,7 +26,6 @@ mods/Impostor/images/sus/BF_Defeat_Nomal.xml
 mods/Impostor/custom_events/Flashes Camera.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/defeat/stageback.png
 mods/Impostor/images/defeat/defeat.png
 mods/Impostor/images/defeat/defeat.xml

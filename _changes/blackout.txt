@@ -15,7 +15,6 @@ mods/Impostor/images/characters/gfdead.png
 mods/Impostor/images/characters/gfdead.xml
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/crazygrzy/graybg.png
 mods/Impostor/images/crazygrzy/grayfg.png
 mods/Impostor/images/crazygrzy/lightingpretender.png

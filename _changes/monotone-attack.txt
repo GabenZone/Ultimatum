@@ -20,7 +20,6 @@ mods/Impostor/stages/stage.json
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/monotone-attack/Voices.ogg
 mods/songs/monotone-attack/voices.ogg
 mods/songs/monotone-attack/Inst.ogg

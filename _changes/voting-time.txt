@@ -19,7 +19,6 @@ mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/flash.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/voting-time/Voices.ogg
 mods/songs/voting-time/voices.ogg
 mods/songs/voting-time/Inst.ogg

@@ -21,25 +21,18 @@ mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/playVideo.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
-mods/Impostor/images/finale/finaleFlashback.png
-mods/Impostor/images/finale/finaleFlashback.xml
-mods/Impostor/images/black.png
-mods/Impostor/images/iluminao omaga.png
+mods/Impostor/images/finale/iluminao omaga.png
 mods/Impostor/images/finale/bgg.png
-mods/Impostor/images/finale/bg.png
 mods/Impostor/images/finale/dead.png
+mods/Impostor/images/finale/bg.png
 mods/Impostor/images/finale/splat.png
 mods/Impostor/images/finale/fore.png
-mods/Impostor/images/finale/lamp.png
 mods/Impostor/images/finale/dark.png
+mods/Impostor/images/finale/lamp.png
 mods/Impostor/images/finale/light.png
 mods/Impostor/images/finale/light.xml
-mods/Impostor/images/healthBarFinaleBlue.png
-mods/Impostor/images/healthBarFinale.png
-mods/Impostor/images/healthBarFinale.xml
-mods/Impostor/images/icons/icon-blackFinale.png
-mods/Impostor/images/icons/icon-blackFinale.xml
+mods/Impostor/images/finale/first section.png
+mods/Impostor/images/DLOW_bg.png
 mods/songs/finale/Voices.ogg
 mods/songs/finale/voices.ogg
 mods/songs/finale/Inst.ogg

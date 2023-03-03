@@ -31,7 +31,6 @@ mods/Impostor/custom_events/Hide Hud.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/skeld/Floor.png
 mods/Impostor/images/skeld/Reactor.png
 mods/Impostor/images/skeld/Reactorlight.png

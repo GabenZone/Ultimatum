@@ -4,7 +4,6 @@ mods/data/chipping/mod.txt
 mods/Impostor/stages/piptowers.json
 mods/Impostor/stages/piptowers.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/chipping/Voices.ogg
 mods/songs/chipping/voices.ogg
 mods/songs/chipping/Inst.ogg

@@ -4,7 +4,6 @@ mods/data/torture/torture-hard.json
 mods/Impostor/stages/warehouse.json
 mods/Impostor/stages/warehouse.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/torture/Voices.ogg
 mods/songs/torture/voices.ogg
 mods/songs/torture/Inst.ogg

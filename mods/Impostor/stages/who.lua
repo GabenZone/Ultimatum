@@ -1,19 +1,7 @@
-
-local u = false;
-local r = 0;
-local shot = false;
-local agent = 1
-local health = 0;
-local xx = 1100;
-local yy = 1150;
-local xx2 = 1100;
-local yy2 = 1150;
-local ofs = 0;
-local followchars = true;
-local del = 0;
-local del2 = 0;
 function onCreate()
 
+	makeLuaSprite('deadguy', 'deadguy', 0, 100);
+	addLuaSprite('deadguy', false);
 end
 
 
@@ -93,4 +81,3 @@ function onUpdate()
 		followchars = true
 	end
 end
-

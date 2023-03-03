@@ -10,7 +10,6 @@ mods/Impostor/stages/airship.json
 mods/Impostor/stages/airship.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/danger/Voices.ogg
 mods/songs/danger/voices.ogg
 mods/songs/danger/Inst.ogg

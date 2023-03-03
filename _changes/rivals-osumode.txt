@@ -5,7 +5,6 @@ mods/Impostor/stages/weeb.json
 mods/Impostor/stages/weeb.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/rivals/Voices.ogg
 mods/songs/rivals/voices.ogg
 mods/songs/rivals/Inst.ogg

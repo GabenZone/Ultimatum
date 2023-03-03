@@ -12,7 +12,6 @@ mods/Impostor/images/characters/idk.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/idk/Voices.ogg
 mods/songs/idk/voices.ogg
 mods/songs/idk/Inst.ogg

@@ -1,4 +1,3 @@
 mods/data/stealth/mod.txt
 mods/data/stealth/stealth-hard.json
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua

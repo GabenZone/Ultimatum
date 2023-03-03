@@ -3,7 +3,6 @@ mods/data/sussy-bussy/sussy-bussy-hard.json
 mods/Impostor/stages/weeb.json
 mods/Impostor/stages/weeb.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/sussy-bussy/Voices.ogg
 mods/songs/sussy-bussy/voices.ogg
 mods/songs/sussy-bussy/Inst.ogg

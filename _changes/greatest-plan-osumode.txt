@@ -7,7 +7,6 @@ mods/data/greatest-plan/mod.txt
 mods/Impostor/stages/charles.json
 mods/Impostor/stages/charles.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/greatest-plan/Voices.ogg
 mods/songs/greatest-plan/voices.ogg
 mods/songs/greatest-plan/Inst.ogg

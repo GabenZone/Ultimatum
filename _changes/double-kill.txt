@@ -22,7 +22,6 @@ mods/Impostor/custom_events/flash.lua
 mods/Impostor/custom_events/icon change.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/newAirship/cargo.png
 mods/Impostor/images/icons/icon-black.png
 mods/Impostor/images/icons/icon-whiteblack.png

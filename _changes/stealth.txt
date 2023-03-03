@@ -5,4 +5,3 @@ mods/Impostor/characters/mom-car.json
 mods/Impostor/images/characters/bfCar.png
 mods/Impostor/images/characters/bfCar.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua

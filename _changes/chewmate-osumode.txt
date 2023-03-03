@@ -3,7 +3,6 @@ mods/data/chewmate/mod.txt
 mods/Impostor/stages/weeb.json
 mods/Impostor/stages/weeb.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/chewmate/Voices.ogg
 mods/songs/chewmate/voices.ogg
 mods/songs/chewmate/Inst.ogg

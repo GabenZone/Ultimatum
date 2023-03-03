@@ -10,7 +10,6 @@ mods/Impostor/stages/defeat.lua
 mods/Impostor/custom_events/Flashes Camera.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/defeat/Voices.ogg
 mods/songs/defeat/voices.ogg
 mods/songs/defeat/Inst.ogg

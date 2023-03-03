@@ -19,7 +19,7 @@ mods/Impostor/stages/who.lua
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
+mods/Impostor/images/deadguy.png
 mods/songs/who/Voices.ogg
 mods/songs/who/voices.ogg
 mods/songs/who/Inst.ogg

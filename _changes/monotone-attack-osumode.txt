@@ -6,7 +6,6 @@ mods/Impostor/stages/attack.json
 mods/Impostor/stages/attack.lua
 mods/Impostor/stages/stage.json
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/monotone-attack/Voices.ogg
 mods/songs/monotone-attack/voices.ogg
 mods/songs/monotone-attack/Inst.ogg

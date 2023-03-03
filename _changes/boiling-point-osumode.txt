@@ -6,7 +6,6 @@ mods/data/boiling-point/part.lua
 mods/Impostor/stages/polus4.json
 mods/Impostor/stages/polus4.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/boiling-point/Voices.ogg
 mods/songs/boiling-point/voices.ogg
 mods/songs/boiling-point/Inst.ogg

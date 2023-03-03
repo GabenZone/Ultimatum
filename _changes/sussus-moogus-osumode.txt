@@ -6,7 +6,6 @@ mods/Impostor/stages/polus.json
 mods/Impostor/stages/polus.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/sussus-moogus/Voices.ogg
 mods/songs/sussus-moogus/voices.ogg
 mods/songs/sussus-moogus/Inst.ogg

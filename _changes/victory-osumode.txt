@@ -7,7 +7,6 @@ mods/Impostor/stages/victory.json
 mods/Impostor/stages/victory.lua
 mods/Impostor/custom_events/black.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/victory/Voices.ogg
 mods/songs/victory/voices.ogg
 mods/songs/victory/Inst.ogg

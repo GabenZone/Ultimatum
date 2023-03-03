@@ -10,7 +10,6 @@ mods/Impostor/images/characters/Jerma.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/insane-streamer/Voices.ogg
 mods/songs/insane-streamer/voices.ogg
 mods/songs/insane-streamer/Inst.ogg

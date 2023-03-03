@@ -19,7 +19,6 @@ mods/Impostor/characters/henrywith.json
 mods/Impostor/custom_notetypes/Gf wit Opponent Specific Note.lua
 mods/Impostor/custom_events/playVideo.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/stagehenry.png
 mods/Impostor/images/gf.png
 mods/Impostor/images/gf.xml

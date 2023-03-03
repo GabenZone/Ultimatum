@@ -6,7 +6,6 @@ mods/Impostor/stages/grey.json
 mods/Impostor/stages/grey.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/neurotic/Voices.ogg
 mods/songs/neurotic/voices.ogg
 mods/songs/neurotic/Inst.ogg

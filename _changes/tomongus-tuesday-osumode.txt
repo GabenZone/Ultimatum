@@ -4,7 +4,6 @@ mods/data/tomongus-tuesday/tomongus-tuesday-hard.json
 mods/Impostor/stages/tomtus.json
 mods/Impostor/stages/tomtus.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/songs/tomongus-tuesday/Voices.ogg
 mods/songs/tomongus-tuesday/voices.ogg
 mods/songs/tomongus-tuesday/Inst.ogg

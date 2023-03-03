@@ -12,7 +12,6 @@ mods/Impostor/images/characters/jollyFella.xml
 mods/Impostor/images/characters/gfmira.png
 mods/Impostor/images/characters/gfmira.xml
 mods/Impostor/scripts/Kade Engine's long note.lua
-mods/Impostor/scripts/Version.lua
 mods/Impostor/images/loggo/space.png
 mods/Impostor/images/loggo/placeholder Hell.png
 mods/Impostor/images/loggo/people.png
