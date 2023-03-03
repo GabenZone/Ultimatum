@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "MonikaIdle"
+			"fps": 24,
+			"name": "MonikaIdle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				-1
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-16,
+				-7
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "MonikaRight"
+			"fps": 24,
+			"name": "MonikaRight",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				-15
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				20,
+				6
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "MonikaLeft"
+			"fps": 24,
+			"name": "MonikaLeft",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				14
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-20,
+				-7
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "MonikaUp"
+			"fps": 24,
+			"name": "MonikaUp",
+			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				-49
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-19,
+				-13
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "MonikaDown"
+			"fps": 24,
+			"name": "MonikaDown",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
