@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MONIKA IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MONIKA LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MONIKA DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MONIKA UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MONIKA RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "MONIKA LEFT GLITCH"
+		},
+		{
+			"offsets": [
+				60,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "MONIKA DOWN GLITCH0"
+		},
+		{
+			"offsets": [
+				60,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "MONIKA UP GLITCH0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "MONIKA RIGHT GLITCH"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Monika_Finale",
+	"position": [
+		210,
+		300
+	],
+	"healthicon": "monika-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		206,
+		255
+	],
+	"camera_position": [
+		-600,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 7.2
+}

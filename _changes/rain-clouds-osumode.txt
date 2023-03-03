@@ -1,0 +1,12 @@
+mods/data/rain-clouds/mod.txt
+mods/data/rain-clouds/rain-clouds-hard.json
+mods/DokiTakeover/stages/dokiclubroom.json
+mods/DokiTakeover/stages/dokiclubroom.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/rain-clouds/Voices.ogg
+mods/songs/rain-clouds/voices.ogg
+mods/songs/rain-clouds/Inst.ogg
+mods/songs/rain-clouds/inst.ogg

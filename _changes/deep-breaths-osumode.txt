@@ -1,0 +1,14 @@
+mods/data/deep-breaths/deep-breaths-hard.json
+mods/data/deep-breaths/events.json
+mods/data/deep-breaths/mod.txt
+mods/DokiTakeover/stages/dokiclubroom.json
+mods/DokiTakeover/stages/dokiclubroom.lua
+mods/DokiTakeover/custom_events/YuriStars.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/deep-breaths/Voices.ogg
+mods/songs/deep-breaths/voices.ogg
+mods/songs/deep-breaths/Inst.ogg
+mods/songs/deep-breaths/inst.ogg

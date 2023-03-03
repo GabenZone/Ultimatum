@@ -1,0 +1,12 @@
+mods/data/my-sweets/mod.txt
+mods/data/my-sweets/my-sweets-hard.json
+mods/DokiTakeover/stages/dokiclubroom.json
+mods/DokiTakeover/stages/dokiclubroom.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/my-sweets/Voices.ogg
+mods/songs/my-sweets/voices.ogg
+mods/songs/my-sweets/Inst.ogg
+mods/songs/my-sweets/inst.ogg

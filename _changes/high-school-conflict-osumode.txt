@@ -1,0 +1,12 @@
+mods/data/high-school-conflict/high-school-conflict-hard.json
+mods/data/high-school-conflict/mod.txt
+mods/DokiTakeover/stages/school-customized.json
+mods/DokiTakeover/stages/school-customized.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/high-school-conflict/Voices.ogg
+mods/songs/high-school-conflict/voices.ogg
+mods/songs/high-school-conflict/Inst.ogg
+mods/songs/high-school-conflict/inst.ogg

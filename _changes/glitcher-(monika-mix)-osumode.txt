@@ -1,0 +1,11 @@
+mods/data/glitcher-(monika-mix)/glitcher-(monika-mix)-hard.json
+mods/data/glitcher-(monika-mix)/mod.txt
+mods/data/glitcher-(monika-mix)/script.lua
+mods/DokiTakeover/stages/dokiglitcher.json
+mods/DokiTakeover/stages/dokiglitcher.lua
+mods/DokiTakeover/scripts/deathanim.lua
+mods/DokiTakeover/scripts/noteCounter.lua
+mods/songs/glitcher-(monika-mix)/Voices.ogg
+mods/songs/glitcher-(monika-mix)/voices.ogg
+mods/songs/glitcher-(monika-mix)/Inst.ogg
+mods/songs/glitcher-(monika-mix)/inst.ogg
