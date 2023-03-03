@@ -1,14 +1,11 @@
 mods/data/deep-poems/deep-poems.json
 mods/data/deep-poems/mod.txt
 mods/Hotline 024/characters/nikku_ddto.json
-mods/Hotline 024/characters/monika.json
 mods/Hotline 024/characters/yuri.json
 mods/Hotline 024/stages/ddto.json
 mods/Hotline 024/stages/ddto.lua
 mods/Hotline 024/images/characters/NIKKU_MONSTAGE.png
 mods/Hotline 024/images/characters/NIKKU_MONSTAGE.xml
-mods/Hotline 024/images/characters/monika.png
-mods/Hotline 024/images/characters/monika.xml
 mods/Hotline 024/images/characters/Yuri.png
 mods/Hotline 024/images/characters/Yuri.xml
 mods/Hotline 024/scripts/Death.lua
