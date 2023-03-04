@@ -8,8 +8,8 @@ mods/Fever/stages/church.json
 mods/Fever/stages/church.lua
 mods/Fever/images/characters/cesarDEMON.png
 mods/Fever/images/characters/cesarDEMON.xml
-mods/Fever/images/characters/Taki_Assets.png
-mods/Fever/images/characters/Taki_Assets.xml
+mods/Fever/images/characters/taki_assets.png
+mods/Fever/images/characters/taki_assets.xml
 mods/Fever/images/characters/tea_Assets.png
 mods/Fever/images/characters/tea_Assets.xml
 mods/Fever/custom_events/Set Cam Zoom.lua
