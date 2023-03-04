@@ -1,4 +1,3 @@
-mods/data/south-bside/SongIntroB-Side.lua
 mods/data/south-bside/south-bside-flip.json
 mods/songs/south-bside/Voices.ogg
 mods/songs/south-bside/voices.ogg

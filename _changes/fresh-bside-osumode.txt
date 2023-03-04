@@ -1,6 +1,5 @@
 mods/data/fresh-bside/fresh-bside-flip.json
 mods/data/fresh-bside/mod.txt
-mods/data/fresh-bside/SongIntroB-Side.lua
 mods/B-Sides/stages/stage-b.json
 mods/B-Sides/stages/stage-b.lua
 mods/B-Sides/scripts/coloredRatings.lua

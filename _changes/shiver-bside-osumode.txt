@@ -1,7 +1,6 @@
 mods/data/shiver-bside/events.json
 mods/data/shiver-bside/mod.txt
 mods/data/shiver-bside/shiver-bside-flip.json
-mods/data/shiver-bside/SongIntroB-Side.lua
 mods/B-Sides/stages/phantom-arcade-evil.json
 mods/B-Sides/stages/phantom-arcade-evil.lua
 mods/B-Sides/custom_events/Lyrics.lua

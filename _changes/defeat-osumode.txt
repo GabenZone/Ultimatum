@@ -1,9 +1,6 @@
-mods/data/defeat/defeat-easy.json
 mods/data/defeat/defeat-hard.json
-mods/data/defeat/defeat.json
 mods/data/defeat/events.json
 mods/data/defeat/mod.txt
-mods/data/defeat/modchart.lua
 mods/data/defeat/script.lua
 mods/Impostor/stages/defeat.json
 mods/Impostor/stages/defeat.lua

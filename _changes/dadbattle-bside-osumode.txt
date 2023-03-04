@@ -1,7 +1,6 @@
 mods/data/dadbattle-bside/dadbattle-bside-flip.json
 mods/data/dadbattle-bside/events.json
 mods/data/dadbattle-bside/mod.txt
-mods/data/dadbattle-bside/SongIntroB-Side.lua
 mods/B-Sides/stages/stage-b-dark.json
 mods/B-Sides/stages/stage-b-dark.lua
 mods/B-Sides/custom_events/Flash Camera.lua

@@ -1,7 +1,5 @@
-mods/data/dessert/dessert-easy.json
 mods/data/dessert/dessert-getreal.json
 mods/data/dessert/dessert-hard.json
-mods/data/dessert/dessert.json
 mods/data/dessert/events.json
 mods/B3 Remixed/characters/torment.json
 mods/B3 Remixed/images/characters/Monster_B3_GF.png
@@ -22,9 +20,6 @@ mods/B3 Remixed/stages/room.json
 mods/B3 Remixed/stages/room.lua
 mods/B3 Remixed/images/characters/shaya_mini.png
 mods/B3 Remixed/images/characters/shaya_mini.xml
-mods/B3 Remixed/characters/bf-sad.json
-mods/B3 Remixed/images/characters/B3_BF_SAD.png
-mods/B3 Remixed/images/characters/B3_BF_SAD.xml
 mods/B3 Remixed/scripts/Intro.lua
 mods/B3 Remixed/images/halloween/room.png
 mods/B3 Remixed/images/halloween/windowcity.png

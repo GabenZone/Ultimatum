@@ -1,7 +1,6 @@
 mods/data/ugh-bside/events.json
 mods/data/ugh-bside/mod.txt
 mods/data/ugh-bside/script1.lua
-mods/data/ugh-bside/SongIntroB-Side.lua
 mods/data/ugh-bside/ugh-bside-flip.json
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/tankman.json

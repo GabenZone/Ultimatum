@@ -1,7 +1,5 @@
-mods/data/dad-battle-b3/dad-battle-b3-easy.json
 mods/data/dad-battle-b3/dad-battle-b3-getreal.json
 mods/data/dad-battle-b3/dad-battle-b3-hard.json
-mods/data/dad-battle-b3/dad-battle-b3.json
 mods/data/dad-battle-b3/events.json
 mods/data/dad-battle-b3/mod.txt
 mods/B3 Remixed/stages/stage-b3.json

@@ -1,4 +1,3 @@
-mods/data/spookeez-bside/SongIntroB-Side.lua
 mods/data/spookeez-bside/spookeez-bside-flip.json
 mods/songs/spookeez-bside/Voices.ogg
 mods/songs/spookeez-bside/voices.ogg

@@ -2,7 +2,6 @@ mods/data/guns-bside/guns-bside-flip.json
 mods/data/guns-bside/mod.txt
 mods/data/guns-bside/script.lua
 mods/data/guns-bside/script1.lua
-mods/data/guns-bside/SongIntroB-Side.lua
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/tankman.json
 mods/B-Sides/characters/gf-bat.json

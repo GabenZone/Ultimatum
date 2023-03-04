@@ -1,7 +1,5 @@
 mods/data/detonator/camera.lua
-mods/data/detonator/detonator-easy.json
 mods/data/detonator/detonator-hard.json
-mods/data/detonator/detonator.json
 mods/data/detonator/mod.txt
 mods/Aside/characters/bf.json
 mods/Aside/characters/aside-whitty.json

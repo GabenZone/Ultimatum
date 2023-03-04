@@ -1,6 +1,4 @@
-mods/data/dguy/dguy-easy.json
 mods/data/dguy/dguy-hard.json
-mods/data/dguy/dguy.json
 mods/data/dguy/mod.txt
 mods/data/dguy/script death animation.lua
 mods/D-Sides/stages/feddy.json

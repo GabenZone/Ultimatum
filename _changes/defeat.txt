@@ -1,6 +1,4 @@
-mods/data/defeat/defeat-easy.json
 mods/data/defeat/defeat-hard.json
-mods/data/defeat/defeat.json
 mods/data/defeat/events.json
 mods/Impostor/characters/bf-miedoso.json
 mods/Impostor/images/sus/BF_Defeat_Scared.png
@@ -13,16 +11,15 @@ mods/Impostor/characters/black.json
 mods/Impostor/images/sus/black.png
 mods/Impostor/images/sus/black.xml
 mods/data/defeat/mod.txt
-mods/data/defeat/modchart.lua
 mods/data/defeat/script.lua
+mods/Impostor/characters/bf-preocupado.json
 mods/Impostor/characters/gf.json
 mods/Impostor/stages/defeat.json
 mods/Impostor/stages/defeat.lua
-mods/Impostor/images/characters/GF_assets.png
-mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/characters/bf-preocupado.json
 mods/Impostor/images/sus/BF_Defeat_Nomal.png
 mods/Impostor/images/sus/BF_Defeat_Nomal.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/Flashes Camera.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/scripts/Kade Engine's long note.lua

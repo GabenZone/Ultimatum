@@ -1,7 +1,5 @@
-mods/data/diva/diva-easy.json
 mods/data/diva/diva-getreal.json
 mods/data/diva/diva-hard.json
-mods/data/diva/diva.json
 mods/data/diva/mod.txt
 mods/B3 Remixed/characters/bf.json
 mods/B3 Remixed/characters/mia.json

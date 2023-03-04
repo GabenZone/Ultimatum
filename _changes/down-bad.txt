@@ -1,11 +1,6 @@
-mods/data/down-bad/down-bad-baby.json
-mods/data/down-bad/down-bad-easy.json
 mods/data/down-bad/down-bad-hard.json
-mods/data/down-bad/down-bad.json
 mods/data/down-bad/mod.txt
-mods/data/down-bad/modchart.lua
 mods/data/down-bad/script.lua
-mods/Fever/stages/stage.lua
 mods/Fever/characters/cesarDEMON.json
 mods/Fever/characters/pea-sussy.json
 mods/Fever/characters/tea.json
@@ -20,7 +15,6 @@ mods/Fever/images/characters/tea_Assets.xml
 mods/Fever/images/stageback.png
 mods/Fever/images/stagefront.png
 mods/Fever/images/stage_light.png
-mods/Fever/images/stagecurtains.png
 mods/Fever/images/stagecurtainsDOWNBAD.png
 mods/songs/down-bad/Voices.ogg
 mods/songs/down-bad/voices.ogg

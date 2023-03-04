@@ -1,6 +1,5 @@
 mods/data/fresh-bside/fresh-bside-flip.json
 mods/data/fresh-bside/mod.txt
-mods/data/fresh-bside/SongIntroB-Side.lua
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/dad.json
 mods/B-Sides/characters/gf.json

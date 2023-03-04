@@ -1,6 +1,4 @@
-mods/data/dad-battle/dad-battle-easy.json
 mods/data/dad-battle/dad-battle-hard.json
-mods/data/dad-battle/dad-battle.json
 mods/data/dad-battle/events.json
 mods/data/dad-battle/mod.txt
 mods/Vanilla/stages/stagev2.json

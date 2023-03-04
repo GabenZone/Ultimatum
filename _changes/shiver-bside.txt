@@ -7,7 +7,6 @@ mods/B-Sides/images/characters/oof.png
 mods/B-Sides/images/characters/oof.xml
 mods/data/shiver-bside/mod.txt
 mods/data/shiver-bside/shiver-bside-flip.json
-mods/data/shiver-bside/SongIntroB-Side.lua
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/spooky.json
 mods/B-Sides/characters/gf.json

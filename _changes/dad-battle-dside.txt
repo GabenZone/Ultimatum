@@ -1,6 +1,4 @@
-mods/data/dad-battle-dside/dad-battle-dside-easy.json
 mods/data/dad-battle-dside/dad-battle-dside-hard.json
-mods/data/dad-battle-dside/dad-battle-dside.json
 mods/data/dad-battle-dside/events.json
 mods/data/dad-battle-dside/mod.txt
 mods/D-Sides/characters/bfdark.json

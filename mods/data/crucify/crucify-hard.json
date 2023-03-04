@@ -6881,7 +6881,7 @@
 			}
 		],
 		"player2": "Taki",
-		"player3": null,
+		"gfVersion": "gf",
 		"song": "Crucify",
 		"stage": "week2bgtaki",
 		"needsVoices": true,

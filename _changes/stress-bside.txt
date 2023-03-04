@@ -7,7 +7,6 @@ mods/data/stress-bside/script.lua
 mods/data/stress-bside/script1.lua
 mods/data/stress-bside/script2.lua
 mods/data/stress-bside/script3.lua
-mods/data/stress-bside/SongIntroB-Side.lua
 mods/data/stress-bside/stress-bside-flip.json
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/tankman.json

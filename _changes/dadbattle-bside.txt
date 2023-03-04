@@ -10,7 +10,6 @@ mods/B-Sides/characters/dark-gf.json
 mods/B-Sides/images/characters/GF-darkstage.png
 mods/B-Sides/images/characters/GF-darkstage.xml
 mods/data/dadbattle-bside/mod.txt
-mods/data/dadbattle-bside/SongIntroB-Side.lua
 mods/B-Sides/characters/bf.json
 mods/B-Sides/characters/dad.json
 mods/B-Sides/characters/gf.json
