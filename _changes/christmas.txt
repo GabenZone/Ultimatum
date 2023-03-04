@@ -1,0 +1,24 @@
+mods/data/christmas/christmas-hard.json
+mods/data/christmas/mod.txt
+mods/Impostor/characters/bf-christmas.json
+mods/Impostor/characters/fella.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/loggo.json
+mods/Impostor/stages/loggo.lua
+mods/Impostor/images/characters/bfChristmas.png
+mods/Impostor/images/characters/bfChristmas.xml
+mods/Impostor/images/characters/fella.png
+mods/Impostor/images/characters/fella.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/loggo/space.png
+mods/Impostor/images/loggo/placeholder Hell.png
+mods/Impostor/images/loggo/people.png
+mods/Impostor/images/loggo/people.xml
+mods/Impostor/images/loggo/stockingFire.png
+mods/Impostor/images/loggo/stockingFire.xml
+mods/songs/christmas/Voices.ogg
+mods/songs/christmas/voices.ogg
+mods/songs/christmas/Inst.ogg
+mods/songs/christmas/inst.ogg

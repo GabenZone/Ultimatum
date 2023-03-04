@@ -1,0 +1,20 @@
+mods/data/chewmate/chewmate-hard.json
+mods/data/chewmate/mod.txt
+mods/Impostor/characters/bfsus-pixel.json
+mods/Impostor/characters/hamster.json
+mods/Impostor/characters/gf-pixel.json
+mods/Impostor/stages/weeb.json
+mods/Impostor/stages/weeb.lua
+mods/Impostor/images/characters/bfSus.png
+mods/Impostor/images/characters/bfSus.xml
+mods/Impostor/images/characters/hamster.png
+mods/Impostor/images/characters/hamster.xml
+mods/Impostor/images/characters/gfPixel.png
+mods/Impostor/images/characters/gfPixel.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/weeb/weebStreet.png
+mods/Impostor/images/weeb/stars.png
+mods/songs/chewmate/Voices.ogg
+mods/songs/chewmate/voices.ogg
+mods/songs/chewmate/Inst.ogg
+mods/songs/chewmate/inst.ogg

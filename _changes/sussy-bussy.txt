@@ -1,0 +1,20 @@
+mods/data/sussy-bussy/mod.txt
+mods/data/sussy-bussy/sussy-bussy-hard.json
+mods/Impostor/characters/bf-pixel.json
+mods/Impostor/characters/tomongus.json
+mods/Impostor/characters/gf-pixel.json
+mods/Impostor/stages/weeb.json
+mods/Impostor/stages/weeb.lua
+mods/Impostor/images/characters/bfPixel.png
+mods/Impostor/images/characters/bfPixel.xml
+mods/Impostor/images/characters/tomongus.png
+mods/Impostor/images/characters/tomongus.xml
+mods/Impostor/images/characters/gfPixel.png
+mods/Impostor/images/characters/gfPixel.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/weeb/weebStreet.png
+mods/Impostor/images/weeb/stars.png
+mods/songs/sussy-bussy/Voices.ogg
+mods/songs/sussy-bussy/voices.ogg
+mods/songs/sussy-bussy/Inst.ogg
+mods/songs/sussy-bussy/inst.ogg

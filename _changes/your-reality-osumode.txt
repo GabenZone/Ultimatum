@@ -1,0 +1,12 @@
+mods/data/your-reality/mod.txt
+mods/data/your-reality/your-reality-hard.json
+mods/DokiTakeover/stages/school-customized.json
+mods/DokiTakeover/stages/school-customized.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/your-reality/Voices.ogg
+mods/songs/your-reality/voices.ogg
+mods/songs/your-reality/Inst.ogg
+mods/songs/your-reality/inst.ogg

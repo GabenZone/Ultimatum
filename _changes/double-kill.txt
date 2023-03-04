@@ -1,0 +1,31 @@
+mods/data/double-kill/bfisscred.lua
+mods/data/double-kill/double-kill-hard.json
+mods/data/double-kill/events.json
+mods/Impostor/characters/whiteonlyblack.json
+mods/Impostor/images/characters/whitedk.png
+mods/Impostor/images/characters/whitedk.xml
+mods/Impostor/characters/whitedk.json
+mods/Impostor/characters/whitewithblack.json
+mods/data/double-kill/mod.txt
+mods/data/double-kill/Whitebox.lua
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/blackdk.json
+mods/Impostor/stages/cargo.json
+mods/Impostor/stages/cargo.lua
+mods/Impostor/images/characters/blackdk.png
+mods/Impostor/images/characters/blackdk.xml
+mods/Impostor/characters/bf-defeat-normal.json
+mods/Impostor/images/characters/BF_Defeat_Nomal.png
+mods/Impostor/images/characters/BF_Defeat_Nomal.xml
+mods/Impostor/custom_notetypes/Gf wit Opponent Specific Note.lua
+mods/Impostor/custom_events/flash.lua
+mods/Impostor/custom_events/icon change.lua
+mods/Impostor/custom_events/Change HitHealth.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/newAirship/cargo.png
+mods/Impostor/images/icons/icon-black.png
+mods/Impostor/images/icons/icon-whiteblack.png
+mods/songs/double-kill/Voices.ogg
+mods/songs/double-kill/voices.ogg
+mods/songs/double-kill/Inst.ogg
+mods/songs/double-kill/inst.ogg

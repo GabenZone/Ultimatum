@@ -1,0 +1,23 @@
+mods/data/chippin/chippin-hard.json
+mods/data/chippin/events.json
+mods/Impostor/characters/pip_evil.json
+mods/Impostor/images/characters/pip_evil.png
+mods/Impostor/images/characters/pip_evil.xml
+mods/data/chippin/mod.txt
+mods/Impostor/characters/pip.json
+mods/Impostor/characters/cval.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/piptowers.json
+mods/Impostor/stages/piptowers.lua
+mods/Impostor/images/characters/pip.png
+mods/Impostor/images/characters/pip.xml
+mods/Impostor/images/characters/cval.png
+mods/Impostor/images/characters/cval.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/back.png
+mods/songs/chippin/Voices.ogg
+mods/songs/chippin/voices.ogg
+mods/songs/chippin/Inst.ogg
+mods/songs/chippin/inst.ogg

@@ -1,0 +1,27 @@
+mods/data/sussus-toogus/events.json
+mods/data/sussus-toogus/gamestart.lua
+mods/data/sussus-toogus/mod.txt
+mods/data/sussus-toogus/sussus-toogus-hard.json
+mods/data/sussus-toogus/uiscret.lua
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/crewmate.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/toogus.json
+mods/Impostor/stages/toogus.lua
+mods/Impostor/images/characters/crewmate.png
+mods/Impostor/images/characters/crewmate.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/custom_events/Add Animated Overlay.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/mirabg.png
+mods/Impostor/images/mirafg.png
+mods/Impostor/images/table_bg.png
+mods/Impostor/images/mira/cyan_toogus.png
+mods/Impostor/images/mira/cyan_toogus.xml
+mods/Impostor/images/pets/frankendog.png
+mods/Impostor/images/pets/frankendog.xml
+mods/songs/sussus-toogus/Voices.ogg
+mods/songs/sussus-toogus/voices.ogg
+mods/songs/sussus-toogus/Inst.ogg
+mods/songs/sussus-toogus/inst.ogg

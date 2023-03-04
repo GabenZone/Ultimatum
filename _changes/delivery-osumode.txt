@@ -1,0 +1,9 @@
+mods/data/delivery/camera.lua
+mods/data/delivery/delivery-hard.json
+mods/data/delivery/mod.txt
+mods/Aside/stages/mcDonalds.json
+mods/Aside/stages/mcDonalds.lua
+mods/songs/delivery/Voices.ogg
+mods/songs/delivery/voices.ogg
+mods/songs/delivery/Inst.ogg
+mods/songs/delivery/inst.ogg

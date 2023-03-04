@@ -1,0 +1,12 @@
+mods/data/sabotage/events.json
+mods/data/sabotage/gamestart.lua
+mods/data/sabotage/mod.txt
+mods/data/sabotage/sabotage-hard.json
+mods/Impostor/stages/polus2.json
+mods/Impostor/stages/polus2.lua
+mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/sabotage/Voices.ogg
+mods/songs/sabotage/voices.ogg
+mods/songs/sabotage/Inst.ogg
+mods/songs/sabotage/inst.ogg

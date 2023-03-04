@@ -1,0 +1,12 @@
+mods/data/milf-dside/events.json
+mods/data/milf-dside/milf-dside-easy.json
+mods/data/milf-dside/milf-dside-hard.json
+mods/data/milf-dside/milf-dside.json
+mods/data/milf-dside/mod.txt
+mods/D-Sides/stages/darklimo.json
+mods/D-Sides/stages/darklimo.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/songs/milf-dside/Voices.ogg
+mods/songs/milf-dside/voices.ogg
+mods/songs/milf-dside/Inst.ogg
+mods/songs/milf-dside/inst.ogg

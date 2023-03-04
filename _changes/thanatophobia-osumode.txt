@@ -1,0 +1,23 @@
+mods/data/thanatophobia/cinematica.lua
+mods/data/thanatophobia/events.json
+mods/data/thanatophobia/mod.txt
+mods/data/thanatophobia/thanatophobia.json
+mods/Trollge/stages/stagexd.json
+mods/Trollge/stages/stagexd.lua
+mods/Trollge/custom_notetypes/speed_notes.lua
+mods/Trollge/custom_notetypes/rotate_notes.lua
+mods/Trollge/custom_notetypes/shadow_notes.lua
+mods/Trollge/custom_notetypes/notesdrain.lua
+mods/Trollge/custom_events/FlashX.lua
+mods/Trollge/custom_events/Image Flashc.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/custom_events/Image Flash.lua
+mods/Trollge/custom_events/Set Cam ZoomEx.lua
+mods/Trollge/custom_events/volverhud.lua
+mods/Trollge/custom_events/quitarhud.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/thanatophobia/Voices.ogg
+mods/songs/thanatophobia/voices.ogg
+mods/songs/thanatophobia/Inst.ogg
+mods/songs/thanatophobia/inst.ogg

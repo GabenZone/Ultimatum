@@ -1,0 +1,20 @@
+mods/data/bushwhack/bushwhack.json
+mods/data/bushwhack/mod.txt
+mods/Zardy/characters/bf-zar.json
+mods/Zardy/characters/zardyButDARK.json
+mods/Zardy/stages/ohshitTheSequal.json
+mods/Zardy/stages/ohshitTheSequal.lua
+mods/Zardy/images/characters/ZardyWeek2_BoyFriend.png
+mods/Zardy/images/characters/ZardyWeek2_BoyFriend.xml
+mods/Zardy/images/characters/ZardyDark.png
+mods/Zardy/images/characters/ZardyDark.xml
+mods/Zardy/characters/cableCrowPog.json
+mods/Zardy/images/characters/Cablecrow.png
+mods/Zardy/images/characters/Cablecrow.xml
+mods/Zardy/custom_events/shakey arrows complex.lua
+mods/Zardy/images/Zardy2BG.png
+mods/Zardy/images/Zardy2BG.xml
+mods/songs/bushwhack/Voices.ogg
+mods/songs/bushwhack/voices.ogg
+mods/songs/bushwhack/Inst.ogg
+mods/songs/bushwhack/inst.ogg

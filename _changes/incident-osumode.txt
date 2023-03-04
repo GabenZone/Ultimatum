@@ -1,0 +1,18 @@
+mods/data/incident/Esacosainv.lua
+mods/data/incident/incident.json
+mods/data/incident/mod.txt
+mods/data/incident/script.lua
+mods/Trollge/stages/incidenti.json
+mods/Trollge/stages/incidenti.lua
+mods/Trollge/custom_notetypes/smiler_notesdrain.lua
+mods/Trollge/custom_events/Flash.lua
+mods/Trollge/custom_events/sing shake.lua
+mods/Trollge/custom_events/Image Flash Hud.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/custom_events/Note NO.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/incident/Voices.ogg
+mods/songs/incident/voices.ogg
+mods/songs/incident/Inst.ogg
+mods/songs/incident/inst.ogg

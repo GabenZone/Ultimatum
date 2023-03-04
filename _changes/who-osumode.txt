@@ -1,0 +1,10 @@
+mods/data/who/events.json
+mods/data/who/mod.txt
+mods/data/who/who-hard.json
+mods/Impostor/stages/who.json
+mods/Impostor/stages/who.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/who/Voices.ogg
+mods/songs/who/voices.ogg
+mods/songs/who/Inst.ogg
+mods/songs/who/inst.ogg

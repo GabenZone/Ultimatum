@@ -1,0 +1,11 @@
+mods/data/hallow/hallow-hard.json
+mods/data/hallow/mod.txt
+mods/data/hallow/modchart.lua
+mods/data/hallow/script.lua
+mods/Fever/stages/spooky_hallow.json
+mods/Fever/stages/spooky_hallow.lua
+mods/Fever/custom_notetypes/Attack Note.lua
+mods/songs/hallow/Voices.ogg
+mods/songs/hallow/voices.ogg
+mods/songs/hallow/Inst.ogg
+mods/songs/hallow/inst.ogg

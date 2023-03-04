@@ -1,0 +1,14 @@
+mods/data/poems-n-thorns/events.json
+mods/data/poems-n-thorns/mod.txt
+mods/data/poems-n-thorns/poems-n-thorns-hard.json
+mods/DokiTakeover/stages/school-customized.json
+mods/DokiTakeover/stages/school-customized.lua
+mods/DokiTakeover/custom_events/Set Cam Zoom.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/poems-n-thorns/Voices.ogg
+mods/songs/poems-n-thorns/voices.ogg
+mods/songs/poems-n-thorns/Inst.ogg
+mods/songs/poems-n-thorns/inst.ogg

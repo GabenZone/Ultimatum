@@ -1,0 +1,12 @@
+mods/data/cycles-dside/cycles-dside-hard.json
+mods/data/cycles-dside/defaultCamZoomFix.lua
+mods/data/cycles-dside/mod.txt
+mods/D-Sides/stages/godzStage.json
+mods/D-Sides/stages/godzStage.lua
+mods/D-Sides/custom_events/Dark Fade.lua
+mods/D-Sides/custom_events/Cycles Stage.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/songs/cycles-dside/Voices.ogg
+mods/songs/cycles-dside/voices.ogg
+mods/songs/cycles-dside/Inst.ogg
+mods/songs/cycles-dside/inst.ogg

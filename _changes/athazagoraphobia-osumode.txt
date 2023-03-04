@@ -1,0 +1,22 @@
+mods/data/athazagoraphobia/athazagoraphobia.json
+mods/data/athazagoraphobia/events.json
+mods/data/athazagoraphobia/mod.txt
+mods/data/athazagoraphobia/script.lua
+mods/Trollge/stages/corto.json
+mods/Trollge/stages/corto.lua
+mods/Trollge/custom_notetypes/visible_notes.lua
+mods/Trollge/custom_events/GODRIGHT.lua
+mods/Trollge/custom_events/Set Cam Zoom.lua
+mods/Trollge/custom_events/GODLEFT.lua
+mods/Trollge/custom_events/TweenSpin2.lua
+mods/Trollge/custom_events/TweenSpin.lua
+mods/Trollge/custom_events/quitarhud.lua
+mods/Trollge/custom_events/sing shakemasjodido.lua
+mods/Trollge/custom_events/volverhud.lua
+mods/Trollge/custom_events/GODUP.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/athazagoraphobia/Voices.ogg
+mods/songs/athazagoraphobia/voices.ogg
+mods/songs/athazagoraphobia/Inst.ogg
+mods/songs/athazagoraphobia/inst.ogg

@@ -1,0 +1,18 @@
+mods/data/esculent/esculent-hard.json
+mods/data/esculent/events.json
+mods/data/esculent/mod.txt
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/esculent.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/esculent.json
+mods/Impostor/stages/esculent.lua
+mods/Impostor/images/characters/esculent.png
+mods/Impostor/images/characters/esculent.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/esculent/Voices.ogg
+mods/songs/esculent/voices.ogg
+mods/songs/esculent/Inst.ogg
+mods/songs/esculent/inst.ogg

@@ -1,0 +1,20 @@
+mods/data/titular/gamestart.lua
+mods/data/titular/mod.txt
+mods/data/titular/titular-hard.json
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/henry.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/henry.json
+mods/Impostor/stages/henry.lua
+mods/Impostor/images/characters/HENRY_ASSS.png
+mods/Impostor/images/characters/HENRY_ASSS.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/stagehenry.png
+mods/Impostor/images/pets/stickmin.png
+mods/Impostor/images/pets/stickmin.xml
+mods/songs/titular/Voices.ogg
+mods/songs/titular/voices.ogg
+mods/songs/titular/Inst.ogg
+mods/songs/titular/inst.ogg

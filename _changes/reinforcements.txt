@@ -1,0 +1,30 @@
+mods/data/reinforcements/events.json
+mods/data/reinforcements/gf.lua
+mods/data/reinforcements/mod.txt
+mods/data/reinforcements/reinforcements-hard.json
+mods/data/reinforcements/shit.lua
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/henry.json
+mods/Impostor/characters/gf-car.json
+mods/Impostor/stages/henry3.json
+mods/Impostor/stages/henry3.lua
+mods/Impostor/images/characters/HENRY_ASSS.png
+mods/Impostor/images/characters/HENRY_ASSS.xml
+mods/Impostor/images/characters/gfCar.png
+mods/Impostor/images/characters/gfCar.xml
+mods/Impostor/characters/Ellie_Assets.json
+mods/Impostor/images/characters/Ellie_Assets.png
+mods/Impostor/images/characters/Ellie_Assets.xml
+mods/Impostor/characters/henrywith.json
+mods/Impostor/custom_notetypes/Gf wit Opponent Specific Note.lua
+mods/Impostor/custom_events/playVideo.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/stagehenry.png
+mods/Impostor/images/gf.png
+mods/Impostor/images/gf.xml
+mods/Impostor/images/pets/stickmin.png
+mods/Impostor/images/pets/stickmin.xml
+mods/songs/reinforcements/Voices.ogg
+mods/songs/reinforcements/voices.ogg
+mods/songs/reinforcements/Inst.ogg
+mods/songs/reinforcements/inst.ogg

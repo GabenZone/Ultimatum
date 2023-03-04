@@ -1,0 +1,9 @@
+mods/data/cocoa/cocoa-hard.json
+mods/data/cocoa/events.json
+mods/data/cocoa/mod.txt
+mods/Vanilla/stages/mallv2.json
+mods/Vanilla/stages/mallv2.lua
+mods/songs/cocoa/Voices.ogg
+mods/songs/cocoa/voices.ogg
+mods/songs/cocoa/Inst.ogg
+mods/songs/cocoa/inst.ogg

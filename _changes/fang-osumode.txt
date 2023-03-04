@@ -1,0 +1,13 @@
+mods/data/fang/fang-easy.json
+mods/data/fang/fang-getreal.json
+mods/data/fang/fang-hard.json
+mods/data/fang/fang.json
+mods/data/fang/mod.txt
+mods/data/fang/script.lua
+mods/B3 Remixed/stages/room.json
+mods/B3 Remixed/stages/room.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/fang/Voices.ogg
+mods/songs/fang/voices.ogg
+mods/songs/fang/Inst.ogg
+mods/songs/fang/inst.ogg

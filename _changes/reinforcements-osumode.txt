@@ -1,0 +1,14 @@
+mods/data/reinforcements/events.json
+mods/data/reinforcements/gf.lua
+mods/data/reinforcements/mod.txt
+mods/data/reinforcements/reinforcements-hard.json
+mods/data/reinforcements/shit.lua
+mods/Impostor/stages/henry3.json
+mods/Impostor/stages/henry3.lua
+mods/Impostor/custom_notetypes/Gf wit Opponent Specific Note.lua
+mods/Impostor/custom_events/playVideo.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/reinforcements/Voices.ogg
+mods/songs/reinforcements/voices.ogg
+mods/songs/reinforcements/Inst.ogg
+mods/songs/reinforcements/inst.ogg

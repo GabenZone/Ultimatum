@@ -1,0 +1,9 @@
+mods/data/spookpostor/mod.txt
+mods/data/spookpostor/spookpostor-hard.json
+mods/Impostor/stages/loggo2.json
+mods/Impostor/stages/loggo2.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/spookpostor/Voices.ogg
+mods/songs/spookpostor/voices.ogg
+mods/songs/spookpostor/Inst.ogg
+mods/songs/spookpostor/inst.ogg

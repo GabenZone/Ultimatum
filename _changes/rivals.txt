@@ -1,0 +1,28 @@
+mods/data/rivals/events.json
+mods/Impostor/characters/bfsus-pixel.json
+mods/Impostor/images/characters/bfSus.png
+mods/Impostor/images/characters/bfSus.xml
+mods/Impostor/characters/hamster.json
+mods/Impostor/images/characters/hamster.png
+mods/Impostor/images/characters/hamster.xml
+mods/data/rivals/mod.txt
+mods/data/rivals/rivals-hard.json
+mods/Impostor/characters/bf-pixel.json
+mods/Impostor/characters/tomongus.json
+mods/Impostor/characters/gf-pixel.json
+mods/Impostor/stages/weeb.json
+mods/Impostor/stages/weeb.lua
+mods/Impostor/images/characters/bfPixel.png
+mods/Impostor/images/characters/bfPixel.xml
+mods/Impostor/images/characters/tomongus.png
+mods/Impostor/images/characters/tomongus.xml
+mods/Impostor/images/characters/gfPixel.png
+mods/Impostor/images/characters/gfPixel.xml
+mods/Impostor/custom_events/Flash Camera.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/weeb/weebStreet.png
+mods/Impostor/images/weeb/stars.png
+mods/songs/rivals/Voices.ogg
+mods/songs/rivals/voices.ogg
+mods/songs/rivals/Inst.ogg
+mods/songs/rivals/inst.ogg

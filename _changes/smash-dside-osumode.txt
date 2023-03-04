@@ -1,0 +1,11 @@
+mods/data/smash-dside/mod.txt
+mods/data/smash-dside/smash-dside-easy.json
+mods/data/smash-dside/smash-dside-hard.json
+mods/data/smash-dside/smash-dside.json
+mods/D-Sides/stages/placeholderDARK.json
+mods/D-Sides/stages/placeholderDARK.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/songs/smash-dside/Voices.ogg
+mods/songs/smash-dside/voices.ogg
+mods/songs/smash-dside/Inst.ogg
+mods/songs/smash-dside/inst.ogg

@@ -1,0 +1,11 @@
+mods/data/bopeebo-b3/bopeebo-b3-getreal.json
+mods/data/bopeebo-b3/bopeebo-b3-hard.json
+mods/data/bopeebo-b3/events.json
+mods/data/bopeebo-b3/mod.txt
+mods/B3 Remixed/stages/stage-b3.json
+mods/B3 Remixed/stages/stage-b3.lua
+mods/B3 Remixed/scripts/Intro.lua
+mods/songs/bopeebo-b3/Voices.ogg
+mods/songs/bopeebo-b3/voices.ogg
+mods/songs/bopeebo-b3/Inst.ogg
+mods/songs/bopeebo-b3/inst.ogg

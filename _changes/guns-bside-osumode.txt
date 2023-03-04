@@ -1,0 +1,13 @@
+mods/data/guns-bside/guns-bside-flip.json
+mods/data/guns-bside/mod.txt
+mods/data/guns-bside/script.lua
+mods/data/guns-bside/script1.lua
+mods/B-Sides/stages/tank-b.json
+mods/B-Sides/stages/tank-b.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
+mods/songs/guns-bside/Voices.ogg
+mods/songs/guns-bside/voices.ogg
+mods/songs/guns-bside/Inst.ogg
+mods/songs/guns-bside/inst.ogg

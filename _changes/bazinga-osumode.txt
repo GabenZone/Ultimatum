@@ -1,0 +1,12 @@
+mods/data/bazinga/bazinga-hard.json
+mods/data/bazinga/events.json
+mods/data/bazinga/mod.txt
+mods/data/bazinga/script.lua
+mods/data/bazinga/script1.lua
+mods/Fever/stages/week2bgtaki.json
+mods/Fever/stages/week2bgtaki.lua
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/songs/bazinga/Voices.ogg
+mods/songs/bazinga/voices.ogg
+mods/songs/bazinga/Inst.ogg
+mods/songs/bazinga/inst.ogg

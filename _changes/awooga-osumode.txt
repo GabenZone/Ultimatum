@@ -1,0 +1,9 @@
+mods/data/awooga/awooga-hard.json
+mods/data/awooga/mod.txt
+mods/D-Sides/stages/darklimo.json
+mods/D-Sides/stages/darklimo.lua
+mods/D-Sides/scripts/smoothcam.lua
+mods/songs/awooga/Voices.ogg
+mods/songs/awooga/voices.ogg
+mods/songs/awooga/Inst.ogg
+mods/songs/awooga/inst.ogg

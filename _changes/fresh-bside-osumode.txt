@@ -1,0 +1,11 @@
+mods/data/fresh-bside/fresh-bside-flip.json
+mods/data/fresh-bside/mod.txt
+mods/B-Sides/stages/stage-b.json
+mods/B-Sides/stages/stage-b.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
+mods/songs/fresh-bside/Voices.ogg
+mods/songs/fresh-bside/voices.ogg
+mods/songs/fresh-bside/Inst.ogg
+mods/songs/fresh-bside/inst.ogg

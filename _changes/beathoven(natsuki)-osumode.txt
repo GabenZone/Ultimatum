@@ -1,0 +1,13 @@
+mods/data/beathoven(natsuki)/beathoven(natsuki)-hard.json
+mods/data/beathoven(natsuki)/events.json
+mods/data/beathoven(natsuki)/mod.txt
+mods/DokiTakeover/stages/dokifestival.json
+mods/DokiTakeover/stages/dokifestival.lua
+mods/DokiTakeover/scripts/cameraMovement.lua
+mods/DokiTakeover/scripts/changeGameOver.lua
+mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
+mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/beathoven(natsuki)/Voices.ogg
+mods/songs/beathoven(natsuki)/voices.ogg
+mods/songs/beathoven(natsuki)/Inst.ogg
+mods/songs/beathoven(natsuki)/inst.ogg

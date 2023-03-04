@@ -1,0 +1,18 @@
+mods/data/idk/idk-hard.json
+mods/data/idk/mod.txt
+mods/Impostor/characters/idkbf.json
+mods/Impostor/characters/idk.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/idk.json
+mods/Impostor/stages/idk.lua
+mods/Impostor/images/characters/idkbf.png
+mods/Impostor/images/characters/idkbf.xml
+mods/Impostor/images/characters/idk.png
+mods/Impostor/images/characters/idk.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/idk/Voices.ogg
+mods/songs/idk/voices.ogg
+mods/songs/idk/Inst.ogg
+mods/songs/idk/inst.ogg

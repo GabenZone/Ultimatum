@@ -1,0 +1,7 @@
+mods/data/stealth/mod.txt
+mods/data/stealth/stealth-hard.json
+mods/Impostor/characters/bf-car.json
+mods/Impostor/characters/mom-car.json
+mods/Impostor/images/characters/bfCar.png
+mods/Impostor/images/characters/bfCar.xml
+mods/Impostor/scripts/Kade Engine's long note.lua

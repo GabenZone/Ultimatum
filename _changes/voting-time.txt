@@ -1,0 +1,25 @@
+mods/data/voting-time/events.json
+mods/data/voting-time/gamestart.lua
+mods/data/voting-time/mod.txt
+mods/data/voting-time/voting-time-hard.json
+mods/data/voting-time/voting-time-other.json
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/warchief.json
+mods/Impostor/characters/jelqer.json
+mods/Impostor/stages/voting.json
+mods/Impostor/images/characters/warchief.png
+mods/Impostor/images/characters/warchief.xml
+mods/Impostor/images/characters/jelqer.png
+mods/Impostor/images/characters/jelqer.xml
+mods/Impostor/characters/crewmate.json
+mods/Impostor/characters/gf.json
+mods/Impostor/images/characters/crewmate.png
+mods/Impostor/images/characters/crewmate.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/custom_events/flash.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/songs/voting-time/Voices.ogg
+mods/songs/voting-time/voices.ogg
+mods/songs/voting-time/Inst.ogg
+mods/songs/voting-time/inst.ogg

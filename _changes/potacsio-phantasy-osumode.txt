@@ -1,0 +1,11 @@
+mods/data/potacsio-phantasy/camera.lua
+mods/data/potacsio-phantasy/mod.txt
+mods/data/potacsio-phantasy/potacsio-phantasy-easy.json
+mods/data/potacsio-phantasy/potacsio-phantasy-hard.json
+mods/data/potacsio-phantasy/potacsio-phantasy.json
+mods/Aside/stages/plaza.json
+mods/Aside/stages/plaza.lua
+mods/songs/potacsio-phantasy/Voices.ogg
+mods/songs/potacsio-phantasy/voices.ogg
+mods/songs/potacsio-phantasy/Inst.ogg
+mods/songs/potacsio-phantasy/inst.ogg

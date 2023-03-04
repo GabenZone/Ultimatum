@@ -1,0 +1,10 @@
+mods/data/ete-mania/camera.lua
+mods/data/ete-mania/ete-mania-hard.json
+mods/data/ete-mania/ete-mania.json
+mods/data/ete-mania/mod.txt
+mods/Aside/stages/plaza.json
+mods/Aside/stages/plaza.lua
+mods/songs/ete-mania/Voices.ogg
+mods/songs/ete-mania/voices.ogg
+mods/songs/ete-mania/Inst.ogg
+mods/songs/ete-mania/inst.ogg

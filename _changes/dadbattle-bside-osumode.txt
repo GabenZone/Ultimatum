@@ -1,0 +1,13 @@
+mods/data/dadbattle-bside/dadbattle-bside-flip.json
+mods/data/dadbattle-bside/events.json
+mods/data/dadbattle-bside/mod.txt
+mods/B-Sides/stages/stage-b-dark.json
+mods/B-Sides/stages/stage-b-dark.lua
+mods/B-Sides/custom_events/Flash Camera.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
+mods/songs/dadbattle-bside/Voices.ogg
+mods/songs/dadbattle-bside/voices.ogg
+mods/songs/dadbattle-bside/Inst.ogg
+mods/songs/dadbattle-bside/inst.ogg

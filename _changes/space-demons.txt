@@ -1,0 +1,20 @@
+mods/data/space-demons/mod.txt
+mods/data/space-demons/space-demons-hard.json
+mods/data/space-demons/space-demons.json
+mods/Fever/characters/bf-pixel.json
+mods/Fever/characters/oldcesar_Pixel.json
+mods/Fever/characters/cherry-pixel.json
+mods/Fever/images/characters/demonCesarPixel.png
+mods/Fever/images/characters/demonCesarPixel.xml
+mods/Fever/images/characters/bdbFever.png
+mods/Fever/images/characters/bdbFever.xml
+mods/Fever/images/characters/cherryPixel.png
+mods/Fever/images/characters/cherryPixel.xml
+mods/Fever/characters/gf-pixel.json
+mods/Fever/custom_events/Set Cam Zoom.lua
+mods/Fever/custom_events/Image Flash.lua
+mods/Fever/custom_events/Flash Camera.lua
+mods/songs/space-demons/Voices.ogg
+mods/songs/space-demons/voices.ogg
+mods/songs/space-demons/Inst.ogg
+mods/songs/space-demons/inst.ogg

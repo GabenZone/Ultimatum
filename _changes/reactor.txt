@@ -1,0 +1,35 @@
+mods/data/reactor/events.json
+mods/data/reactor/mod.txt
+mods/data/reactor/reactor-hard.json
+mods/Impostor/characters/bfr.json
+mods/Impostor/characters/impostorr.json
+mods/Impostor/characters/gfr.json
+mods/Impostor/stages/reactor2.json
+mods/Impostor/stages/reactor2.lua
+mods/Impostor/images/characters/bfr.png
+mods/Impostor/images/characters/bfr.xml
+mods/Impostor/images/characters/impostorr.png
+mods/Impostor/images/characters/impostorr.xml
+mods/Impostor/images/characters/gf_reactor.png
+mods/Impostor/images/characters/gf_reactor.xml
+mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/custom_events/Change HitHealth.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/reactor/floornew.png
+mods/Impostor/images/reactor/wallbgthing.png
+mods/Impostor/images/reactor/backbars.png
+mods/Impostor/images/reactor/frontblack.png
+mods/Impostor/images/reactor/ball lol.png
+mods/Impostor/images/reactor/ball lol.xml
+mods/Impostor/images/reactor/yellowcoti.png
+mods/Impostor/images/reactor/yellowcoti.xml
+mods/Impostor/images/reactor/browngeoff.png
+mods/Impostor/images/reactor/browngeoff.xml
+mods/Impostor/images/reactor/yeahman.png
+mods/Impostor/images/reactor/yeahman.xml
+mods/Impostor/images/pets/frankendog.png
+mods/Impostor/images/pets/frankendog.xml
+mods/songs/reactor/Voices.ogg
+mods/songs/reactor/voices.ogg
+mods/songs/reactor/Inst.ogg
+mods/songs/reactor/inst.ogg

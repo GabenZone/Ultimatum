@@ -1,0 +1,24 @@
+mods/data/armed/armed-hard.json
+mods/data/armed/events.json
+mods/data/armed/gamestart.lua
+mods/data/armed/mod.txt
+mods/data/armed/reginald.lua
+mods/data/armed/shit.lua
+mods/Impostor/characters/bf.json
+mods/Impostor/characters/rhm.json
+mods/Impostor/characters/gf.json
+mods/Impostor/stages/henry.json
+mods/Impostor/stages/henry.lua
+mods/Impostor/images/characters/rhm.png
+mods/Impostor/images/characters/rhm.xml
+mods/Impostor/images/characters/GF_assets.png
+mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/custom_events/playVideo.lua
+mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/images/stagehenry.png
+mods/Impostor/images/pets/stickmin.png
+mods/Impostor/images/pets/stickmin.xml
+mods/songs/armed/Voices.ogg
+mods/songs/armed/voices.ogg
+mods/songs/armed/Inst.ogg
+mods/songs/armed/inst.ogg

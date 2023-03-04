@@ -1,0 +1,13 @@
+mods/data/sadness/Esacosainv.lua
+mods/data/sadness/mod.txt
+mods/data/sadness/sadness.json
+mods/data/sadness/script.lua
+mods/Trollge/stages/sad.json
+mods/Trollge/stages/sad.lua
+mods/Trollge/custom_notetypes/smiler_notes.lua
+mods/Trollge/scripts/font.lua
+mods/Trollge/scripts/mevengo.lua
+mods/songs/sadness/Voices.ogg
+mods/songs/sadness/voices.ogg
+mods/songs/sadness/Inst.ogg
+mods/songs/sadness/inst.ogg

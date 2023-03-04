@@ -1,0 +1,9 @@
+mods/data/down-bad/down-bad-hard.json
+mods/data/down-bad/mod.txt
+mods/data/down-bad/script.lua
+mods/Fever/stages/stagesus.json
+mods/Fever/stages/stagesus.lua
+mods/songs/down-bad/Voices.ogg
+mods/songs/down-bad/voices.ogg
+mods/songs/down-bad/Inst.ogg
+mods/songs/down-bad/inst.ogg
