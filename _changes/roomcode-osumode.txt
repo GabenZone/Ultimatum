@@ -1,9 +1,0 @@
-mods/data/roomcode/mod.txt
-mods/data/roomcode/roomcode-hard.json
-mods/Impostor/stages/powstage.json
-mods/Impostor/stages/powstage.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
-mods/songs/roomcode/Voices.ogg
-mods/songs/roomcode/voices.ogg
-mods/songs/roomcode/Inst.ogg
-mods/songs/roomcode/inst.ogg

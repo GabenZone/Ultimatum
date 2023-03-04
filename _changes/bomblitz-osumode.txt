@@ -1,9 +1,0 @@
-mods/data/bomblitz/bomblitz-hard.json
-mods/data/bomblitz/camera.lua
-mods/data/bomblitz/mod.txt
-mods/Aside/stages/alleyBlitz.json
-mods/Aside/stages/alleyBlitz.lua
-mods/songs/bomblitz/Voices.ogg
-mods/songs/bomblitz/voices.ogg
-mods/songs/bomblitz/Inst.ogg
-mods/songs/bomblitz/inst.ogg

@@ -1,9 +1,0 @@
-mods/data/chaufa-picante/camera.lua
-mods/data/chaufa-picante/chaufa-picante-hard.json
-mods/data/chaufa-picante/mod.txt
-mods/Aside/stages/laFonda.json
-mods/Aside/stages/laFonda.lua
-mods/songs/chaufa-picante/Voices.ogg
-mods/songs/chaufa-picante/voices.ogg
-mods/songs/chaufa-picante/Inst.ogg
-mods/songs/chaufa-picante/inst.ogg

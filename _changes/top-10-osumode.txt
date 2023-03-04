@@ -1,7 +1,0 @@
-mods/data/top-10/mod.txt
-mods/data/top-10/top-10-hard.json
-mods/Impostor/stages/polus.json
-mods/Impostor/stages/polus.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
-mods/songs/top-10/Inst.ogg
-mods/songs/top-10/inst.ogg

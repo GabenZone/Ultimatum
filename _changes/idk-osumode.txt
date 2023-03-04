@@ -1,9 +1,0 @@
-mods/data/idk/idk-hard.json
-mods/data/idk/mod.txt
-mods/Impostor/stages/idk.json
-mods/Impostor/stages/idk.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
-mods/songs/idk/Voices.ogg
-mods/songs/idk/voices.ogg
-mods/songs/idk/Inst.ogg
-mods/songs/idk/inst.ogg

@@ -1,9 +1,0 @@
-mods/data/legendary/legendary-easy.json
-mods/data/legendary/legendary-hard.json
-mods/data/legendary/legendary.json
-mods/data/legendary/mod.txt
-mods/data/legendary/modchart.lua
-mods/songs/legendary/Voices.ogg
-mods/songs/legendary/voices.ogg
-mods/songs/legendary/Inst.ogg
-mods/songs/legendary/inst.ogg

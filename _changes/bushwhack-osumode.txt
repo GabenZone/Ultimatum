@@ -1,9 +1,0 @@
-mods/data/bushwhack/bushwhack.json
-mods/data/bushwhack/mod.txt
-mods/Zardy/stages/ohshitTheSequal.json
-mods/Zardy/stages/ohshitTheSequal.lua
-mods/Zardy/custom_events/shakey arrows complex.lua
-mods/songs/bushwhack/Voices.ogg
-mods/songs/bushwhack/voices.ogg
-mods/songs/bushwhack/Inst.ogg
-mods/songs/bushwhack/inst.ogg
