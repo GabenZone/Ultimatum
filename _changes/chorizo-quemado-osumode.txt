@@ -1,6 +1,5 @@
 mods/data/chorizo-quemado/camera.lua
 mods/data/chorizo-quemado/chorizo-quemado-hard.json
-mods/data/chorizo-quemado/chorizo-quemado.json
 mods/data/chorizo-quemado/mod.txt
 mods/Aside/stages/laFonda.json
 mods/Aside/stages/laFonda.lua

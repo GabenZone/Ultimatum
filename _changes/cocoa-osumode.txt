@@ -1,6 +1,4 @@
-mods/data/cocoa/cocoa-easy.json
 mods/data/cocoa/cocoa-hard.json
-mods/data/cocoa/cocoa.json
 mods/data/cocoa/events.json
 mods/data/cocoa/mod.txt
 mods/Vanilla/stages/mallv2.json

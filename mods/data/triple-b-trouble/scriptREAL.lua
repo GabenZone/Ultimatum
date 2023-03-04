@@ -10,11 +10,6 @@ function onCreate()
 end
 
 function onEndSong()
-	if not allowEnd then
-		startVideo('illgetyou');
-		allowEnd = true;
-		return Function_Stop;
-	end
 	return Function_Continue;
 end
 

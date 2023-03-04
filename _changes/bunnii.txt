@@ -1,6 +1,4 @@
-mods/data/bunnii/bunnii-easy.json
 mods/data/bunnii/bunnii-hard.json
-mods/data/bunnii/bunnii.json
 mods/data/bunnii/mod.txt
 mods/Fever/characters/bf-car.json
 mods/Fever/characters/mom-car.json

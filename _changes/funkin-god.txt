@@ -1,12 +1,14 @@
-mods/data/funkin-god/funkin-god-easy.json
 mods/data/funkin-god/funkin-god-hard.json
-mods/data/funkin-god/funkin-god.json
 mods/data/funkin-god/mod.txt
 mods/Fever/characters/CesarDemon-pixel.json
 mods/Fever/characters/spirit.json
 mods/Fever/characters/gf-pixel.json
 mods/Fever/images/characters/demonCesarPixel.png
 mods/Fever/images/characters/demonCesarPixel.xml
+mods/Fever/images/characters/flippy.png
+mods/Fever/images/characters/flippy.xml
+mods/Fever/images/characters/cherryPixel.png
+mods/Fever/images/characters/cherryPixel.xml
 mods/songs/funkin-god/Voices.ogg
 mods/songs/funkin-god/voices.ogg
 mods/songs/funkin-god/Inst.ogg

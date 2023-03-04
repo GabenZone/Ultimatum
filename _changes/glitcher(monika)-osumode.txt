@@ -7,3 +7,7 @@ mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/glitcher(monika)/Voices.ogg
+mods/songs/glitcher(monika)/voices.ogg
+mods/songs/glitcher(monika)/Inst.ogg
+mods/songs/glitcher(monika)/inst.ogg

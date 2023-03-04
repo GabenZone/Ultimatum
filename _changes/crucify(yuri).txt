@@ -16,6 +16,10 @@ mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/DokiTakeover/images/doki/festival/FarBack.png
+mods/DokiTakeover/images/doki/festival/MainBG.png
+mods/DokiTakeover/images/doki/festival/DesksFestival.png
+mods/DokiTakeover/images/doki/festival/FestivalBanner.png
 mods/DokiTakeover/images/doki/festival/lights_back.png
 mods/DokiTakeover/images/doki/festival/lights_back.xml
 mods/DokiTakeover/images/doki/festival/lights_front.png

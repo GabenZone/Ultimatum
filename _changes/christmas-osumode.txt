@@ -1,5 +1,4 @@
 mods/data/christmas/christmas-hard.json
-mods/data/christmas/christmas.json
 mods/data/christmas/mod.txt
 mods/Impostor/stages/loggo.json
 mods/Impostor/stages/loggo.lua

@@ -3,18 +3,27 @@ local dokiPositions = {{-120,120},{100,200},{400,100},{1050,250},{1250,120}}
 local dokiLower = ''
 local dokiSpeed = {24,24,28,24,24}
 
-local dokiStage = {{'FarBack',-780,-600,false},{'MainBG',-780,-600,false},{'DesksFestival',-780,-600,true},{'FestivalBanner',-780,-550,true}}
-
-local enabledGirls = true
+local enabledGirls = false
 function onCreate()
     if songName == 'Obsession' then
         enabledGirls = false
     end
-    for dokiStageLoop = 1,#dokiStage do
-        makeLuaSprite('doki'..dokiStage[dokiStageLoop][1],'doki/festival/'..dokiStage[dokiStageLoop][1],dokiStage[dokiStageLoop][2],dokiStage[dokiStageLoop][3])
-        scaleObject('doki'..dokiStage[dokiStageLoop][1],1.7,1.7)
-        addLuaSprite('doki'..dokiStage[dokiStageLoop][1],dokiStage[dokiStageLoop][4])
-    end
+        makeLuaSprite('dokiFarBack','doki/festival/FarBack',-780,-600)
+        scaleObject('dokiFarBack',1.7,1.7)
+        addLuaSprite('dokiFarBack',false)
+		
+		makeLuaSprite('dokiMainBG','doki/festival/MainBG',-780,-600)
+        scaleObject('dokiMainBG',1.7,1.7)
+        addLuaSprite('dokiMainBG',false)
+		
+		makeLuaSprite('dokiDesksFestival','doki/festival/DesksFestival',-780,-600)
+        scaleObject('dokiDesksFestival',1.7,1.7)
+        addLuaSprite('dokiDesksFestival',true)
+		
+		makeLuaSprite('dokiFestivalBanner','doki/festival/FestivalBanner',-780,-550)
+        scaleObject('dokiFestivalBanner',1.7,1.7)
+        addLuaSprite('dokiFestivalBanner',true)
+		
     setScrollFactor('dokiFarBack',0.9,0.9)
     setScrollFactor('dokiDesksFestival',1.1,1.1)
     setScrollFactor('dokiFestivalBanner',1.1,1.1)

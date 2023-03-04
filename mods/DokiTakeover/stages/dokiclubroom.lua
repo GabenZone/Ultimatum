@@ -2,7 +2,7 @@ local dokiCharacters = {'Yuri','Sayori','Natsuki'}
 local dokiPositions = {{-120,120},{100,200},{1100,250}}
 local dokiLower = ''
 
-local enabledGirls = true
+local enabledGirls = false
 function onCreate()
     if songName == 'Obsession' then
         enabledGirls = false

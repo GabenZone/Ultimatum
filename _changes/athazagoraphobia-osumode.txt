@@ -1,5 +1,4 @@
 mods/data/athazagoraphobia/athazagoraphobia.json
-mods/data/athazagoraphobia/cinematica.lua
 mods/data/athazagoraphobia/events.json
 mods/data/athazagoraphobia/mod.txt
 mods/data/athazagoraphobia/script.lua
@@ -7,7 +6,6 @@ mods/Trollge/stages/corto.json
 mods/Trollge/stages/corto.lua
 mods/Trollge/custom_notetypes/visible_notes.lua
 mods/Trollge/custom_events/GODRIGHT.lua
-mods/Trollge/custom_events/eye.lua
 mods/Trollge/custom_events/Set Cam Zoom.lua
 mods/Trollge/custom_events/GODLEFT.lua
 mods/Trollge/custom_events/TweenSpin2.lua

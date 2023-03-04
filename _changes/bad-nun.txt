@@ -1,14 +1,11 @@
-mods/data/bad-nun/bad-nun-easy.json
 mods/data/bad-nun/bad-nun-hard.json
-mods/data/bad-nun/bad-nun.json
 mods/data/bad-nun/mod.txt
 mods/data/bad-nun/modchart.lua
-mods/Fever/characters/monster.json
-mods/Fever/stages/church.json
-mods/Fever/stages/church.lua
 mods/Fever/characters/cesarDEMON.json
 mods/Fever/characters/Taki.json
 mods/Fever/characters/tea.json
+mods/Fever/stages/church.json
+mods/Fever/stages/church.lua
 mods/Fever/images/characters/cesarDEMON.png
 mods/Fever/images/characters/cesarDEMON.xml
 mods/Fever/images/characters/Taki_Assets.png

@@ -1,6 +1,4 @@
-mods/data/bopeebo-dside/bopeebo-dside-easy.json
 mods/data/bopeebo-dside/bopeebo-dside-hard.json
-mods/data/bopeebo-dside/bopeebo-dside.json
 mods/data/bopeebo-dside/hey.lua
 mods/data/bopeebo-dside/mod.txt
 mods/D-Sides/stages/W1_stage.json

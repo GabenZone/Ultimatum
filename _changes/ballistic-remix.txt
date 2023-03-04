@@ -1,6 +1,4 @@
-mods/data/ballistic-remix/ballistic-remix-easy.json
 mods/data/ballistic-remix/ballistic-remix-hard.json
-mods/data/ballistic-remix/ballistic-remix.json
 mods/data/ballistic-remix/events.json
 mods/data/ballistic-remix/mod.txt
 mods/data/ballistic-remix/script.lua

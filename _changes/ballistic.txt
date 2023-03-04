@@ -1,6 +1,4 @@
-mods/data/ballistic/ballistic-easy.json
 mods/data/ballistic/ballistic-hard.json
-mods/data/ballistic/ballistic.json
 mods/data/ballistic/events.json
 mods/data/ballistic/mod.txt
 mods/data/ballistic/script.lua

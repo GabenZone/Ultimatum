@@ -1,5 +1,4 @@
 mods/data/athazagoraphobia/athazagoraphobia.json
-mods/data/athazagoraphobia/cinematica.lua
 mods/data/athazagoraphobia/events.json
 mods/data/athazagoraphobia/mod.txt
 mods/data/athazagoraphobia/script.lua
@@ -16,7 +15,6 @@ mods/Trollge/images/characters/no.png
 mods/Trollge/images/characters/no.xml
 mods/Trollge/custom_notetypes/visible_notes.lua
 mods/Trollge/custom_events/GODRIGHT.lua
-mods/Trollge/custom_events/eye.lua
 mods/Trollge/custom_events/Set Cam Zoom.lua
 mods/Trollge/custom_events/GODLEFT.lua
 mods/Trollge/custom_events/TweenSpin2.lua
@@ -40,7 +38,6 @@ mods/Trollge/images/noise.png
 mods/Trollge/images/noise.xml
 mods/Trollge/images/shading1.png
 mods/Trollge/images/niggggnoesciertoeshumornomefunenmeencantaelfutbol.png
-mods/Trollge/images/3w2.png
 mods/Trollge/images/M1.png
 mods/Trollge/characters/2tr.json
 mods/Trollge/characters/bfchikito.json
@@ -52,9 +49,6 @@ mods/Trollge/images/visible_notes.png
 mods/Trollge/images/visible_notes.xml
 mods/Trollge/images/DERP.png
 mods/Trollge/images/DERP.xml
-mods/Trollge/images/cli.png
-mods/Trollge/images/cli.xml
-mods/Trollge/images/white.png
 mods/Trollge/images/trollge.png
 mods/Trollge/images/trollge.xml
 mods/Trollge/images/derpina.png

@@ -26,11 +26,6 @@ function onCreate()
 	addLuaSprite('niggggnoesciertoeshumornomefunenmeencantaelfutbol', false);
     scaleObject('niggggnoesciertoeshumornomefunenmeencantaelfutbol', 19, 19)   
 
-    makeLuaSprite('3w2', '3w2', 20, 20);
-	addLuaSprite('3w2', '3w2', -300, -160);
-    scaleObject('3w2', 1, 1)
-    setObjectCamera('3w2', 'hud')
-
     makeLuaSprite('M1', 'M1', -500, -160);
 	addLuaSprite('M1', 'M1', -300, -160);
     scaleObject('M1', 2, 2)

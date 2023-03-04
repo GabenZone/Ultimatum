@@ -1,6 +1,4 @@
-mods/data/crucify/crucify-easy.json
 mods/data/crucify/crucify-hard.json
-mods/data/crucify/crucify.json
 mods/data/crucify/mod.txt
 mods/data/crucify/script.lua
 mods/data/crucify/script1.lua

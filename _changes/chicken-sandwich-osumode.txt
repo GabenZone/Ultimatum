@@ -1,7 +1,7 @@
-mods/data/chicken-sandwich/chicken-sandwich-easy.json
 mods/data/chicken-sandwich/chicken-sandwich-hard.json
-mods/data/chicken-sandwich/chicken-sandwich.json
 mods/data/chicken-sandwich/mod.txt
+mods/Fever/stages/school-fever.json
+mods/Fever/stages/school-fever.lua
 mods/songs/chicken-sandwich/Voices.ogg
 mods/songs/chicken-sandwich/voices.ogg
 mods/songs/chicken-sandwich/Inst.ogg

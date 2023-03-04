@@ -1,5 +1,4 @@
 mods/data/bomblitz/bomblitz-hard.json
-mods/data/bomblitz/bomblitz.json
 mods/data/bomblitz/camera.lua
 mods/data/bomblitz/mod.txt
 mods/Aside/characters/bf-bomblitz.json

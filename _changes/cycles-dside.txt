@@ -1,6 +1,4 @@
-mods/data/cycles-dside/cycles-dside-easy.json
 mods/data/cycles-dside/cycles-dside-hard.json
-mods/data/cycles-dside/cycles-dside.json
 mods/data/cycles-dside/defaultCamZoomFix.lua
 mods/data/cycles-dside/mod.txt
 mods/D-Sides/characters/bf-cycles.json

@@ -1,5 +1,4 @@
 mods/data/christmas/christmas-hard.json
-mods/data/christmas/christmas.json
 mods/data/christmas/mod.txt
 mods/Impostor/characters/bf-christmas.json
 mods/Impostor/characters/fella.json

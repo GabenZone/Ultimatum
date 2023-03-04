@@ -1,6 +1,4 @@
-mods/data/blammed-dside/blammed-dside-easy.json
 mods/data/blammed-dside/blammed-dside-hard.json
-mods/data/blammed-dside/blammed-dside.json
 mods/data/blammed-dside/events.json
 mods/data/blammed-dside/mod.txt
 mods/D-Sides/characters/bfdark.json

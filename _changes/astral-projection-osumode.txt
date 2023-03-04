@@ -1,4 +1,3 @@
-mods/data/astral-projection/astral-projection-easy.json
 mods/data/astral-projection/astral-projection.json
 mods/data/astral-projection/centernotes.lua
 mods/data/astral-projection/events.json

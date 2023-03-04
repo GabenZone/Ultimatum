@@ -1,7 +1,5 @@
-mods/data/blammed-b3/blammed-b3-easy.json
 mods/data/blammed-b3/blammed-b3-getreal.json
 mods/data/blammed-b3/blammed-b3-hard.json
-mods/data/blammed-b3/blammed-b3.json
 mods/data/blammed-b3/events.json
 mods/data/blammed-b3/mod.txt
 mods/B3 Remixed/characters/bf-shaded-w3.json

@@ -4,6 +4,7 @@ mods/data/crewicide/mod.txt
 mods/Impostor/stages/dave.json
 mods/Impostor/stages/dave.lua
 mods/Impostor/scripts/Kade Engine's long note.lua
+mods/Impostor/sounds/davewindowsmash.ogg
 mods/songs/crewicide/Voices.ogg
 mods/songs/crewicide/voices.ogg
 mods/songs/crewicide/Inst.ogg

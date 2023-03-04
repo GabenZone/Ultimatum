@@ -1,6 +1,5 @@
 mods/data/chaufa-picante/camera.lua
 mods/data/chaufa-picante/chaufa-picante-hard.json
-mods/data/chaufa-picante/chaufa-picante.json
 mods/data/chaufa-picante/mod.txt
 mods/Aside/characters/bf.json
 mods/Aside/characters/mostaza.json
