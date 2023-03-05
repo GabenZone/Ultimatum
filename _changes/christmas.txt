@@ -11,7 +11,6 @@ mods/Impostor/images/characters/fella.png
 mods/Impostor/images/characters/fella.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/loggo/space.png
 mods/Impostor/images/loggo/placeholder Hell.png
 mods/Impostor/images/loggo/people.png

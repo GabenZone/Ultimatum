@@ -9,7 +9,6 @@ mods/Impostor/stages/ejected.json
 mods/Impostor/stages/ejected.lua
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/custom_events/playVideo.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/ejected/Voices.ogg
 mods/songs/ejected/voices.ogg
 mods/songs/ejected/Inst.ogg

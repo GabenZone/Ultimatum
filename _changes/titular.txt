@@ -10,7 +10,6 @@ mods/Impostor/images/characters/HENRY_ASSS.png
 mods/Impostor/images/characters/HENRY_ASSS.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stagehenry.png
 mods/Impostor/images/pets/stickmin.png
 mods/Impostor/images/pets/stickmin.xml

@@ -1,7 +1,5 @@
-mods/data/guh/guh-easy.json
 mods/data/guh/guh-getreal.json
 mods/data/guh/guh-hard.json
-mods/data/guh/guh.json
 mods/data/guh/mod.txt
 mods/B3 Remixed/characters/bf-pajamas-alt.json
 mods/B3 Remixed/characters/p-gf-hungry-alt.json

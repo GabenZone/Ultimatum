@@ -4,7 +4,6 @@ mods/data/sauces-moogus/sauces-moogus-hard.json
 mods/Impostor/stages/chef.json
 mods/Impostor/stages/chef.lua
 mods/Impostor/custom_events/Reactor Beep.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/sauces-moogus/Voices.ogg
 mods/songs/sauces-moogus/voices.ogg
 mods/songs/sauces-moogus/Inst.ogg

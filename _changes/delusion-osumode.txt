@@ -7,7 +7,6 @@ mods/Impostor/stages/grey.json
 mods/Impostor/stages/grey.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/custom_events/Change HitHealth.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/delusion/Voices.ogg
 mods/songs/delusion/voices.ogg
 mods/songs/delusion/Inst.ogg

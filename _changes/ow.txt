@@ -11,7 +11,6 @@ mods/Impostor/images/characters/red.png
 mods/Impostor/images/characters/red.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/characters/bluehit.png
 mods/Impostor/images/characters/bluehit.xml
 mods/Impostor/characters/bluehit.json

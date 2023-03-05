@@ -11,7 +11,6 @@ mods/Impostor/images/characters/tomongus.png
 mods/Impostor/images/characters/tomongus.xml
 mods/Impostor/images/characters/gfPixel.png
 mods/Impostor/images/characters/gfPixel.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/weeb/weebStreet.png
 mods/Impostor/images/weeb/stars.png
 mods/songs/sussy-bussy/Voices.ogg

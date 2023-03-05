@@ -10,7 +10,6 @@ mods/Impostor/images/characters/Dave.png
 mods/Impostor/images/characters/Dave.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stages/dave/dave.png
 mods/Impostor/images/stages/dave/DAVEdie.png
 mods/Impostor/sounds/davewindowsmash.ogg

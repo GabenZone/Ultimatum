@@ -8,7 +8,6 @@ mods/Impostor/stages/finalem.json
 mods/Impostor/stages/finalem.lua
 mods/Impostor/custom_events/playVideo.lua
 mods/Impostor/custom_events/Change HitHealth.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/finale/Voices.ogg
 mods/songs/finale/voices.ogg
 mods/songs/finale/Inst.ogg

@@ -18,7 +18,6 @@ mods/Impostor/images/characters/gffall.png
 mods/Impostor/images/characters/gffall.xml
 mods/Impostor/custom_events/Change HitHealth.lua
 mods/Impostor/custom_events/playVideo.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/ejected/sky.png
 mods/Impostor/images/ejected/fgClouds.png
 mods/Impostor/images/ejected/scrollingClouds.png

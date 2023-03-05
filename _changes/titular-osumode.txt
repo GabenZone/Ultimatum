@@ -3,7 +3,6 @@ mods/data/titular/mod.txt
 mods/data/titular/titular-hard.json
 mods/Impostor/stages/henry.json
 mods/Impostor/stages/henry.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/titular/Voices.ogg
 mods/songs/titular/voices.ogg
 mods/songs/titular/Inst.ogg

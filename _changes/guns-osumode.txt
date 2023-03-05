@@ -1,6 +1,4 @@
-mods/data/guns/guns-easy.json
 mods/data/guns/guns-hard.json
-mods/data/guns/guns.json
 mods/data/guns/mod.txt
 mods/Vanilla/stages/tank.json
 mods/Vanilla/stages/tank.lua

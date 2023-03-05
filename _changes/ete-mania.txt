@@ -1,6 +1,5 @@
 mods/data/ete-mania/camera.lua
 mods/data/ete-mania/ete-mania-hard.json
-mods/data/ete-mania/ete-mania.json
 mods/data/ete-mania/mod.txt
 mods/Aside/characters/bf.json
 mods/Aside/characters/momichi.json

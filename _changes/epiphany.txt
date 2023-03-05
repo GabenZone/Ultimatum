@@ -7,6 +7,7 @@ mods/data/epiphany/mod.txt
 mods/DokiTakeover/characters/bigmonika.json
 mods/DokiTakeover/stages/clubroomevil.json
 mods/DokiTakeover/stages/clubroomevil.lua
+mods/DokiTakeover/images/characters/big_monikia_base.png
 mods/DokiTakeover/images/characters/big_monikia_base.xml
 mods/DokiTakeover/custom_notetypes/Markov Note.lua
 mods/DokiTakeover/scripts/cameraMovement.lua
@@ -18,3 +19,7 @@ mods/DokiTakeover/images/doki/bigmonika/BG.png
 mods/DokiTakeover/images/doki/bigmonika/FG.png
 mods/DokiTakeover/images/markov_assets.png
 mods/DokiTakeover/images/markov_assets.xml
+mods/songs/epiphany/Voices.ogg
+mods/songs/epiphany/voices.ogg
+mods/songs/epiphany/Inst.ogg
+mods/songs/epiphany/inst.ogg

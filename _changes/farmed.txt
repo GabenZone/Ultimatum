@@ -1,8 +1,5 @@
-mods/data/farmed/farmed-easy.json
 mods/data/farmed/farmed-hard.json
-mods/data/farmed/farmed.json
 mods/data/farmed/mod.txt
-mods/data/farmed/modchart.lua
 mods/data/farmed/script.lua
 mods/data/farmed/script1.lua
 mods/data/farmed/script2.lua
@@ -17,7 +14,6 @@ mods/Fever/images/characters/makoCorrupt.png
 mods/Fever/images/characters/makoCorrupt.xml
 mods/Fever/images/characters/tea_Assets.png
 mods/Fever/images/characters/tea_Assets.xml
-mods/Fever/characters/makocorrupt.json
 mods/Fever/images/sky.png
 mods/Fever/images/bg.png
 mods/songs/farmed/Voices.ogg

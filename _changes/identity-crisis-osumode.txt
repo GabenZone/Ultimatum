@@ -8,7 +8,6 @@ mods/Impostor/stages/monotone.lua
 mods/Impostor/custom_events/Hide Hud.lua
 mods/Impostor/custom_events/Flash Camera.lua
 mods/Impostor/custom_events/Change HitHealth.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/identity-crisis/Voices.ogg
 mods/songs/identity-crisis/voices.ogg
 mods/songs/identity-crisis/Inst.ogg

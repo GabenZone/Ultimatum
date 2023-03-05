@@ -13,13 +13,19 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
-
+      makeLuaSprite('BG', 'stages/esculent/background wall', 630, 355)
+      addLuaSprite('BG', false)
 end
 
-
-
-
 function onUpdate()
+   setProperty('timeBarBG.visible', true)
+   setProperty('timeBar.visible', true)
+   setProperty('timeTxt.visible', true)
+   scaleObject('green', 1.168 * getProperty("songPercent"), .035)
+   
+   setProperty('songtext.x',getProperty('whitebg.x'))
+   setProperty('authortext.x',getProperty('whitebg.x'))
+
     setProperty('gf.alpha', 0);
     setProperty('boyfriend.alpha', 0);
 	if del > 0 then
@@ -85,7 +91,34 @@ function onUpdate()
         end
     else
         triggerEvent('Camera Follow Pos','','')
+    end    
+end
+function onEvent(n,v1,v2)
+   if n == 'Flashes Camera' then
+         makeLuaSprite('flash', '', 0, 0);
+         makeGraphic('flash',1280, 720, '7A0000');
+         addLuaSprite('flash', true);
+         setLuaSpriteScrollFactor('flash', 0, 0);
+         setProperty('flash.scale.x',3);
+         setProperty('flash.scale.y',3);
+         setProperty('flash.alpha',0);
+         setProperty('flash.alpha',0.4);
+         doTweenAlpha('flTw', 'flash', 0, 0.3, 'linear');
     end
-    
+end
+function onTweenCompleted(tag)
+    if tag == 'songtweenin' then
+        runTimer('tweentimer',3)
+    end
+    if tag == 'songtweenout' then
+        removeLuaText('authortext')
+        removeLuaText('songtext')
+        removeLuaSprite('whitebg')
+    end
 end
 
+function onTimerCompleted(tag)
+    if tag == 'tweentimer' then
+        doTweenX('songtweenout','whitebg',-1000,1,'cubeIn')
+    end
+end

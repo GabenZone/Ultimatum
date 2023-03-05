@@ -5,7 +5,6 @@ mods/data/sabotage/sabotage-hard.json
 mods/Impostor/stages/polus2.json
 mods/Impostor/stages/polus2.lua
 mods/Impostor/custom_events/Reactor Beep.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/sabotage/Voices.ogg
 mods/songs/sabotage/voices.ogg
 mods/songs/sabotage/Inst.ogg

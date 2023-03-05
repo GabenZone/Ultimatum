@@ -11,7 +11,6 @@ mods/Impostor/images/characters/oldpostor.png
 mods/Impostor/images/characters/oldpostor.xml
 mods/Impostor/images/characters/oldgf.png
 mods/Impostor/images/characters/oldgf.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stages/polus/HOTASS.png
 mods/songs/actin-sus/Voices.ogg
 mods/songs/actin-sus/voices.ogg

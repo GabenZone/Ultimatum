@@ -1,3 +1,4 @@
+mods/data/glitcher(monika)/events.json
 mods/data/glitcher(monika)/glitcher(monika)-hard.json
 mods/data/glitcher(monika)/mod.txt
 mods/data/glitcher(monika)/RealToPixel.lua

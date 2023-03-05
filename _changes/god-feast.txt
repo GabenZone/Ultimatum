@@ -1,7 +1,5 @@
 mods/data/god-feast/events.json
-mods/data/god-feast/god-feast-easy.json
 mods/data/god-feast/god-feast-hard.json
-mods/data/god-feast/god-feast.json
 mods/data/god-feast/mod.txt
 mods/data/god-feast/script.lua
 mods/D-Sides/characters/feast-zeph.json

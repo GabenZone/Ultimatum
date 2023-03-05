@@ -7,7 +7,6 @@ mods/data/armed/shit.lua
 mods/Impostor/stages/henry.json
 mods/Impostor/stages/henry.lua
 mods/Impostor/custom_events/playVideo.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/armed/Voices.ogg
 mods/songs/armed/voices.ogg
 mods/songs/armed/Inst.ogg

@@ -2,7 +2,6 @@ mods/data/christmas/christmas-hard.json
 mods/data/christmas/mod.txt
 mods/Impostor/stages/loggo.json
 mods/Impostor/stages/loggo.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/christmas/Voices.ogg
 mods/songs/christmas/voices.ogg
 mods/songs/christmas/Inst.ogg

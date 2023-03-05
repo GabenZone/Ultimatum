@@ -4,7 +4,6 @@ mods/data/triple-trouble-impostor/triple-trouble-impostor-hard.json
 mods/Impostor/stages/tripletrouble.json
 mods/Impostor/stages/tripletrouble.lua
 mods/Impostor/custom_events/flash.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/triple-trouble-impostor/Voices.ogg
 mods/songs/triple-trouble-impostor/voices.ogg
 mods/songs/triple-trouble-impostor/Inst.ogg

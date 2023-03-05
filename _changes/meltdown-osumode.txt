@@ -8,7 +8,6 @@ mods/Impostor/stages/polus3.json
 mods/Impostor/stages/polus3.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/custom_events/playVideo.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/meltdown/Voices.ogg
 mods/songs/meltdown/voices.ogg
 mods/songs/meltdown/Inst.ogg

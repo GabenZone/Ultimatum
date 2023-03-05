@@ -51,7 +51,7 @@ end
 function onUpdate()
     if notesEnabled == 2 then
         for notesLength = 0,getProperty('notes.length')-1 do
-            setPropertyFromGroup('notes',notesLength,'texture','PIXELNOTE_assets')
+            setPropertyFromGroup('notes',notesLength,'texture','NOTE_assets')
         end
     elseif notesEnabled == 1 then
         for notesLength = 0,getProperty('notes.length')-1 do
@@ -93,7 +93,7 @@ function changeBG()
             setProperty('gf.y',curGFY + 300)
         end
         for strumLineNotes = 0,7 do
-            setPropertyFromGroup('strumLineNotes',strumLineNotes,'texture','PIXELNOTE_assets')
+            setPropertyFromGroup('strumLineNotes',strumLineNotes,'texture','NOTE_assets')
         end
         for stageLength = 1,#schoolStages do
             setProperty('school'..schoolStages[stageLength]..'.visible',true)

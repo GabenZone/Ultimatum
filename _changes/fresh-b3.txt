@@ -1,7 +1,5 @@
-mods/data/fresh-b3/fresh-b3-easy.json
 mods/data/fresh-b3/fresh-b3-getreal.json
 mods/data/fresh-b3/fresh-b3-hard.json
-mods/data/fresh-b3/fresh-b3.json
 mods/data/fresh-b3/mod.txt
 mods/B3 Remixed/characters/bf.json
 mods/B3 Remixed/characters/dad.json

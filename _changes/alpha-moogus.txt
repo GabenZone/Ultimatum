@@ -9,7 +9,6 @@ mods/Impostor/images/characters/oldpostor.png
 mods/Impostor/images/characters/oldpostor.xml
 mods/Impostor/images/characters/oldgf.png
 mods/Impostor/images/characters/oldgf.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stages/polus/HOTASS.png
 mods/songs/alpha-moogus/Voices.ogg
 mods/songs/alpha-moogus/voices.ogg

@@ -1,7 +1,5 @@
 mods/data/fresh-dside/events.json
-mods/data/fresh-dside/fresh-dside-easy.json
 mods/data/fresh-dside/fresh-dside-hard.json
-mods/data/fresh-dside/fresh-dside.json
 mods/data/fresh-dside/mod.txt
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/dad.json

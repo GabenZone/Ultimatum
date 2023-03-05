@@ -16,7 +16,6 @@ mods/Impostor/images/characters/pink.xml
 mods/Impostor/images/characters/gfmira.png
 mods/Impostor/images/characters/gfmira.xml
 mods/Impostor/custom_events/pick.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/miragarden/bg sky.png
 mods/Impostor/images/miragarden/cloud fathest.png
 mods/Impostor/images/miragarden/cloud front.png

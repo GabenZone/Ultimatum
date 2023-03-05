@@ -10,7 +10,6 @@ mods/Impostor/images/characters/nuzzus.png
 mods/Impostor/images/characters/nuzzus.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/sussus-nuzzus/Voices.ogg
 mods/songs/sussus-nuzzus/voices.ogg
 mods/songs/sussus-nuzzus/Inst.ogg

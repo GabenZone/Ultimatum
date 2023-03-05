@@ -6,7 +6,6 @@ mods/Impostor/stages/polus.json
 mods/Impostor/stages/polus.lua
 mods/Impostor/images/characters/top10.png
 mods/Impostor/images/characters/top10.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/polussus1/newsky.png
 mods/Impostor/images/polussus1/polusrocks.png
 mods/Impostor/images/polussus1/polusHills.png

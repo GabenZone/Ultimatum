@@ -1,7 +1,5 @@
 mods/data/fresh/events.json
-mods/data/fresh/fresh-easy.json
 mods/data/fresh/fresh-hard.json
-mods/data/fresh/fresh.json
 mods/data/fresh/mod.txt
 mods/Vanilla/stages/stagev2.json
 mods/Vanilla/stages/stagev2.lua

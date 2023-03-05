@@ -13,7 +13,6 @@ mods/Impostor/images/characters/maroon.png
 mods/Impostor/images/characters/maroon.xml
 mods/Impostor/images/characters/gfpolus.png
 mods/Impostor/images/characters/gfpolus.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/polussus5/newstage.png
 mods/Impostor/images/polussus5/newsky.png
 mods/Impostor/images/polussus5/backwall.png

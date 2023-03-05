@@ -5,7 +5,6 @@ mods/Impostor/stages/reactor2.json
 mods/Impostor/stages/reactor2.lua
 mods/Impostor/custom_events/Reactor Beep.lua
 mods/Impostor/custom_events/Change HitHealth.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/reactor/Voices.ogg
 mods/songs/reactor/voices.ogg
 mods/songs/reactor/Inst.ogg

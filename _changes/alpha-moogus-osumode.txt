@@ -2,7 +2,6 @@ mods/data/alpha-moogus/alpha-moogus-hard.json
 mods/data/alpha-moogus/mod.txt
 mods/Impostor/stages/alpha.json
 mods/Impostor/stages/alpha.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/alpha-moogus/Voices.ogg
 mods/songs/alpha-moogus/voices.ogg
 mods/songs/alpha-moogus/Inst.ogg

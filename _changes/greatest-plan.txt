@@ -18,7 +18,6 @@ mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/characters/henryphone.json
 mods/Impostor/images/characters/henry_i_phone.png
 mods/Impostor/images/characters/henry_i_phone.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stagehenry.png
 mods/songs/greatest-plan/Voices.ogg
 mods/songs/greatest-plan/voices.ogg

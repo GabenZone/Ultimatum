@@ -1,6 +1,5 @@
 mods/data/furia-agria/camera.lua
 mods/data/furia-agria/furia-agria-hard.json
-mods/data/furia-agria/furia-agria.json
 mods/data/furia-agria/mod.txt
 mods/Aside/stages/laFonda.json
 mods/Aside/stages/laFonda.lua

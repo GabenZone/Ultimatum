@@ -11,3 +11,7 @@ mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/epiphany/Voices.ogg
+mods/songs/epiphany/voices.ogg
+mods/songs/epiphany/Inst.ogg
+mods/songs/epiphany/inst.ogg

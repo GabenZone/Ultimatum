@@ -15,7 +15,6 @@ mods/Impostor/images/characters/cval.png
 mods/Impostor/images/characters/cval.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/back.png
 mods/songs/chippin/Voices.ogg
 mods/songs/chippin/voices.ogg

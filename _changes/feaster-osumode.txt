@@ -1,7 +1,5 @@
 mods/data/feaster/events.json
-mods/data/feaster/feaster-easy.json
 mods/data/feaster/feaster-hard.json
-mods/data/feaster/feaster.json
 mods/data/feaster/mod.txt
 mods/D-Sides/stages/W5_stage_Feaster.json
 mods/D-Sides/stages/W5_stage_Feaster.lua

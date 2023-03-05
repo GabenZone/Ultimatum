@@ -12,7 +12,6 @@ mods/Impostor/images/characters/tuesday.png
 mods/Impostor/images/characters/tuesday.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/tomongus-tuesday/Voices.ogg
 mods/songs/tomongus-tuesday/voices.ogg
 mods/songs/tomongus-tuesday/Inst.ogg

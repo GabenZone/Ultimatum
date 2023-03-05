@@ -20,7 +20,6 @@ mods/Impostor/images/characters/pinkexe.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/flash.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/triple-trouble-impostor/Voices.ogg
 mods/songs/triple-trouble-impostor/voices.ogg
 mods/songs/triple-trouble-impostor/Inst.ogg

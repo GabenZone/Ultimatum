@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "dokifestival",
+		"player1": "bf-doki",
+		"player2": "monika-real",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"1",
+						"monika"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Glitcher(Monika)"
+	}
+}

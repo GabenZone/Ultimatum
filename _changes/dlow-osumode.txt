@@ -5,7 +5,6 @@ mods/data/dlow/mod.txt
 mods/Impostor/stages/airshipRoom1.json
 mods/Impostor/stages/airshipRoom1.lua
 mods/Impostor/custom_events/flash.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/dlow/Voices.ogg
 mods/songs/dlow/voices.ogg
 mods/songs/dlow/Inst.ogg

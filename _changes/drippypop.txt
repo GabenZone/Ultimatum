@@ -12,7 +12,6 @@ mods/Impostor/images/characters/drippy.png
 mods/Impostor/images/characters/drippy.xml
 mods/Impostor/images/characters/drippico.png
 mods/Impostor/images/characters/drippico.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/stages/drip/ng.png
 mods/songs/drippypop/Voices.ogg
 mods/songs/drippypop/voices.ogg

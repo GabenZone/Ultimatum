@@ -1,6 +1,4 @@
-mods/data/endless-dside/endless-dside-easy.json
 mods/data/endless-dside/endless-dside-hard.json
-mods/data/endless-dside/endless-dside.json
 mods/data/endless-dside/mod.txt
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/Tenma.json

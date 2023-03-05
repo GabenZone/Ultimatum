@@ -13,7 +13,6 @@ mods/Impostor/images/characters/chefogus.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/Reactor Beep.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/sauces-moogus/Voices.ogg
 mods/songs/sauces-moogus/voices.ogg
 mods/songs/sauces-moogus/Inst.ogg

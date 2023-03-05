@@ -12,7 +12,6 @@ mods/Impostor/images/characters/cvaltorture.png
 mods/Impostor/images/characters/cvaltorture.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/torture/Voices.ogg
 mods/songs/torture/voices.ogg
 mods/songs/torture/Inst.ogg

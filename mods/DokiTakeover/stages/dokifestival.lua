@@ -8,6 +8,28 @@ function onCreate()
     if songName == 'Obsession' then
         enabledGirls = false
     end
+	addCharacterToList('monika','dad')
+	makeLuaSprite('schoolSky','schoolStage/weebSky',-200,0)
+    setScrollFactor('schoolSky',0.6,0.90)
+    setProperty('schoolSky.antialiasing',false)
+    scaleObject('schoolSky',6,6)
+	
+	makeLuaSprite('schoolSchool','schoolStage/weebSchool',-200,0)
+    setScrollFactor('schoolSchool',0.6,0.90)
+    setProperty('schoolSchool.antialiasing',false)
+    scaleObject('schoolSchool',6,6)
+	
+	makeAnimatedLuaSprite('schoolTrees','schoolStage/weebTrees',-800,-1000)
+    addAnimationByPrefix('schoolTrees','idle','tress_',12,true)
+    setScrollFactor('schoolTrees',0.85,0.85)
+    setProperty('schoolTrees.antialiasing',false)
+    scaleObject('schoolTrees',6,6)
+	
+	makeLuaSprite('schoolGround','schoolStage/weebStreet',-200,0)
+    setScrollFactor('schoolGround',0.95,0.95)
+    setProperty('schoolGround.antialiasing',false)
+    scaleObject('schoolGround',6,6)
+	
         makeLuaSprite('dokiFarBack','doki/festival/FarBack',-780,-600)
         scaleObject('dokiFarBack',1.7,1.7)
         addLuaSprite('dokiFarBack',false)

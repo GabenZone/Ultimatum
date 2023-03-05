@@ -8,7 +8,6 @@ mods/Impostor/stages/plantroom.json
 mods/Impostor/stages/plantroom.lua
 mods/Impostor/custom_events/playVideo.lua
 mods/Impostor/custom_events/pick.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/pinkwave/Voices.ogg
 mods/songs/pinkwave/voices.ogg
 mods/songs/pinkwave/Inst.ogg

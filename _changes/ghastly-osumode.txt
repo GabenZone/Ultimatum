@@ -1,8 +1,5 @@
-mods/data/ghastly/ghastly-easy.json
 mods/data/ghastly/ghastly-hard.json
-mods/data/ghastly/ghastly.json
 mods/data/ghastly/mod.txt
-mods/D-Sides/stages/spooky.json
 mods/D-Sides/stages/monsterspook.json
 mods/D-Sides/stages/monsterspook.lua
 mods/D-Sides/scripts/smoothcam.lua

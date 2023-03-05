@@ -67,7 +67,11 @@ makeAnimatedLuaSprite('speedLines', 'ejected/speedLines', -560, -930)
 	 objectPlayAnimation('speedLines', 'speedLines');
 end
 
+	function onCreatePost()
 
+   setProperty('scoreTxt.visible', true)
+
+end
 
 function onUpdate()
 	if del > 0 then

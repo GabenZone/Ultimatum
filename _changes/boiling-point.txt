@@ -14,7 +14,6 @@ mods/Impostor/images/characters/maroonP.png
 mods/Impostor/images/characters/maroonP.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/Impostor/images/polussus5/platform.png
 mods/Impostor/images/polussus5/wallBP.png
 mods/Impostor/images/polussus5/wallBP.xml

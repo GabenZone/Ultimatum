@@ -9,7 +9,6 @@ mods/Impostor/custom_notetypes/Gf wit Opponent Specific Note.lua
 mods/Impostor/custom_events/flash.lua
 mods/Impostor/custom_events/icon change.lua
 mods/Impostor/custom_events/Change HitHealth.lua
-mods/Impostor/scripts/Kade Engine's long note.lua
 mods/songs/double-kill/Voices.ogg
 mods/songs/double-kill/voices.ogg
 mods/songs/double-kill/Inst.ogg

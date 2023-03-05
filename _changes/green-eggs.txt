@@ -1,6 +1,4 @@
-mods/data/green-eggs/green-eggs-easy.json
 mods/data/green-eggs/green-eggs-hard.json
-mods/data/green-eggs/green-eggs.json
 mods/data/green-eggs/mod.txt
 mods/D-Sides/characters/bf-christmas.json
 mods/D-Sides/characters/parents-christmas.json
