@@ -11,6 +11,7 @@ mods/Impostor/images/characters/idk.png
 mods/Impostor/images/characters/idk.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/images/stages/idk/toby.png
 mods/songs/idk/Voices.ogg
 mods/songs/idk/voices.ogg
 mods/songs/idk/Inst.ogg

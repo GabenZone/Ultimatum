@@ -8,3 +8,7 @@ mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/its-complicated(sayo)/Voices.ogg
+mods/songs/its-complicated(sayo)/voices.ogg
+mods/songs/its-complicated(sayo)/Inst.ogg
+mods/songs/its-complicated(sayo)/inst.ogg

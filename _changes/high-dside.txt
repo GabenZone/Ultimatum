@@ -1,6 +1,4 @@
-mods/data/high-dside/high-dside-easy.json
 mods/data/high-dside/high-dside-hard.json
-mods/data/high-dside/high-dside.json
 mods/data/high-dside/mod.txt
 mods/D-Sides/characters/bf-car.json
 mods/D-Sides/characters/mom-car.json

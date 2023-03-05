@@ -1,6 +1,4 @@
-mods/data/ham/ham-easy.json
 mods/data/ham/ham-hard.json
-mods/data/ham/ham.json
 mods/data/ham/mod.txt
 mods/D-Sides/characters/bf-christmas.json
 mods/D-Sides/characters/parents-christmas.json

@@ -1,7 +1,5 @@
-mods/data/harmony/harmony-easy.json
 mods/data/harmony/harmony-getreal.json
 mods/data/harmony/harmony-hard.json
-mods/data/harmony/harmony.json
 mods/data/harmony/mod.txt
 mods/B3 Remixed/stages/podcast.json
 mods/B3 Remixed/stages/podcast.lua

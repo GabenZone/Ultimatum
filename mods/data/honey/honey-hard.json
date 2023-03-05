@@ -2811,7 +2811,7 @@
 		"uiType": "normal",
 		"needsVoices": true,
 		"sections": 0,
-		"stage": "limo",
+		"stage": "limo-fever",
 		"gf": "gf-car_daytime",
 		"bpm": 130
 	}

@@ -1,6 +1,5 @@
 mods/data/hallow/hallow-hard.json
 mods/data/hallow/mod.txt
-mods/data/hallow/modchart.lua
 mods/data/hallow/script.lua
 mods/Fever/stages/spooky_hallow.json
 mods/Fever/stages/spooky_hallow.lua
