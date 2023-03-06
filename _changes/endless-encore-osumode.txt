@@ -1,0 +1,15 @@
+mods/data/endless-encore/Camera.lua
+mods/data/endless-encore/changeSplashNoteSonic.lua
+mods/data/endless-encore/creditos.lua
+mods/data/endless-encore/endless-encore-hard.json
+mods/data/endless-encore/mod.txt
+mods/data/endless-encore/screenBeat.lua
+mods/data/endless-encore/scriptIntro.lua
+mods/SonicEXE/stages/endless-forest.json
+mods/SonicEXE/stages/endless-forest.lua
+mods/SonicEXE/custom_events/Majin count.lua
+mods/SonicEXE/custom_events/changeNoteTexture.lua
+mods/SonicEXE/custom_events/Majin spin.lua
+mods/SonicEXE/fonts/vcr.ttf
+mods/songs/endless-encore/Inst.ogg
+mods/songs/endless-encore/inst.ogg

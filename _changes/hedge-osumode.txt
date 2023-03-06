@@ -1,0 +1,10 @@
+mods/data/hedge/creditos.lua
+mods/data/hedge/follow.lua
+mods/data/hedge/hedge-hard.json
+mods/data/hedge/mod.txt
+mods/SonicEXE/stages/hogHedge.json
+mods/SonicEXE/stages/hogHedge.lua
+mods/SonicEXE/custom_notetypes/Pre-Transformation.lua
+mods/SonicEXE/custom_events/HogDodge.lua
+mods/songs/hedge/Inst.ogg
+mods/songs/hedge/inst.ogg

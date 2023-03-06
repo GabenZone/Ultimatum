@@ -1,0 +1,29 @@
+mods/data/fight-or-flight/changeSplashNoteSonic.lua
+mods/data/fight-or-flight/creditos.lua
+mods/data/fight-or-flight/events.json
+mods/data/fight-or-flight/fight-or-flight-hard.json
+mods/data/fight-or-flight/mod.txt
+mods/data/fight-or-flight/script.lua
+mods/data/fight-or-flight/scriptCutscene.lua
+mods/data/fight-or-flight/scriptIntro.lua
+mods/data/fight-or-flight/Vertical HP Bar.lua
+mods/SonicEXE/characters/bf-tails.json
+mods/SonicEXE/characters/starved.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/starved.json
+mods/SonicEXE/stages/starved.lua
+mods/SonicEXE/images/characters/Starved_Tails.png
+mods/SonicEXE/images/characters/Starved_Tails.xml
+mods/SonicEXE/images/characters/Starved.png
+mods/SonicEXE/images/characters/Starved.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/images/starved/sonicisfuckingdead.png
+mods/SonicEXE/images/starved/camara negra.png
+mods/SonicEXE/images/starved/stage.png
+mods/SonicEXE/images/out.png
+mods/SonicEXE/images/black.png
+mods/SonicEXE/images/StartScreens/Circle-fight-or-flight.png
+mods/SonicEXE/images/StartScreens/Text-fight-or-flight.png
+mods/songs/fight-or-flight/Inst.ogg
+mods/songs/fight-or-flight/inst.ogg

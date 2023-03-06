@@ -1,0 +1,11 @@
+mods/data/you-cant-run/Camera.lua
+mods/data/you-cant-run/changeSplashNoteSonic.lua
+mods/data/you-cant-run/creditos.lua
+mods/data/you-cant-run/credits.lua
+mods/data/you-cant-run/forFUNlol.lua
+mods/data/you-cant-run/scriptCutscene.lua
+mods/data/you-cant-run/scriptIntro.lua
+mods/data/you-cant-run/ycr shit.lua
+mods/data/you-cant-run/you-cant-run-encore.json
+mods/songs/you-cant-run/Inst.ogg
+mods/songs/you-cant-run/inst.ogg

@@ -1,0 +1,15 @@
+mods/data/playful/camfollow.lua
+mods/data/playful/creditos.lua
+mods/data/playful/hp.lua
+mods/data/playful/mod.txt
+mods/data/playful/playful-hard.json
+mods/SonicEXE/stages/schoolhouse.json
+mods/SonicEXE/stages/schoolhouse.lua
+mods/SonicEXE/custom_events/NoteSpin.lua
+mods/SonicEXE/custom_events/zoom out.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Flash Camera red.lua
+mods/SonicEXE/custom_events/Replace stage layer.lua
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/songs/playful/Inst.ogg
+mods/songs/playful/inst.ogg

@@ -1,0 +1,11 @@
+mods/data/malediction/Camera.lua
+mods/data/malediction/creditos.lua
+mods/data/malediction/malediction-hard.json
+mods/data/malediction/mod.txt
+mods/data/malediction/scriptIntro.lua
+mods/SonicEXE/stages/curse.json
+mods/SonicEXE/stages/curse.lua
+mods/SonicEXE/custom_events/Lyrics1.lua
+mods/SonicEXE/fonts/vcr.ttf
+mods/songs/malediction/Inst.ogg
+mods/songs/malediction/inst.ogg

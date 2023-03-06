@@ -1,0 +1,26 @@
+mods/data/substantial/Camera.lua
+mods/data/substantial/creditos.lua
+mods/data/substantial/mod.txt
+mods/data/substantial/screenBeat.lua
+mods/data/substantial/scriptIntro.lua
+mods/data/substantial/substantial-hard.json
+mods/SonicEXE/characters/bfthreed.json
+mods/SonicEXE/characters/xterion.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/xterion.json
+mods/SonicEXE/stages/xterion.lua
+mods/SonicEXE/images/characters/SSBF_Assets.png
+mods/SonicEXE/images/characters/SSBF_Assets.xml
+mods/SonicEXE/images/characters/xterion.png
+mods/SonicEXE/images/characters/xterion.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/custom_events/Cinematics.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/images/xterion/sky.png
+mods/SonicEXE/images/xterion/floor.png
+mods/SonicEXE/images/black.png
+mods/SonicEXE/images/StartScreens/Circle-substantial.png
+mods/SonicEXE/images/StartScreens/Text-substantial.png
+mods/songs/substantial/Inst.ogg
+mods/songs/substantial/inst.ogg

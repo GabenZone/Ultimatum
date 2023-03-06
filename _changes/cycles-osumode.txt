@@ -1,0 +1,16 @@
+mods/data/cycles/changeSplashNoteSonic.lua
+mods/data/cycles/creditos.lua
+mods/data/cycles/cycles-encore.json
+mods/data/cycles/mod.txt
+mods/data/cycles/scriptIntro.lua
+mods/data/cycles/Sistema de Gameovers Random.lua
+mods/SonicEXE/stages/lordx.json
+mods/SonicEXE/stages/lordx.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/custom_events/BlackOut.lua
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/songs/cycles/Voices.ogg
+mods/songs/cycles/voices.ogg
+mods/songs/cycles/Inst.ogg
+mods/songs/cycles/inst.ogg

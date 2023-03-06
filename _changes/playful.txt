@@ -1,0 +1,31 @@
+mods/data/playful/camfollow.lua
+mods/data/playful/creditos.lua
+mods/data/playful/hp.lua
+mods/data/playful/mod.txt
+mods/data/playful/playful-hard.json
+mods/SonicEXE/characters/Invis.json
+mods/SonicEXE/characters/educator.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/schoolhouse.json
+mods/SonicEXE/stages/schoolhouse.lua
+mods/SonicEXE/images/characters/invis.png
+mods/SonicEXE/images/characters/invis.xml
+mods/SonicEXE/images/characters/educator.png
+mods/SonicEXE/images/characters/educator.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/custom_events/NoteSpin.lua
+mods/SonicEXE/custom_events/zoom out.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Flash Camera red.lua
+mods/SonicEXE/custom_events/Replace stage layer.lua
+mods/SonicEXE/images/educator/empty schoolhouse.png
+mods/SonicEXE/images/educator/overlay.png
+mods/SonicEXE/images/educator/ojosTontitos.png
+mods/SonicEXE/images/dablack.png
+mods/SonicEXE/images/bluscreen.png
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/SonicEXE/images/screenstatic.png
+mods/SonicEXE/images/screenstatic.xml
+mods/songs/playful/Inst.ogg
+mods/songs/playful/inst.ogg

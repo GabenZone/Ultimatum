@@ -1,0 +1,13 @@
+mods/data/my-horizon/Camera.lua
+mods/data/my-horizon/changeSplashNoteSonic.lua
+mods/data/my-horizon/creditos.lua
+mods/data/my-horizon/mod.txt
+mods/data/my-horizon/my-horizon-hard.json
+mods/data/my-horizon/screenBeat.lua
+mods/data/my-horizon/scriptIntro.lua
+mods/data/my-horizon/SonicTypeHud.lua
+mods/SonicEXE/stages/horizon.json
+mods/SonicEXE/stages/horizon.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/songs/my-horizon/Inst.ogg
+mods/songs/my-horizon/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/too-fest/Camera.lua
+mods/data/too-fest/changeSplashNoteSonic.lua
+mods/data/too-fest/mod.txt
+mods/data/too-fest/Sistema de Gameovers Random.lua
+mods/data/too-fest/too-fest-hard.json
+mods/SonicEXE/stages/sanicStage.json
+mods/SonicEXE/stages/sanicStage.lua
+mods/SonicEXE/custom_events/TweenSpinBF.lua
+mods/SonicEXE/custom_events/TweenSpin.lua
+mods/SonicEXE/custom_events/TweenSpinOp.lua
+mods/SonicEXE/custom_events/TweenSpinLow.lua
+mods/SonicEXE/sounds/Sanic/HitMarkers.ogg
+mods/songs/too-fest/Inst.ogg
+mods/songs/too-fest/inst.ogg

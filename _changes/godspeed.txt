@@ -1,0 +1,31 @@
+mods/data/godspeed/Camera.lua
+mods/data/godspeed/changeSplashNoteSonic.lua
+mods/data/godspeed/creditos.lua
+mods/data/godspeed/godspeed-hard.json
+mods/data/godspeed/mod.txt
+mods/SonicEXE/characters/bf.json
+mods/SonicEXE/characters/Exe.json
+mods/SonicEXE/characters/exe-gf.json
+mods/SonicEXE/stages/GodBG.json
+mods/SonicEXE/stages/GodBG.lua
+mods/SonicEXE/images/characters/BOYFRIEND.png
+mods/SonicEXE/images/characters/BOYFRIEND.xml
+mods/SonicEXE/images/characters/Exe_Assets.png
+mods/SonicEXE/images/characters/Exe_Assets.xml
+mods/SonicEXE/images/characters/exe_gf_assets.png
+mods/SonicEXE/images/characters/exe_gf_assets.xml
+mods/SonicEXE/custom_events/Kaboom.lua
+mods/SonicEXE/custom_events/zoom out.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/HideUI.lua
+mods/SonicEXE/custom_events/Smooth cam zoom.lua
+mods/SonicEXE/custom_events/Cinematics.lua
+mods/SonicEXE/custom_events/BlackOut.lua
+mods/SonicEXE/images/faker/GodspeedBG.png
+mods/SonicEXE/images/faker/GodspeedBG.xml
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/SonicEXE/images/screenstatic.png
+mods/SonicEXE/images/screenstatic.xml
+mods/SonicEXE/images/dablack.png
+mods/songs/godspeed/Inst.ogg
+mods/songs/godspeed/inst.ogg

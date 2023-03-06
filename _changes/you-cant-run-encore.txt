@@ -1,0 +1,55 @@
+mods/data/you-cant-run-encore/Camera.lua
+mods/data/you-cant-run-encore/changeSplashNoteSonic.lua
+mods/data/you-cant-run-encore/credits.lua
+mods/data/you-cant-run-encore/forFUNlol.lua
+mods/data/you-cant-run-encore/mod.txt
+mods/data/you-cant-run-encore/scriptCutscene.lua
+mods/data/you-cant-run-encore/scriptIntro.lua
+mods/data/you-cant-run-encore/ycr shit.lua
+mods/data/you-cant-run-encore/you-cant-run-encore.json
+mods/SonicEXE/characters/bf-encore.json
+mods/SonicEXE/characters/ycr.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/SonicP2.json
+mods/SonicEXE/stages/SonicP2.lua
+mods/SonicEXE/images/characters/ENCORE_BF.png
+mods/SonicEXE/images/characters/ENCORE_BF.xml
+mods/SonicEXE/images/characters/YCR.png
+mods/SonicEXE/images/characters/YCR.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/characters/pixelrunsonic.json
+mods/SonicEXE/images/characters/ycr_sonic_sheet.png
+mods/SonicEXE/images/characters/ycr_sonic_sheet.xml
+mods/SonicEXE/characters/encore-bf-pixel.json
+mods/SonicEXE/images/characters/encore-bf-pixel.png
+mods/SonicEXE/images/characters/encore-bf-pixel.xml
+mods/SonicEXE/characters/ycr-mad.json
+mods/SonicEXE/images/characters/YCR_Mad.png
+mods/SonicEXE/images/characters/YCR_Mad.xml
+mods/SonicEXE/custom_notetypes/Phantom Note.lua
+mods/SonicEXE/custom_notetypes/staticNotes.lua
+mods/SonicEXE/custom_events/Sonic Face.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Red Flash Camera.lua
+mods/SonicEXE/custom_events/Hud Fade.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/custom_events/BlackOut.lua
+mods/SonicEXE/images/SonicP2/Youcantrunbg.png
+mods/SonicEXE/images/dablack.png
+mods/SonicEXE/images/black.png
+mods/SonicEXE/images/StartScreens/Circle-YouCantRun.png
+mods/SonicEXE/images/StartScreens/Text-YouCantRun.png
+mods/SonicEXE/images/SonicP2/GreenHill.png
+mods/SonicEXE/images/PhantomNote.png
+mods/SonicEXE/images/PhantomNote.xml
+mods/SonicEXE/images/hitStatic.png
+mods/SonicEXE/images/hitStatic.xml
+mods/SonicEXE/images/staticNotes.png
+mods/SonicEXE/images/staticNotes.xml
+mods/SonicEXE/sounds/hitStatic1.ogg
+mods/SonicEXE/images/simplejump.png
+mods/SonicEXE/sounds/sppok.ogg
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/SonicEXE/images/screenstatic.png
+mods/SonicEXE/images/screenstatic.xml

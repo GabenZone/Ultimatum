@@ -1,0 +1,9 @@
+mods/data/burning/burning-hard.json
+mods/data/burning/Camera.lua
+mods/data/burning/creditos.lua
+mods/data/burning/mod.txt
+mods/SonicEXE/stages/BurningStage.json
+mods/SonicEXE/stages/BurningStage.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/songs/burning/Inst.ogg
+mods/songs/burning/inst.ogg

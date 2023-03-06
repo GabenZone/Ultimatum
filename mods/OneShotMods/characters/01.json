@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "01idle"
+		},
+		{
+			"offsets": [
+				21,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "01left"
+		},
+		{
+			"offsets": [
+				4,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "01down"
+		},
+		{
+			"offsets": [
+				-21,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "01up"
+		},
+		{
+			"offsets": [
+				-24,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "01right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				142
+			],
+			"anim": "pickup",
+			"fps": 24,
+			"name": "01pickup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-81,
+				128
+			],
+			"anim": "walk",
+			"fps": 24,
+			"name": "01walking",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/01",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-400,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

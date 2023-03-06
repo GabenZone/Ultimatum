@@ -1,0 +1,17 @@
+mods/data/too-slow/Camera.lua
+mods/data/too-slow/changeSplashNoteSonic.lua
+mods/data/too-slow/creditos.lua
+mods/data/too-slow/LuzNegra.lua
+mods/data/too-slow/mod.txt
+mods/data/too-slow/screenBeat.lua
+mods/data/too-slow/script Personalizar Muerte.lua
+mods/data/too-slow/scriptIntro.lua
+mods/data/too-slow/too-slow-encore.json
+mods/SonicEXE/stages/too-slow.json
+mods/SonicEXE/stages/too-slow.lua
+mods/SonicEXE/custom_notetypes/Static Note.lua
+mods/SonicEXE/custom_events/Lyrics.lua
+mods/SonicEXE/custom_events/Red Flash Camera.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/fonts/vcr.ttf
+mods/SonicEXE/sounds/hitStatic1.ogg

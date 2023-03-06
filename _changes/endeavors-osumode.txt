@@ -1,0 +1,10 @@
+mods/data/endeavors/Camera.lua
+mods/data/endeavors/changeSplashNoteSonic.lua
+mods/data/endeavors/creditos.lua
+mods/data/endeavors/endeavors-hard.json
+mods/data/endeavors/mod.txt
+mods/data/endeavors/scriptIntro.lua
+mods/SonicEXE/stages/endeavors-forest.json
+mods/SonicEXE/stages/endeavors-forest.lua
+mods/songs/endeavors/Inst.ogg
+mods/songs/endeavors/inst.ogg

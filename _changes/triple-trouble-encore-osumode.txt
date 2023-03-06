@@ -1,0 +1,15 @@
+mods/data/triple-trouble-encore/CameraTT.lua
+mods/data/triple-trouble-encore/changeSplashNoteSonic.lua
+mods/data/triple-trouble-encore/mod.txt
+mods/data/triple-trouble-encore/scriptIntro.lua
+mods/data/triple-trouble-encore/triple-trouble-encore.json
+mods/SonicEXE/stages/TripleTroubleStage.json
+mods/SonicEXE/stages/TripleTroubleStage.lua
+mods/SonicEXE/custom_events/SonicJumpscare.lua
+mods/SonicEXE/custom_events/trioStatic.lua
+mods/SonicEXE/sounds/sppok.ogg
+mods/SonicEXE/sounds/P3Jumps/TailsScreamLOL.ogg
+mods/SonicEXE/sounds/P3Jumps/KnucklesScreamLOL.ogg
+mods/SonicEXE/sounds/P3Jumps/EggmanScreamLOL.ogg
+mods/songs/triple-trouble-encore/Inst.ogg
+mods/songs/triple-trouble-encore/inst.ogg

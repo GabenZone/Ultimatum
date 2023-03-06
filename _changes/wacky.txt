@@ -1,0 +1,22 @@
+mods/data/wacky/events.json
+mods/data/wacky/mod.txt
+mods/data/wacky/script.lua
+mods/data/wacky/wacky-hard.json
+mods/OneShotMods/characters/dahlia.json
+mods/OneShotMods/characters/amber.json
+mods/OneShotMods/characters/01.json
+mods/OneShotMods/stages/room.json
+mods/OneShotMods/stages/room.lua
+mods/OneShotMods/images/characters/Dahlia.png
+mods/OneShotMods/images/characters/Dahlia.xml
+mods/OneShotMods/images/characters/Amber.png
+mods/OneShotMods/images/characters/Amber.xml
+mods/OneShotMods/images/characters/01.png
+mods/OneShotMods/images/characters/01.xml
+mods/OneShotMods/custom_events/Set Cam Zoom.lua
+mods/OneShotMods/images/bg.png
+mods/OneShotMods/images/wall.png
+mods/songs/wacky/Voices.ogg
+mods/songs/wacky/voices.ogg
+mods/songs/wacky/Inst.ogg
+mods/songs/wacky/inst.ogg

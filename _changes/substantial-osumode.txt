@@ -1,0 +1,12 @@
+mods/data/substantial/Camera.lua
+mods/data/substantial/creditos.lua
+mods/data/substantial/mod.txt
+mods/data/substantial/screenBeat.lua
+mods/data/substantial/scriptIntro.lua
+mods/data/substantial/substantial-hard.json
+mods/SonicEXE/stages/xterion.json
+mods/SonicEXE/stages/xterion.lua
+mods/SonicEXE/custom_events/Cinematics.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/songs/substantial/Inst.ogg
+mods/songs/substantial/inst.ogg

@@ -1,0 +1,37 @@
+mods/data/cycles/changeSplashNoteSonic.lua
+mods/data/cycles/creditos.lua
+mods/data/cycles/cycles-encore.json
+mods/data/cycles/mod.txt
+mods/data/cycles/scriptIntro.lua
+mods/data/cycles/Sistema de Gameovers Random.lua
+mods/SonicEXE/characters/bf-encore.json
+mods/SonicEXE/characters/x.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/lordx.json
+mods/SonicEXE/stages/lordx.lua
+mods/SonicEXE/images/characters/ENCORE_BF.png
+mods/SonicEXE/images/characters/ENCORE_BF.xml
+mods/SonicEXE/images/characters/x.png
+mods/SonicEXE/images/characters/x.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/custom_events/BlackOut.lua
+mods/SonicEXE/images/Cycles/floor.png
+mods/SonicEXE/images/black_vignette.png
+mods/SonicEXE/images/Cycles/NotKnuckles_Assets.png
+mods/SonicEXE/images/Cycles/NotKnuckles_Assets.xml
+mods/SonicEXE/images/Cycles/WeirdAssFlower_Assets.png
+mods/SonicEXE/images/Cycles/WeirdAssFlower_Assets.xml
+mods/SonicEXE/images/black.png
+mods/SonicEXE/images/StartScreens/Circle-cycles.png
+mods/SonicEXE/images/StartScreens/Text-cycles.png
+mods/SonicEXE/sounds/simplejumpsound.ogg
+mods/SonicEXE/images/screenstatic.png
+mods/SonicEXE/images/screenstatic.xml
+mods/SonicEXE/images/dablack.png
+mods/songs/cycles/Voices.ogg
+mods/songs/cycles/voices.ogg
+mods/songs/cycles/Inst.ogg
+mods/songs/cycles/inst.ogg

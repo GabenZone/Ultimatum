@@ -1,0 +1,24 @@
+mods/data/burning/burning-hard.json
+mods/data/burning/Camera.lua
+mods/data/burning/creditos.lua
+mods/data/burning/mod.txt
+mods/SonicEXE/characters/bf-burning.json
+mods/SonicEXE/characters/burning_sonic.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/BurningStage.json
+mods/SonicEXE/stages/BurningStage.lua
+mods/SonicEXE/images/characters/Bf-Burning.png
+mods/SonicEXE/images/characters/Bf-Burning.xml
+mods/SonicEXE/images/characters/burning sonic.png
+mods/SonicEXE/images/characters/burning sonic.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/characters/bw.json
+mods/SonicEXE/images/characters/sonic_sprites.png
+mods/SonicEXE/images/characters/sonic_sprites.xml
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/images/burning/stageNormal.png
+mods/SonicEXE/images/burning/stageExe.png
+mods/SonicEXE/images/dablack.png
+mods/songs/burning/Inst.ogg
+mods/songs/burning/inst.ogg

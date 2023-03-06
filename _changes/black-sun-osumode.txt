@@ -1,0 +1,11 @@
+mods/data/black-sun/black-sun-hard.json
+mods/data/black-sun/Camera.lua
+mods/data/black-sun/changeSplashNoteSonic.lua
+mods/data/black-sun/creditos.lua
+mods/data/black-sun/mod.txt
+mods/SonicEXE/stages/ExeBG.json
+mods/SonicEXE/stages/ExeBG.lua
+mods/songs/black-sun/Voices.ogg
+mods/songs/black-sun/voices.ogg
+mods/songs/black-sun/Inst.ogg
+mods/songs/black-sun/inst.ogg

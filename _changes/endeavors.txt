@@ -1,0 +1,33 @@
+mods/data/endeavors/Camera.lua
+mods/data/endeavors/changeSplashNoteSonic.lua
+mods/data/endeavors/creditos.lua
+mods/data/endeavors/endeavors-hard.json
+mods/data/endeavors/mod.txt
+mods/data/endeavors/scriptIntro.lua
+mods/SonicEXE/characters/endless_bf-encore.json
+mods/SonicEXE/characters/Majin_New.json
+mods/SonicEXE/characters/gf.json
+mods/SonicEXE/stages/endeavors-forest.json
+mods/SonicEXE/stages/endeavors-forest.lua
+mods/SonicEXE/images/characters/endless_bf-encore.png
+mods/SonicEXE/images/characters/endless_bf-encore.xml
+mods/SonicEXE/images/characters/MajinOG.png
+mods/SonicEXE/images/characters/MajinOG.xml
+mods/SonicEXE/images/characters/GF_assets.png
+mods/SonicEXE/images/characters/GF_assets.xml
+mods/SonicEXE/images/black.png
+mods/SonicEXE/images/StartScreens/Circle-endless.png
+mods/SonicEXE/images/StartScreens/Text-endeavors.png
+mods/SonicEXE/images/FunInfiniteStage/sonicFUNsky.png
+mods/SonicEXE/images/FunInfiniteStage/Majin Boppers Back.png
+mods/SonicEXE/images/FunInfiniteStage/Majin Boppers Back.xml
+mods/SonicEXE/images/FunInfiniteStage/Bush2.png
+mods/SonicEXE/images/FunInfiniteStage/Majin Boppers Front.png
+mods/SonicEXE/images/FunInfiniteStage/Majin Boppers Front.xml
+mods/SonicEXE/images/FunInfiniteStage/floor BG.png
+mods/SonicEXE/images/FunInfiniteStage/majin FG2.png
+mods/SonicEXE/images/FunInfiniteStage/majin FG2.xml
+mods/SonicEXE/images/FunInfiniteStage/majin FG1.png
+mods/SonicEXE/images/FunInfiniteStage/majin FG1.xml
+mods/songs/endeavors/Inst.ogg
+mods/songs/endeavors/inst.ogg

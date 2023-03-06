@@ -1,0 +1,12 @@
+mods/data/soulless/Camera.lua
+mods/data/soulless/changeSplashNoteSonic.lua
+mods/data/soulless/creditos.lua
+mods/data/soulless/mod.txt
+mods/data/soulless/scriptCutscene.lua
+mods/data/soulless/soulless-hard.json
+mods/SonicEXE/stages/soulless.json
+mods/SonicEXE/stages/soulless.lua
+mods/songs/soulless/Voices.ogg
+mods/songs/soulless/voices.ogg
+mods/songs/soulless/Inst.ogg
+mods/songs/soulless/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/fight-or-flight/changeSplashNoteSonic.lua
+mods/data/fight-or-flight/creditos.lua
+mods/data/fight-or-flight/events.json
+mods/data/fight-or-flight/fight-or-flight-hard.json
+mods/data/fight-or-flight/mod.txt
+mods/data/fight-or-flight/script.lua
+mods/data/fight-or-flight/scriptCutscene.lua
+mods/data/fight-or-flight/scriptIntro.lua
+mods/data/fight-or-flight/Vertical HP Bar.lua
+mods/SonicEXE/stages/starved.json
+mods/SonicEXE/stages/starved.lua
+mods/songs/fight-or-flight/Inst.ogg
+mods/songs/fight-or-flight/inst.ogg
