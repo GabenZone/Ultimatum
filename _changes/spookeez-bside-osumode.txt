@@ -1,4 +1,10 @@
+mods/data/spookeez-bside/mod.txt
 mods/data/spookeez-bside/spookeez-bside-flip.json
+mods/B-Sides/stages/phantom-arcade.json
+mods/B-Sides/stages/phantom-arcade.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
 mods/songs/spookeez-bside/Voices.ogg
 mods/songs/spookeez-bside/voices.ogg
 mods/songs/spookeez-bside/Inst.ogg

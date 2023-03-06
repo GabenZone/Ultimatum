@@ -1,6 +1,4 @@
-mods/data/lo-fight/lo-fight-easy.json
 mods/data/lo-fight/lo-fight-hard.json
-mods/data/lo-fight/lo-fight.json
 mods/data/lo-fight/mod.txt
 mods/data/lo-fight/script.lua
 mods/Whitty/stages/alley.json

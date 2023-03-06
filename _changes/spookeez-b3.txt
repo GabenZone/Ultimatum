@@ -1,8 +1,6 @@
 mods/data/spookeez-b3/mod.txt
-mods/data/spookeez-b3/spookeez-b3-easy.json
 mods/data/spookeez-b3/spookeez-b3-getreal.json
 mods/data/spookeez-b3/spookeez-b3-hard.json
-mods/data/spookeez-b3/spookeez-b3.json
 mods/B3 Remixed/characters/bf-shaded-w2.json
 mods/B3 Remixed/characters/spooky.json
 mods/B3 Remixed/characters/gf-shaded-w2.json

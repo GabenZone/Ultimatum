@@ -1,7 +1,5 @@
 mods/data/void/mod.txt
-mods/data/void/void-easy.json
 mods/data/void/void-hard.json
-mods/data/void/void.json
 mods/Fever/characters/bf.json
 mods/Fever/characters/pea.json
 mods/Fever/characters/tea.json

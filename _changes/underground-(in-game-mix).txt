@@ -22,9 +22,7 @@ mods/Whitty/images/characters/ovaries.png
 mods/Whitty/images/characters/ovaries.xml
 mods/data/underground-(in-game-mix)/mod.txt
 mods/data/underground-(in-game-mix)/script.lua
-mods/data/underground-(in-game-mix)/underground-(in-game-mix)-easy.json
 mods/data/underground-(in-game-mix)/underground-(in-game-mix)-hard.json
-mods/data/underground-(in-game-mix)/underground-(in-game-mix).json
 mods/Whitty/stages/better-hqr2.json
 mods/Whitty/stages/better-hqr2.lua
 mods/Whitty/custom_events/Set Cam Zoom.lua

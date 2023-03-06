@@ -1,8 +1,6 @@
 mods/data/south-b3/mod.txt
-mods/data/south-b3/south-b3-easy.json
 mods/data/south-b3/south-b3-getreal.json
 mods/data/south-b3/south-b3-hard.json
-mods/data/south-b3/south-b3.json
 mods/B3 Remixed/stages/spooky1.json
 mods/B3 Remixed/stages/spooky1.lua
 mods/B3 Remixed/scripts/Intro.lua

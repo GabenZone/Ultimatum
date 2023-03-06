@@ -1,7 +1,5 @@
 mods/data/monster-dside/mod.txt
-mods/data/monster-dside/monster-dside-easy.json
 mods/data/monster-dside/monster-dside-hard.json
-mods/data/monster-dside/monster-dside.json
 mods/D-Sides/stages/monsterspook.json
 mods/D-Sides/stages/monsterspook.lua
 mods/D-Sides/scripts/smoothcam.lua

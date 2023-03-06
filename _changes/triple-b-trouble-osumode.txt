@@ -3,7 +3,6 @@ mods/data/triple-b-trouble/mod.txt
 mods/data/triple-b-trouble/scriptREAL.lua
 mods/data/triple-b-trouble/triple-b-trouble-getreal.json
 mods/data/triple-b-trouble/triple-b-trouble-hard.json
-mods/data/triple-b-trouble/triple-b-trouble.json
 mods/B3 Remixed/stages/dream.json
 mods/B3 Remixed/stages/dream.lua
 mods/B3 Remixed/custom_notetypes/Gay Note.lua

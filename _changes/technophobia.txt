@@ -3,7 +3,6 @@ mods/data/technophobia/Esacosainv.lua
 mods/data/technophobia/mod.txt
 mods/data/technophobia/script.lua
 mods/data/technophobia/technophobia.json
-mods/data/technophobia/technophobia_re.json
 mods/Trollge/characters/bf_smiler.json
 mods/Trollge/characters/smiler.json
 mods/Trollge/characters/gf_smiler.json

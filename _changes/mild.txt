@@ -1,6 +1,4 @@
-mods/data/mild/mild-easy.json
 mods/data/mild/mild-hard.json
-mods/data/mild/mild.json
 mods/data/mild/mod.txt
 mods/Fever/characters/bf_first2songs.json
 mods/Fever/characters/dickbutt.json

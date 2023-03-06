@@ -1,11 +1,10 @@
 mods/data/philly-nice-dside/mod.txt
-mods/data/philly-nice-dside/philly-nice-dside-easy.json
 mods/data/philly-nice-dside/philly-nice-dside-hard.json
-mods/data/philly-nice-dside/philly-nice-dside.json
 mods/D-Sides/stages/philly.json
 mods/D-Sides/stages/philly.lua
 mods/D-Sides/custom_notetypes/Blammed Notes.lua
 mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/sounds/train_passes.ogg
 mods/D-Sides/sounds/gun.ogg
 mods/songs/philly-nice-dside/Voices.ogg
 mods/songs/philly-nice-dside/voices.ogg

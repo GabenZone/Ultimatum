@@ -1,7 +1,6 @@
 mods/data/uncanny-valley/events.json
 mods/data/uncanny-valley/mod.txt
 mods/data/uncanny-valley/script.lua
-mods/data/uncanny-valley/uncanny-valley-easy.json
 mods/data/uncanny-valley/uncanny-valley.json
 mods/Hotline 024/stages/ena.json
 mods/Hotline 024/stages/ena.lua

@@ -1,4 +1,10 @@
+mods/data/south-bside/mod.txt
 mods/data/south-bside/south-bside-flip.json
+mods/B-Sides/stages/phantom-arcade.json
+mods/B-Sides/stages/phantom-arcade.lua
+mods/B-Sides/scripts/coloredRatings.lua
+mods/B-Sides/scripts/HudCrap.lua
+mods/B-Sides/scripts/ratingNames.lua
 mods/songs/south-bside/Voices.ogg
 mods/songs/south-bside/voices.ogg
 mods/songs/south-bside/Inst.ogg

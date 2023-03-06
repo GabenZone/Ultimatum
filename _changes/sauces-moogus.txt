@@ -13,6 +13,17 @@ mods/Impostor/images/characters/chefogus.xml
 mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/custom_events/Reactor Beep.lua
+mods/Impostor/images/stages/chef/Back Wall Kitchen.png
+mods/Impostor/images/stages/chef/Chef Floor.png
+mods/Impostor/images/stages/chef/Back Table Kitchen.png
+mods/Impostor/images/stages/chef/oven.png
+mods/Impostor/images/stages/chef/Kitchen Counter.png
+mods/Impostor/images/stages/chef/black_overhead_shadow.png
+mods/Impostor/images/stages/chef/bluelight.png
+mods/Impostor/images/stages/chef/Boppers.png
+mods/Impostor/images/stages/chef/Boppers.xml
+mods/Impostor/images/stages/chef/Boppers2.png
+mods/Impostor/images/stages/chef/Boppers2.xml
 mods/songs/sauces-moogus/Voices.ogg
 mods/songs/sauces-moogus/voices.ogg
 mods/songs/sauces-moogus/Inst.ogg

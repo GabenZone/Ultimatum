@@ -1,7 +1,6 @@
 mods/data/victory/dead.lua
 mods/data/victory/events.json
 mods/data/victory/mod.txt
-mods/data/victory/modchart.lua
 mods/data/victory/victory-hard.json
 mods/Impostor/stages/victory.json
 mods/Impostor/stages/victory.lua

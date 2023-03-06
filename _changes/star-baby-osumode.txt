@@ -1,8 +1,8 @@
 mods/data/star-baby/mod.txt
 mods/data/star-baby/script.lua
-mods/data/star-baby/star-baby-easy.json
 mods/data/star-baby/star-baby-hard.json
-mods/data/star-baby/star-baby.json
+mods/Fever/stages/spooky-fever.json
+mods/Fever/stages/spooky-fever.lua
 mods/songs/star-baby/Voices.ogg
 mods/songs/star-baby/voices.ogg
 mods/songs/star-baby/Inst.ogg

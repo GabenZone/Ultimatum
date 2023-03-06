@@ -13,13 +13,46 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
-
+      makeLuaSprite('wall', 'stages/chef/Back Wall Kitchen', 0, 0)
+      makeLuaSprite('floor', 'stages/chef/Chef Floor', -10, 0)
+      makeLuaSprite('back table', 'stages/chef/Back Table Kitchen', 50, 110)
+      makeLuaSprite('oven', 'stages/chef/oven', 1915, 380)
+      makeLuaSprite('front table', 'stages/chef/Kitchen Counter', 800, 700)
+      makeLuaSprite('black_overhead_shadow', 'stages/chef/black_overhead_shadow', -190, -290);
+      makeLuaSprite('bluelight', 'stages/chef/bluelight', -146.67, -280);
+	  
+      scaleObject('bluelight', 2, 2);
+      scaleObject('black_overhead_shadow', 2, 2);
+      
+      setBlendMode('bluelight', 'ADD')
+      
+      makeAnimatedLuaSprite('boppers', 'stages/chef/Boppers', 1293, 520)
+      makeAnimatedLuaSprite('boppers2', 'stages/chef/Boppers2', 980, 520)
+      addAnimationByPrefix('boppers2', 'boppers_idle2', 'grey', 24, true)
+      addAnimationByPrefix('boppers', 'boppers_idle', 'saster', 24, true)
+      
+      addLuaSprite('wall', false)
+      addLuaSprite('floor', false)
+      addLuaSprite('back table', false)
+      addLuaSprite('boppers', false)
+      addLuaSprite('boppers2', false)
+      addLuaSprite('oven', false)
+      addLuaSprite('front table', false)
+      addLuaSprite('bluelight', true)
+      addLuaSprite('black_overhead_shadow', true)
+      
+    if songName == 'Sauces Moogus' then author = 'Saster' end
 end
 
-
-
-
 function onUpdate()
+   setProperty('timeBarBG.visible', true)
+   setProperty('timeBar.visible', true)
+   setProperty('timeTxt.visible', true)
+   scaleObject('green', 1.168 * getProperty("songPercent"), .035)
+   
+   setProperty('songtext.x',getProperty('whitebg.x'))
+   setProperty('authortext.x',getProperty('whitebg.x'))
+
 	setProperty('gf.alpha', 0);
 	if del > 0 then
 		del = del - 1
@@ -209,4 +242,19 @@ function onUpdate()
 	end
     
 end
+function onTweenCompleted(tag)
+    if tag == 'songtweenin' then
+        runTimer('tweentimer',3)
+    end
+    if tag == 'songtweenout' then
+        removeLuaText('authortext')
+        removeLuaText('songtext')
+        removeLuaSprite('whitebg')
+    end
+end
 
+function onTimerCompleted(tag)
+    if tag == 'tweentimer' then
+        doTweenX('songtweenout','whitebg',-1000,1,'cubeIn')
+    end
+end

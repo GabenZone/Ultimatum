@@ -1,9 +1,7 @@
 mods/data/succ/mod.txt
 mods/data/succ/script.lua
-mods/data/succ/succ-easy.json
 mods/data/succ/succ-getreal.json
 mods/data/succ/succ-hard.json
-mods/data/succ/succ.json
 mods/B3 Remixed/stages/room.json
 mods/B3 Remixed/stages/room.lua
 mods/B3 Remixed/scripts/Intro.lua

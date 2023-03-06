@@ -1,7 +1,5 @@
 mods/data/philly-nice-dside/mod.txt
-mods/data/philly-nice-dside/philly-nice-dside-easy.json
 mods/data/philly-nice-dside/philly-nice-dside-hard.json
-mods/data/philly-nice-dside/philly-nice-dside.json
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/pico.json
 mods/D-Sides/characters/gf.json
@@ -15,8 +13,17 @@ mods/D-Sides/images/characters/GF_assets.png
 mods/D-Sides/images/characters/GF_assets.xml
 mods/D-Sides/custom_notetypes/Blammed Notes.lua
 mods/D-Sides/scripts/smoothcam.lua
-mods/D-Sides/images/philly/Crowd1.png
-mods/D-Sides/images/philly/Crowd1.xml
+mods/D-Sides/images/philly/sky.png
+mods/D-Sides/images/philly/city.png
+mods/D-Sides/images/philly/behindTrain.png
+mods/D-Sides/images/philly/street.png
+mods/D-Sides/images/philly/train.png
+mods/D-Sides/images/philly/win0.png
+mods/D-Sides/images/philly/win1.png
+mods/D-Sides/images/philly/win2.png
+mods/D-Sides/images/philly/win3.png
+mods/D-Sides/images/philly/win4.png
+mods/D-Sides/sounds/train_passes.ogg
 mods/D-Sides/images/Blammed.png
 mods/D-Sides/images/Blammed.xml
 mods/D-Sides/sounds/gun.ogg

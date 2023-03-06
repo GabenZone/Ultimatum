@@ -1,8 +1,6 @@
 mods/data/overhead-(hq)/events.json
 mods/data/overhead-(hq)/mod.txt
-mods/data/overhead-(hq)/overhead-(hq)-easy.json
 mods/data/overhead-(hq)/overhead-(hq)-hard.json
-mods/data/overhead-(hq)/overhead-(hq).json
 mods/data/overhead-(hq)/script.lua
 mods/Whitty/stages/alley-hqr2.json
 mods/Whitty/stages/alley-hqr2.lua

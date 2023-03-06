@@ -1,8 +1,6 @@
 mods/data/too-slow-dside/Cam Speed Increase.lua
 mods/data/too-slow-dside/mod.txt
-mods/data/too-slow-dside/too-slow-dside-easy.json
 mods/data/too-slow-dside/too-slow-dside-hard.json
-mods/data/too-slow-dside/too-slow-dside.json
 mods/D-Sides/stages/sonicstage.json
 mods/D-Sides/stages/sonicstage.lua
 mods/D-Sides/custom_notetypes/Ice Note.lua

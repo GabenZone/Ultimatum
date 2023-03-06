@@ -1,7 +1,5 @@
 mods/data/low-rise-(hq)/events.json
-mods/data/low-rise-(hq)/low-rise-(hq)-easy.json
 mods/data/low-rise-(hq)/low-rise-(hq)-hard.json
-mods/data/low-rise-(hq)/low-rise-(hq).json
 mods/data/low-rise-(hq)/mod.txt
 mods/Whitty/characters/testis.json
 mods/Whitty/characters/gf_JUICY.json

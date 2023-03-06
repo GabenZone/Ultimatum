@@ -1,8 +1,6 @@
 mods/data/stress/events.json
 mods/data/stress/mod.txt
-mods/data/stress/stress-easy.json
 mods/data/stress/stress-hard.json
-mods/data/stress/stress.json
 mods/Vanilla/stages/tank.json
 mods/Vanilla/stages/tank.lua
 mods/Vanilla/images/week7/tankSky.png

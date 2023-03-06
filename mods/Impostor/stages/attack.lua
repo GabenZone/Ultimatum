@@ -14,9 +14,86 @@ local del = 0;
 local del2 = 0;
 function onCreate()
 
+	makeLuaSprite('monotoneback', 'monotoneback', 0, -100);
+	setScrollFactor('monotoneback', 0.9, 0.9);
+	addLuaSprite('monotoneback', false);
+
+	makeAnimatedLuaSprite('crowd','crowd',900,800)
+	addAnimationByPrefix('crowd','crowd','tess n gus fring instance',24,true)
+	objectPlayAnimation('crowd','crowd',true)
+	addLuaSprite('crowd',false)
+
+	makeLuaSprite('backlights', 'backlights', 0, -100);
+	setScrollFactor('backlights', 0.9, 0.9);
+	addLuaSprite('backlights', false);
+
+	makeLuaSprite('fg', 'fg', 0, -100);
+	setScrollFactor('fg', 0.9, 0.9);
+	addLuaSprite('fg', false);
+
+	makeLuaSprite('attacklamp', 'lamp', 0, 0);
+	setScrollFactor('attacklamp', 0.9, 0.9);
+	addLuaSprite('attacklamp', false);
+
+	makeAnimatedLuaSprite('cooper','cooper',2000,700)
+	addAnimationByPrefix('cooper','cooper','bg seat 1 instance',24,true)
+	objectPlayAnimation('cooper','cooper',true)
+	addLuaSprite('cooper',false)
+
+	makeAnimatedLuaSprite('orbyy','orbyy',900,650)
+	addAnimationByPrefix('orbyy','orbyy','orbyy',24,true)
+	objectPlayAnimation('orbyy','orbyy',true)
+	addLuaSprite('orbyy',false)
+
+	makeAnimatedLuaSprite('offbi','offbi',1300,600)
+	addAnimationByPrefix('offbi','offbi','offbi',24,true)
+	objectPlayAnimation('offbi','offbi',true)
+	addLuaSprite('offbi',false)
+
+	makeAnimatedLuaSprite('loggoattack','loggoattack',1000,750)
+	addAnimationByPrefix('loggoattack','loggoattack','loggfriend',24,true)
+	objectPlayAnimation('loggoattack','loggoattack',true)
+	addLuaSprite('loggoattack',false)
+
+	makeAnimatedLuaSprite('nick t','nick t',650,700)
+	addAnimationByPrefix('nick t','nick t','nick t idle',24,true)
+	objectPlayAnimation('nick t','nick t',true)
+	addLuaSprite('nick t',false)
+
+	makeLuaSprite('frontlight', 'frontlight', 0, -100);
+	setScrollFactor('frontlight', 0.9, 0.9);
+	addLuaSprite('frontlight', true);
+
+	makeLuaSprite('purple', 'purple', 0, -100);
+	setScrollFactor('purple', 0.9, 0.9);
+	addLuaSprite('purple', true);
+
+    addLuaScript('data/LoadSecondJson')
 end
 
+function onStepHit()
+    if curStep == 1427 then
+        addAnimationByPrefix('nick t','nick t2','nick t animation',23,false)
+        objectPlayAnimation('nick t','nick t2',false)
+        doTweenAlpha('pinkTw22', 'loggoattack', 0.2, 0.2, 'linear')
+        doTweenAlpha('pinkTw23', 'orbyy', 0.2, 0.2, 'linear')
+        doTweenAlpha('pinkTw24', 'offbi', 0.2, 0.2, 'linear')
+        doTweenAlpha('dadFadeEventTween', 'boyfriend', 0.2, 0.2, 'linear');
+        doTweenAlpha('dadFadeEventTween2', 'dad', 0.2, 0.2, 'linear');
+        doTweenAlpha('dadFadeEventTween3', 'biddie', 0.2, 0.2, 'linear');
+        doTweenAlpha('dadFadeEventTween4', 'fabs', 0.2, 0.2, 'linear');
 
+    elseif curStep == 1440 then
+    objectPlayAnimation('nick t','nick t',true)
+    doTweenAlpha('pinkTw22', 'loggoattack', 1, 0.2, 'linear')
+    doTweenAlpha('pinkTw23', 'orbyy', 1, 0.2, 'linear')
+    doTweenAlpha('pinkTw24', 'offbi', 1, 0.2, 'linear')
+    doTweenAlpha('dadFadeEventTween', 'boyfriend', 1, 0.2, 'linear');
+    doTweenAlpha('dadFadeEventTween2', 'dad', 1, 0.2, 'linear');
+    doTweenAlpha('dadFadeEventTween3', 'biddie', 1, 0.2, 'linear');
+    doTweenAlpha('dadFadeEventTween4', 'fabs', 1, 0.2, 'linear');
+    end
+end
 
 
 function onUpdate()
@@ -85,7 +162,7 @@ function onUpdate()
         triggerEvent('Camera Follow Pos','','')
     end
     if curBeat == 64 then
-        setProperty('defaultCamZoom',0.6)
+        setProperty('defaultCamZoom',0.62)
 		followchars = true
         xx = 1225
         yy = 1000
@@ -93,7 +170,7 @@ function onUpdate()
         yy2 = 1000
     end
     if curBeat == 80 then
-        setProperty('defaultCamZoom',0.7)
+        setProperty('defaultCamZoom',0.72)
 		followchars = true
         xx = 1225
         yy = 1000
@@ -101,75 +178,75 @@ function onUpdate()
         yy2 = 1000
     end
     if curBeat == 95 then
-        setProperty('defaultCamZoom',0.9)
+        setProperty('defaultCamZoom',0.92)
 		followchars = true
         xx = 1000
         yy = 900
-        xx2 = 1000
+        xx2 = 1050
         yy2 = 900
     end
     if curBeat == 99 then
-        setProperty('defaultCamZoom',0.75)
+        setProperty('defaultCamZoom',0.8)
 		followchars = true
         xx = 1000
         yy = 1050
-        xx2 = 1400  
+        xx2 = 1450  
         yy2 = 1050
     end
     if curBeat == 196 then
-        setProperty('defaultCamZoom',0.6)
+        setProperty('defaultCamZoom',0.62)
 		followchars = true
         xx = 1225
         yy = 1000
-        xx2 = 1225
+        xx2 = 1275
         yy2 = 1000
     end
     if curBeat == 229 then
-        setProperty('defaultCamZoom',0.7)
+        setProperty('defaultCamZoom',0.72)
 		followchars = true
         xx = 1225
         yy = 1000
-        xx2 = 1225
+        xx2 = 1275
         yy2 = 1000
     end
     if curBeat == 276 then
-        setProperty('defaultCamZoom',0.6)
+        setProperty('defaultCamZoom',0.62)
 		followchars = true
         xx = 1225
         yy = 1000
-        xx2 = 1225
+        xx2 = 1275
         yy2 = 1000
     end
     if curBeat == 292 then
-        setProperty('defaultCamZoom',0.75)
+        setProperty('defaultCamZoom',0.77)
 		followchars = true
         xx = 1000
         yy = 1050
-        xx2 = 1400  
+        xx2 = 1450  
         yy2 = 1050
     end
     if curBeat == 324 then
-        setProperty('defaultCamZoom',0.7)
+        setProperty('defaultCamZoom',0.72)
 		followchars = true
         xx = 1225
         yy = 1000
-        xx2 = 1225
+        xx2 = 1275
         yy2 = 1000
     end
     if curBeat == 355 then
-        setProperty('defaultCamZoom',0.9)
+        setProperty('defaultCamZoom',0.92)
 		followchars = true
         xx = 1000
         yy = 900
-        xx2 = 1000
+        xx2 = 1050
         yy2 = 900
     end
     if curBeat == 360 then
-        setProperty('defaultCamZoom',0.6)
+        setProperty('defaultCamZoom',0.62)
 		followchars = true
         xx = 1225
         yy = 1000
-        xx2 = 1225
+        xx2 = 1275
         yy2 = 1000
     end
     

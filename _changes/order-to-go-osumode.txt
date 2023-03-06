@@ -2,7 +2,6 @@ mods/data/order-to-go/camera.lua
 mods/data/order-to-go/events.json
 mods/data/order-to-go/mod.txt
 mods/data/order-to-go/order-to-go-hard.json
-mods/data/order-to-go/order-to-go.json
 mods/Aside/stages/mcDonalds.json
 mods/Aside/stages/mcDonalds.lua
 mods/songs/order-to-go/Voices.ogg

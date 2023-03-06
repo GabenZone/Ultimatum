@@ -1,8 +1,6 @@
 mods/data/tutorial-dside/events.json
 mods/data/tutorial-dside/mod.txt
-mods/data/tutorial-dside/tutorial-dside-easy.json
 mods/data/tutorial-dside/tutorial-dside-hard.json
-mods/data/tutorial-dside/tutorial-dside.json
 mods/D-Sides/stages/W1_stage.json
 mods/D-Sides/stages/W1_stage.lua
 mods/D-Sides/scripts/smoothcam.lua

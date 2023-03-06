@@ -1,7 +1,6 @@
 mods/data/trance/camera.lua
 mods/data/trance/mod.txt
 mods/data/trance/trance-hard.json
-mods/data/trance/trance.json
 mods/Aside/stages/mcDonalds.json
 mods/Aside/stages/mcDonalds.lua
 mods/songs/trance/Voices.ogg

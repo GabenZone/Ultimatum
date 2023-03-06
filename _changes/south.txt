@@ -1,7 +1,5 @@
 mods/data/south/mod.txt
-mods/data/south/south-easy.json
 mods/data/south/south-hard.json
-mods/data/south/south.json
 mods/Vanilla/stages/spookyv2.json
 mods/Vanilla/stages/spookyv2.lua
 mods/Vanilla/images/spookyV.3/halloween2_bg_low.png

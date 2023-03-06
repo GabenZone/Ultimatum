@@ -1,8 +1,5 @@
 mods/data/party-crasher/mod.txt
-mods/data/party-crasher/modchart.lua
-mods/data/party-crasher/party-crasher-easy.json
 mods/data/party-crasher/party-crasher-hard.json
-mods/data/party-crasher/party-crasher.json
 mods/Fever/stages/week 5 stage.json
 mods/Fever/stages/week 5 stage.lua
 mods/Fever/custom_events/Flash Camera.lua

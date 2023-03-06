@@ -19,9 +19,7 @@ mods/Whitty/images/characters/ovaries.png
 mods/Whitty/images/characters/ovaries.xml
 mods/data/underground-(hq)/mod.txt
 mods/data/underground-(hq)/script.lua
-mods/data/underground-(hq)/underground-(hq)-easy.json
 mods/data/underground-(hq)/underground-(hq)-hard.json
-mods/data/underground-(hq)/underground-(hq).json
 mods/Whitty/characters/testis.json
 mods/Whitty/stages/better-hqr.json
 mods/Whitty/stages/better-hqr.lua

@@ -13,13 +13,22 @@ local followchars = true;
 local del = 0;
 local del2 = 0;
 function onCreate()
-
+     makeLuaSprite('BG', 'stages/tuesday/tuesday', 0, 0)
+     makeLuaSprite('stars', 'stages/tuesday/space', 0, 0)
+     
+     addLuaSprite('stars', false)
+     addLuaSprite('BG', false)
 end
 
-
-
-
 function onUpdate()
+   setProperty('timeBarBG.visible', true)
+   setProperty('timeBar.visible', true)
+   setProperty('timeTxt.visible', true)
+   scaleObject('green', 1.168 * getProperty("songPercent"), .035)
+   
+   setProperty('songtext.x',getProperty('whitebg.x'))
+   setProperty('authortext.x',getProperty('whitebg.x'))
+
 	if del > 0 then
 		del = del - 1
 	end
@@ -94,4 +103,19 @@ function onUpdate()
     end
     
 end
+function onTweenCompleted(tag)
+    if tag == 'songtweenin' then
+        runTimer('tweentimer',3)
+    end
+    if tag == 'songtweenout' then
+        removeLuaText('authortext')
+        removeLuaText('songtext')
+        removeLuaSprite('whitebg')
+    end
+end
 
+function onTimerCompleted(tag)
+    if tag == 'tweentimer' then
+        doTweenX('songtweenout','whitebg',-1000,1,'cubeIn')
+    end
+end

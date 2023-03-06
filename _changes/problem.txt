@@ -1,8 +1,6 @@
 mods/data/problem/mod.txt
-mods/data/problem/problem-easy.json
 mods/data/problem/problem-getreal.json
 mods/data/problem/problem-hard.json
-mods/data/problem/problem.json
 mods/B3 Remixed/characters/bf.json
 mods/B3 Remixed/characters/dad.json
 mods/B3 Remixed/characters/gf.json

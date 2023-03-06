@@ -1,8 +1,6 @@
 mods/data/winter-horrorland/events.json
 mods/data/winter-horrorland/mod.txt
-mods/data/winter-horrorland/winter-horrorland-easy.json
 mods/data/winter-horrorland/winter-horrorland-hard.json
-mods/data/winter-horrorland/winter-horrorland.json
 mods/Vanilla/stages/mallEvilv2.json
 mods/Vanilla/stages/mallEvilv2.lua
 mods/Vanilla/images/mallEvil2/evilBG2.png

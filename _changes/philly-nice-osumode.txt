@@ -1,8 +1,6 @@
 mods/data/philly-nice/events.json
 mods/data/philly-nice/mod.txt
-mods/data/philly-nice/philly-nice-easy.json
 mods/data/philly-nice/philly-nice-hard.json
-mods/data/philly-nice/philly-nice.json
 mods/Vanilla/stages/phillyv2.json
 mods/Vanilla/stages/phillyv2.lua
 mods/songs/philly-nice/Voices.ogg

@@ -1,11 +1,10 @@
 mods/data/pico-dside/mod.txt
-mods/data/pico-dside/pico-dside-easy.json
 mods/data/pico-dside/pico-dside-hard.json
-mods/data/pico-dside/pico-dside.json
 mods/D-Sides/stages/philly.json
 mods/D-Sides/stages/philly.lua
 mods/D-Sides/custom_notetypes/Blammed Notes.lua
 mods/D-Sides/scripts/smoothcam.lua
+mods/D-Sides/sounds/train_passes.ogg
 mods/D-Sides/sounds/gun.ogg
 mods/songs/pico-dside/Voices.ogg
 mods/songs/pico-dside/voices.ogg

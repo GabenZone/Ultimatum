@@ -1,6 +1,4 @@
-mods/data/mild/mild-easy.json
 mods/data/mild/mild-hard.json
-mods/data/mild/mild.json
 mods/data/mild/mod.txt
 mods/Fever/stages/week5 first song.json
 mods/Fever/stages/week5 first song.lua

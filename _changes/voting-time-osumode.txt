@@ -2,7 +2,6 @@ mods/data/voting-time/events.json
 mods/data/voting-time/gamestart.lua
 mods/data/voting-time/mod.txt
 mods/data/voting-time/voting-time-hard.json
-mods/data/voting-time/voting-time-other.json
 mods/Impostor/stages/voting.json
 mods/Impostor/custom_events/flash.lua
 mods/songs/voting-time/Voices.ogg

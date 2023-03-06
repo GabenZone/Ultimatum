@@ -1,6 +1,4 @@
-mods/data/milk-dside/milk-dside-easy.json
 mods/data/milk-dside/milk-dside-hard.json
-mods/data/milk-dside/milk-dside.json
 mods/data/milk-dside/mod.txt
 mods/data/milk-dside/script.lua
 mods/D-Sides/characters/eggdick.json

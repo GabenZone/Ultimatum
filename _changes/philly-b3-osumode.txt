@@ -1,8 +1,6 @@
 mods/data/philly-b3/mod.txt
-mods/data/philly-b3/philly-b3-easy.json
 mods/data/philly-b3/philly-b3-getreal.json
 mods/data/philly-b3/philly-b3-hard.json
-mods/data/philly-b3/philly-b3.json
 mods/B3 Remixed/stages/philly-b3.json
 mods/B3 Remixed/stages/philly-b3.lua
 mods/B3 Remixed/scripts/Intro.lua

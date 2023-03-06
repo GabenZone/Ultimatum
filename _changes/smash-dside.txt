@@ -1,7 +1,5 @@
 mods/data/smash-dside/mod.txt
-mods/data/smash-dside/smash-dside-easy.json
 mods/data/smash-dside/smash-dside-hard.json
-mods/data/smash-dside/smash-dside.json
 mods/D-Sides/characters/bfdark.json
 mods/D-Sides/characters/placeholderDARK.json
 mods/D-Sides/characters/gfdark.json

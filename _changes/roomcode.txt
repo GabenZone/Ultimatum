@@ -11,6 +11,7 @@ mods/Impostor/images/characters/powers.png
 mods/Impostor/images/characters/powers.xml
 mods/Impostor/images/characters/gfmira.png
 mods/Impostor/images/characters/gfmira.xml
+mods/Impostor/images/stages/lobby/roomcodebg.png
 mods/songs/roomcode/Voices.ogg
 mods/songs/roomcode/voices.ogg
 mods/songs/roomcode/Inst.ogg

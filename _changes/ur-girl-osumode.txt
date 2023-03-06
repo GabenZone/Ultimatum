@@ -1,7 +1,7 @@
 mods/data/ur-girl/mod.txt
-mods/data/ur-girl/ur-girl-easy.json
 mods/data/ur-girl/ur-girl-hard.json
-mods/data/ur-girl/ur-girl.json
+mods/Fever/stages/school-fever.json
+mods/Fever/stages/school-fever.lua
 mods/songs/ur-girl/Voices.ogg
 mods/songs/ur-girl/voices.ogg
 mods/songs/ur-girl/Inst.ogg

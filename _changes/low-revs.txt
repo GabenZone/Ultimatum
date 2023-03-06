@@ -1,7 +1,5 @@
 mods/data/low-revs/camera.lua
-mods/data/low-revs/low-revs-easy.json
 mods/data/low-revs/low-revs-hard.json
-mods/data/low-revs/low-revs.json
 mods/data/low-revs/mod.txt
 mods/Aside/characters/bf.json
 mods/Aside/characters/aside-whitty.json

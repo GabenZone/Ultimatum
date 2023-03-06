@@ -11,13 +11,12 @@ local ofs = 10;
 local followchars = true;
 local del = 0;
 local del2 = 0;
-
 function onCreate()
 	addCharacterToList('blue', 'boyfriend');
 	addCharacterToList('bluehit', 'boyfriend');
-	makeLuaSprite('bg', 'killbg', -620, -227)
+	
+	makeLuaSprite('bg', 'stages/kill/killbg', -620, -227)
 	addLuaSprite('bg', false);
-
 end
 singList = {"singLEFT", "singDOWN", "singUP", "singRIGHT"}
 
@@ -26,8 +25,19 @@ function opponentNoteHit(id, direction, noteType, isSustainNote)
 	triggerEvent('Change Character', 0, 'bluehit');
 	triggerEvent('Play Animation', singList[direction], 1);
 end
+function onSongStart()
+      doTweenX('songtweenin', 'whitebg', 0, 1, 'cubeOut')
+end
 
 function onUpdate(elapsed)
+   setProperty('timeBarBG.visible', true)
+   setProperty('timeBar.visible', true)
+   setProperty('timeTxt.visible', true)
+   scaleObject('green', 1.168 * getProperty("songPercent"), .035)
+   
+   setProperty('songtext.x',getProperty('whitebg.x'))
+   setProperty('authortext.x',getProperty('whitebg.x'))
+
 	
 	if del > 0 then
 		del = del - 1
@@ -105,4 +115,20 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 end
 function noteMiss(id, direction, noteType, isSustainNote)
 	triggerEvent('Change Character', 0, 'blue');
+end
+function onTweenCompleted(tag)
+    if tag == 'songtweenin' then
+        runTimer('tweentimer',3)
+    end
+    if tag == 'songtweenout' then
+        removeLuaText('authortext')
+        removeLuaText('songtext')
+        removeLuaSprite('whitebg')
+    end
+end
+
+function onTimerCompleted(tag)
+    if tag == 'tweentimer' then
+        doTweenX('songtweenout','whitebg',-1000,1,'cubeIn')
+    end
 end

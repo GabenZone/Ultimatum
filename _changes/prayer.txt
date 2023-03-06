@@ -1,15 +1,11 @@
 mods/data/prayer/mod.txt
-mods/data/prayer/modchart.lua
-mods/data/prayer/prayer-easy.json
 mods/data/prayer/prayer-hard.json
-mods/data/prayer/prayer.json
 mods/data/prayer/script.lua
-mods/Fever/characters/monster.json
-mods/Fever/stages/church.json
-mods/Fever/stages/church.lua
 mods/Fever/characters/cesarDEMON.json
 mods/Fever/characters/Taki.json
 mods/Fever/characters/tea.json
+mods/Fever/stages/church.json
+mods/Fever/stages/church.lua
 mods/Fever/images/characters/cesarDEMON.png
 mods/Fever/images/characters/cesarDEMON.xml
 mods/Fever/images/characters/taki_assets.png

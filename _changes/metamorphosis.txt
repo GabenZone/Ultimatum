@@ -1,8 +1,5 @@
-mods/data/metamorphosis/metamorphosis-easy.json
 mods/data/metamorphosis/metamorphosis-hard.json
-mods/data/metamorphosis/metamorphosis.json
 mods/data/metamorphosis/mod.txt
-mods/data/metamorphosis/modchart.lua
 mods/Fever/characters/bf.json
 mods/Fever/characters/pea.json
 mods/Fever/characters/tea.json

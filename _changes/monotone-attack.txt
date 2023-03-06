@@ -1,7 +1,6 @@
 mods/data/monotone-attack/events.json
 mods/data/monotone-attack/mod.txt
 mods/data/monotone-attack/monotone-attack-hard.json
-mods/data/monotone-attack/monotone-attack-other.json
 mods/Impostor/characters/clowfoe.json
 mods/Impostor/characters/attack.json
 mods/Impostor/characters/fabs.json
@@ -13,12 +12,24 @@ mods/Impostor/images/characters/attack.png
 mods/Impostor/images/characters/attack.xml
 mods/Impostor/images/characters/fabs.png
 mods/Impostor/images/characters/fabs.xml
-mods/Impostor/characters/bf.json
-mods/Impostor/characters/pico.json
-mods/Impostor/characters/gf.json
-mods/Impostor/stages/stage.json
-mods/Impostor/images/characters/GF_assets.png
-mods/Impostor/images/characters/GF_assets.xml
+mods/Impostor/images/monotoneback.png
+mods/Impostor/images/crowd.png
+mods/Impostor/images/crowd.xml
+mods/Impostor/images/backlights.png
+mods/Impostor/images/fg.png
+mods/Impostor/images/lamp.png
+mods/Impostor/images/cooper.png
+mods/Impostor/images/cooper.xml
+mods/Impostor/images/orbyy.png
+mods/Impostor/images/orbyy.xml
+mods/Impostor/images/offbi.png
+mods/Impostor/images/offbi.xml
+mods/Impostor/images/loggoattack.png
+mods/Impostor/images/loggoattack.xml
+mods/Impostor/images/nick t.png
+mods/Impostor/images/nick t.xml
+mods/Impostor/images/frontlight.png
+mods/Impostor/images/purple.png
 mods/songs/monotone-attack/Voices.ogg
 mods/songs/monotone-attack/voices.ogg
 mods/songs/monotone-attack/Inst.ogg

@@ -1,8 +1,6 @@
 mods/data/too-slow-dside/Cam Speed Increase.lua
 mods/data/too-slow-dside/mod.txt
-mods/data/too-slow-dside/too-slow-dside-easy.json
 mods/data/too-slow-dside/too-slow-dside-hard.json
-mods/data/too-slow-dside/too-slow-dside.json
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/Sonic_fake.json
 mods/D-Sides/characters/gf.json
@@ -33,12 +31,8 @@ mods/D-Sides/images/boners/TOO-SLOW/main stage spoopy.png
 mods/D-Sides/images/snowgrave.png
 mods/D-Sides/images/snowgrave.xml
 mods/D-Sides/images/boners/TOO-SLOW/icicles foreground.png
-mods/D-Sides/images/BloodSplash.png
-mods/D-Sides/images/BloodSplash.xml
 mods/D-Sides/images/ICENOTE_assets.png
 mods/D-Sides/images/ICENOTE_assets.xml
-mods/D-Sides/images/ICEnoteSplashes.png
-mods/D-Sides/images/ICEnoteSplashes.xml
 mods/D-Sides/sounds/Freeze.ogg
 mods/songs/too-slow-dside/Voices.ogg
 mods/songs/too-slow-dside/voices.ogg

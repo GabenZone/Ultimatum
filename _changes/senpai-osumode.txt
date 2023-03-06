@@ -1,7 +1,5 @@
 mods/data/senpai/mod.txt
-mods/data/senpai/senpai-easy.json
 mods/data/senpai/senpai-hard.json
-mods/data/senpai/senpai.json
 mods/Vanilla/stages/schoolv1.json
 mods/Vanilla/stages/schoolv1.lua
 mods/songs/senpai/Voices.ogg

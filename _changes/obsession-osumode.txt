@@ -12,3 +12,7 @@ mods/DokiTakeover/scripts/cameraMovement.lua
 mods/DokiTakeover/scripts/changeGameOver.lua
 mods/DokiTakeover/scripts/DisappearTheBigMonika.lua
 mods/DokiTakeover/scripts/screenBeat.lua
+mods/songs/obsession/Voices.ogg
+mods/songs/obsession/voices.ogg
+mods/songs/obsession/Inst.ogg
+mods/songs/obsession/inst.ogg

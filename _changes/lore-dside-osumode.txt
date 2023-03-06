@@ -1,7 +1,5 @@
 mods/data/lore-dside/events.json
-mods/data/lore-dside/lore-dside-easy.json
 mods/data/lore-dside/lore-dside-hard.json
-mods/data/lore-dside/lore-dside.json
 mods/data/lore-dside/mod.txt
 mods/D-Sides/stages/mack.json
 mods/D-Sides/stages/mack.lua

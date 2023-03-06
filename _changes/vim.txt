@@ -1,7 +1,5 @@
 mods/data/vim/mod.txt
-mods/data/vim/vim-easy.json
 mods/data/vim/vim-hard.json
-mods/data/vim/vim.json
 mods/Fever/characters/mako.json
 mods/Fever/characters/tea.json
 mods/Fever/stages/melonpatch.json

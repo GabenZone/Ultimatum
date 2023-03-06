@@ -1,5 +1,4 @@
 mods/data/portrait/mod.txt
-mods/data/portrait/modchart.lua
 mods/data/portrait/portrait-hard.json
 mods/data/portrait/script.lua
 mods/data/portrait/script1.lua

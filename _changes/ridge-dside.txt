@@ -1,7 +1,5 @@
 mods/data/ridge-dside/mod.txt
-mods/data/ridge-dside/ridge-dside-easy.json
 mods/data/ridge-dside/ridge-dside-hard.json
-mods/data/ridge-dside/ridge-dside.json
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/placeholder.json
 mods/D-Sides/characters/gf.json

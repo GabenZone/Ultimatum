@@ -22,6 +22,7 @@ mods/DokiTakeover/scripts/screenBeat.lua
 mods/DokiTakeover/images/doki/clubroom/DDLCfarbg.png
 mods/DokiTakeover/images/doki/clubroom/DDLCbg.png
 mods/DokiTakeover/images/doki/clubroom/DesksFront.png
+mods/DokiTakeover/images/staticshock.png
 mods/DokiTakeover/images/staticshock.xml
 mods/songs/my-confession/Voices.ogg
 mods/songs/my-confession/voices.ogg

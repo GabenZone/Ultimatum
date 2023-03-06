@@ -1,7 +1,5 @@
 mods/data/monster/mod.txt
-mods/data/monster/monster-easy.json
 mods/data/monster/monster-hard.json
-mods/data/monster/monster.json
 mods/Vanilla/stages/spookyv2.json
 mods/Vanilla/stages/spookyv2.lua
 mods/Vanilla/sounds/thunder2_1.ogg

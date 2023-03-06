@@ -13,6 +13,7 @@ mods/Impostor/images/characters/GF_assets.png
 mods/Impostor/images/characters/GF_assets.xml
 mods/Impostor/images/characters/bluehit.png
 mods/Impostor/images/characters/bluehit.xml
+mods/Impostor/images/stages/kill/killbg.png
 mods/Impostor/characters/bluehit.json
 mods/songs/ow/Voices.ogg
 mods/songs/ow/voices.ogg

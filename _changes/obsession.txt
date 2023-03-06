@@ -29,4 +29,9 @@ mods/DokiTakeover/images/doki/clubroom/DDLCbg.png
 mods/DokiTakeover/images/doki/clubroom/DesksFront.png
 mods/DokiTakeover/images/markov_assets.png
 mods/DokiTakeover/images/markov_assets.xml
+mods/DokiTakeover/images/staticshock.png
 mods/DokiTakeover/images/staticshock.xml
+mods/songs/obsession/Voices.ogg
+mods/songs/obsession/voices.ogg
+mods/songs/obsession/Inst.ogg
+mods/songs/obsession/inst.ogg

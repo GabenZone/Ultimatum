@@ -1,18 +1,16 @@
 mods/data/nom/event(nom).lua
 mods/data/nom/events.json
 mods/data/nom/mod.txt
-mods/data/nom/nom-easy.json
 mods/data/nom/nom-getreal.json
 mods/data/nom/nom-hard.json
-mods/data/nom/nom.json
 mods/data/nom/script.lua
 mods/B3 Remixed/characters/bf-pajamas.json
-mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
-mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
 mods/B3 Remixed/characters/p-gf-hungry-3.json
 mods/B3 Remixed/characters/pico.json
 mods/B3 Remixed/stages/room.json
 mods/B3 Remixed/stages/room.lua
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.png
+mods/B3 Remixed/images/characters/B3_BF_Halloween_Assets.xml
 mods/B3 Remixed/images/characters/b3_gf_phase_3.png
 mods/B3 Remixed/images/characters/b3_gf_phase_3.xml
 mods/B3 Remixed/images/characters/Pico_FNF_assetss.png

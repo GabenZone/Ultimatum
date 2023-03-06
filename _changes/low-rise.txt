@@ -5,9 +5,7 @@ mods/Whitty/images/characters/testis_two_electric_boogaloo.xml
 mods/Whitty/characters/testis.json
 mods/Whitty/images/characters/testis.png
 mods/Whitty/images/characters/testis.xml
-mods/data/low-rise/low-rise-easy.json
 mods/data/low-rise/low-rise-hard.json
-mods/data/low-rise/low-rise.json
 mods/data/low-rise/mod.txt
 mods/Whitty/characters/gf_JUICY.json
 mods/Whitty/stages/better.json

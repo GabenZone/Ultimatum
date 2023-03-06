@@ -1,7 +1,5 @@
 mods/data/satin-panties-dside/mod.txt
-mods/data/satin-panties-dside/satin-panties-dside-easy.json
 mods/data/satin-panties-dside/satin-panties-dside-hard.json
-mods/data/satin-panties-dside/satin-panties-dside.json
 mods/D-Sides/characters/bf-car.json
 mods/D-Sides/characters/mom-car.json
 mods/D-Sides/characters/gf-car.json

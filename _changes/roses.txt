@@ -1,8 +1,6 @@
 mods/data/roses/events.json
 mods/data/roses/mod.txt
-mods/data/roses/roses-easy.json
 mods/data/roses/roses-hard.json
-mods/data/roses/roses.json
 mods/Vanilla/characters/senpai-hdmad.json
 mods/Vanilla/stages/schoolv2.json
 mods/Vanilla/stages/schoolv2.lua

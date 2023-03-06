@@ -1,7 +1,5 @@
 mods/data/south-dside/mod.txt
-mods/data/south-dside/south-dside-easy.json
 mods/data/south-dside/south-dside-hard.json
-mods/data/south-dside/south-dside.json
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/spooky.json
 mods/D-Sides/characters/gf.json

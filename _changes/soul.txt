@@ -1,5 +1,4 @@
 mods/data/soul/mod.txt
-mods/data/soul/modchart.lua
 mods/data/soul/script.lua
 mods/data/soul/script1.lua
 mods/data/soul/soul-hard.json

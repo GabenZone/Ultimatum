@@ -38,7 +38,6 @@ function onUpdate(elapsed)
 		for i = 0, getProperty('unspawnNotes.length')-1 do
 			if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Ice Note' then
 			else
-				setPropertyFromGroup('unspawnNotes',i,'noteSplashTexture','BloodSplash')
 			end
 		end
 	end

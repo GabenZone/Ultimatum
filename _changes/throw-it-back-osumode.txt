@@ -1,8 +1,5 @@
 mods/data/throw-it-back/mod.txt
-mods/data/throw-it-back/modchart.lua
-mods/data/throw-it-back/throw-it-back-easy.json
 mods/data/throw-it-back/throw-it-back-hard.json
-mods/data/throw-it-back/throw-it-back.json
 mods/Fever/stages/limonight.json
 mods/Fever/stages/limonight.lua
 mods/songs/throw-it-back/Voices.ogg

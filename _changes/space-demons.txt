@@ -1,19 +1,29 @@
 mods/data/space-demons/mod.txt
 mods/data/space-demons/space-demons-hard.json
-mods/data/space-demons/space-demons.json
 mods/Fever/characters/bf-pixel.json
 mods/Fever/characters/oldcesar_Pixel.json
 mods/Fever/characters/cherry-pixel.json
+mods/Fever/stages/school-fever.json
+mods/Fever/stages/school-fever.lua
 mods/Fever/images/characters/demonCesarPixel.png
 mods/Fever/images/characters/demonCesarPixel.xml
 mods/Fever/images/characters/bdbFever.png
 mods/Fever/images/characters/bdbFever.xml
 mods/Fever/images/characters/cherryPixel.png
 mods/Fever/images/characters/cherryPixel.xml
-mods/Fever/characters/gf-pixel.json
 mods/Fever/custom_events/Set Cam Zoom.lua
 mods/Fever/custom_events/Image Flash.lua
 mods/Fever/custom_events/Flash Camera.lua
+mods/Fever/images/weeb/weebSky.png
+mods/Fever/images/weeb/weebSchool.png
+mods/Fever/images/weeb/weebStreet.png
+mods/Fever/images/weeb/weebTreesBack.png
+mods/Fever/images/weeb/weebTrees.png
+mods/Fever/images/weeb/weebTrees.txt
+mods/Fever/images/weeb/bgFreaks.png
+mods/Fever/images/weeb/bgFreaks.xml
+mods/Fever/images/weeb/petals.png
+mods/Fever/images/weeb/petals.xml
 mods/songs/space-demons/Voices.ogg
 mods/songs/space-demons/voices.ogg
 mods/songs/space-demons/Inst.ogg

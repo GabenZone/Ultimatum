@@ -1,7 +1,5 @@
 mods/data/monster-dside/mod.txt
-mods/data/monster-dside/monster-dside-easy.json
 mods/data/monster-dside/monster-dside-hard.json
-mods/data/monster-dside/monster-dside.json
 mods/D-Sides/characters/bf.json
 mods/D-Sides/characters/monster.json
 mods/D-Sides/characters/gf.json

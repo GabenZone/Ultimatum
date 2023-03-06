@@ -1,10 +1,8 @@
 mods/data/nom/event(nom).lua
 mods/data/nom/events.json
 mods/data/nom/mod.txt
-mods/data/nom/nom-easy.json
 mods/data/nom/nom-getreal.json
 mods/data/nom/nom-hard.json
-mods/data/nom/nom.json
 mods/data/nom/script.lua
 mods/B3 Remixed/stages/room.json
 mods/B3 Remixed/stages/room.lua

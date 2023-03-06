@@ -1,7 +1,5 @@
 mods/data/void/mod.txt
-mods/data/void/void-easy.json
 mods/data/void/void-hard.json
-mods/data/void/void.json
 mods/Fever/stages/stage.lua
 mods/songs/void/Voices.ogg
 mods/songs/void/voices.ogg

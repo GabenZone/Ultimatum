@@ -8,7 +8,6 @@ mods/Aside/images/characters/garcelloWeek/garcello.png
 mods/Aside/images/characters/garcelloWeek/garcello.xml
 mods/data/order-to-go/mod.txt
 mods/data/order-to-go/order-to-go-hard.json
-mods/data/order-to-go/order-to-go.json
 mods/Aside/characters/bf-garcello.json
 mods/Aside/characters/gf-garcello.json
 mods/Aside/stages/mcDonalds.json

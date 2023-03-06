@@ -1,8 +1,6 @@
 mods/data/pico-b3/mod.txt
-mods/data/pico-b3/pico-b3-easy.json
 mods/data/pico-b3/pico-b3-getreal.json
 mods/data/pico-b3/pico-b3-hard.json
-mods/data/pico-b3/pico-b3.json
 mods/B3 Remixed/stages/philly-b3.json
 mods/B3 Remixed/stages/philly-b3.lua
 mods/B3 Remixed/scripts/Intro.lua

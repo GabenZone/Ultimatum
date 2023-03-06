@@ -10,7 +10,6 @@ mods/Impostor/characters/warchief.json
 mods/Impostor/images/characters/warchief.png
 mods/Impostor/images/characters/warchief.xml
 mods/data/victory/mod.txt
-mods/data/victory/modchart.lua
 mods/data/victory/victory-hard.json
 mods/Impostor/characters/bf.json
 mods/Impostor/characters/gf.json

@@ -1,19 +1,14 @@
 mods/data/pico-b3/mod.txt
-mods/data/pico-b3/pico-b3-easy.json
 mods/data/pico-b3/pico-b3-getreal.json
 mods/data/pico-b3/pico-b3-hard.json
-mods/data/pico-b3/pico-b3.json
 mods/B3 Remixed/characters/bf-shaded-w3.json
 mods/B3 Remixed/characters/pico.json
-mods/B3 Remixed/characters/gf.json
 mods/B3 Remixed/stages/philly-b3.json
 mods/B3 Remixed/stages/philly-b3.lua
 mods/B3 Remixed/images/characters/week3_b3_bf.png
 mods/B3 Remixed/images/characters/week3_b3_bf.xml
 mods/B3 Remixed/images/characters/Pico_FNF_assetss.png
 mods/B3 Remixed/images/characters/Pico_FNF_assetss.xml
-mods/B3 Remixed/images/characters/shaya_mini.png
-mods/B3 Remixed/images/characters/shaya_mini.xml
 mods/B3 Remixed/characters/bf.json
 mods/B3 Remixed/images/characters/BOYFRIEND.png
 mods/B3 Remixed/images/characters/BOYFRIEND.xml
