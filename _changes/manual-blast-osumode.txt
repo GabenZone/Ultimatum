@@ -1,5 +1,4 @@
 mods/data/manual-blast/bye.lua
-mods/data/manual-blast/creditos.lua
 mods/data/manual-blast/follow.lua
 mods/data/manual-blast/manual-blast-hard.json
 mods/data/manual-blast/mod.txt

@@ -1,5 +1,4 @@
 mods/data/fight-or-flight/changeSplashNoteSonic.lua
-mods/data/fight-or-flight/creditos.lua
 mods/data/fight-or-flight/events.json
 mods/data/fight-or-flight/fight-or-flight-hard.json
 mods/data/fight-or-flight/mod.txt

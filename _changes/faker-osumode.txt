@@ -1,5 +1,4 @@
 mods/data/faker/Camera.lua
-mods/data/faker/creditos.lua
 mods/data/faker/faker-hard.json
 mods/data/faker/mod.txt
 mods/data/faker/screenBeat.lua

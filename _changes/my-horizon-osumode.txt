@@ -1,6 +1,5 @@
 mods/data/my-horizon/Camera.lua
 mods/data/my-horizon/changeSplashNoteSonic.lua
-mods/data/my-horizon/creditos.lua
 mods/data/my-horizon/mod.txt
 mods/data/my-horizon/my-horizon-hard.json
 mods/data/my-horizon/screenBeat.lua

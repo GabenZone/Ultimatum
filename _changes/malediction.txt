@@ -1,5 +1,4 @@
 mods/data/malediction/Camera.lua
-mods/data/malediction/creditos.lua
 mods/data/malediction/malediction-hard.json
 mods/data/malediction/mod.txt
 mods/data/malediction/scriptIntro.lua
@@ -28,6 +27,5 @@ mods/SonicEXE/images/StartScreens/Text-malediction.png
 mods/SonicEXE/characters/curse_pissbaby.json
 mods/SonicEXE/images/characters/CursedPissed.png
 mods/SonicEXE/images/characters/CursedPissed.xml
-mods/SonicEXE/fonts/vcr.ttf
 mods/songs/malediction/Inst.ogg
 mods/songs/malediction/inst.ogg

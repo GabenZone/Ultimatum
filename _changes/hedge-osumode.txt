@@ -1,4 +1,3 @@
-mods/data/hedge/creditos.lua
 mods/data/hedge/follow.lua
 mods/data/hedge/hedge-hard.json
 mods/data/hedge/mod.txt

@@ -1,7 +1,5 @@
 mods/data/fatality/cameraZoom.lua
 mods/data/fatality/changeGameOverSonic.lua
-mods/data/fatality/changeNotes.lua
-mods/data/fatality/creditos.lua
 mods/data/fatality/fatality-hard.json
 mods/data/fatality/mod.txt
 mods/data/fatality/screenBeat.lua

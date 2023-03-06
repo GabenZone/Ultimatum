@@ -1,6 +1,5 @@
 mods/data/milk/Brownies Pudding Countdown.lua
 mods/data/milk/Camera.lua
-mods/data/milk/creditos.lua
 mods/data/milk/milk-hard.json
 mods/data/milk/mod.txt
 mods/data/milk/script Personalizar Muerte.lua

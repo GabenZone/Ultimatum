@@ -1,6 +1,5 @@
 mods/data/mania/Camera.lua
 mods/data/mania/changeSplashNoteSonic.lua
-mods/data/mania/creditos.lua
 mods/data/mania/mania-hard.json
 mods/data/mania/mod.txt
 mods/SonicEXE/characters/bf.json
@@ -23,6 +22,5 @@ mods/SonicEXE/images/mashedTails/TailsMemories1.png
 mods/SonicEXE/images/mashedTails/TailsMemories2.png
 mods/SonicEXE/images/mashedTails/TailsMemories3.png
 mods/SonicEXE/images/mashedTails/TailsMemories4.png
-mods/SonicEXE/fonts/vcr.ttf
 mods/songs/mania/Inst.ogg
 mods/songs/mania/inst.ogg

@@ -1,6 +1,5 @@
 mods/data/serious/Camera.lua
 mods/data/serious/changeSplashNoteSonic.lua
-mods/data/serious/creditos.lua
 mods/data/serious/mod.txt
 mods/data/serious/serious-hard.json
 mods/SonicEXE/characters/bf.json
@@ -17,7 +16,6 @@ mods/SonicEXE/images/characters/GF_assets.xml
 mods/SonicEXE/characters/coldsteel-serious.json
 mods/SonicEXE/images/characters/coldsteel_Serioubelit.png
 mods/SonicEXE/images/characters/coldsteel_Serioubelit.xml
-mods/SonicEXE/custom_events/Lyrics.lua
 mods/SonicEXE/images/black.png
 mods/SonicEXE/images/bg.png
 mods/songs/serious/Inst.ogg

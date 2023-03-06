@@ -1,12 +1,10 @@
 mods/data/mania/Camera.lua
 mods/data/mania/changeSplashNoteSonic.lua
-mods/data/mania/creditos.lua
 mods/data/mania/mania-hard.json
 mods/data/mania/mod.txt
 mods/SonicEXE/stages/tailsplace.json
 mods/SonicEXE/stages/tailsplace.lua
 mods/SonicEXE/custom_events/Flash Camera.lua
 mods/SonicEXE/custom_events/Lyrics1.lua
-mods/SonicEXE/fonts/vcr.ttf
 mods/songs/mania/Inst.ogg
 mods/songs/mania/inst.ogg

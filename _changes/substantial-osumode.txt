@@ -1,5 +1,4 @@
 mods/data/substantial/Camera.lua
-mods/data/substantial/creditos.lua
 mods/data/substantial/mod.txt
 mods/data/substantial/screenBeat.lua
 mods/data/substantial/scriptIntro.lua

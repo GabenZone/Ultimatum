@@ -1,6 +1,5 @@
 mods/data/godspeed/Camera.lua
 mods/data/godspeed/changeSplashNoteSonic.lua
-mods/data/godspeed/creditos.lua
 mods/data/godspeed/godspeed-hard.json
 mods/data/godspeed/mod.txt
 mods/SonicEXE/stages/GodBG.json

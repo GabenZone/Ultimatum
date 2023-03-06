@@ -1,5 +1,4 @@
 mods/data/round-a-bout/changeSplashNoteSonic.lua
-mods/data/round-a-bout/creditos.lua
 mods/data/round-a-bout/events.json
 mods/SonicEXE/characters/gf-needlemouse-scared.json
 mods/SonicEXE/images/characters/GF__Needlemouse.png

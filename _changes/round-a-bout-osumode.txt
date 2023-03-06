@@ -1,5 +1,4 @@
 mods/data/round-a-bout/changeSplashNoteSonic.lua
-mods/data/round-a-bout/creditos.lua
 mods/data/round-a-bout/events.json
 mods/data/round-a-bout/mod.txt
 mods/data/round-a-bout/round-a-bout-hard.json

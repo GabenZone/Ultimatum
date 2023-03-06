@@ -1,6 +1,5 @@
 mods/data/burning/burning-hard.json
 mods/data/burning/Camera.lua
-mods/data/burning/creditos.lua
 mods/data/burning/mod.txt
 mods/SonicEXE/characters/bf-burning.json
 mods/SonicEXE/characters/burning_sonic.json

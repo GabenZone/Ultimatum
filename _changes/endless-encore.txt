@@ -1,6 +1,5 @@
 mods/data/endless-encore/Camera.lua
 mods/data/endless-encore/changeSplashNoteSonic.lua
-mods/data/endless-encore/creditos.lua
 mods/data/endless-encore/endless-encore-hard.json
 mods/data/endless-encore/mod.txt
 mods/data/endless-encore/screenBeat.lua
@@ -17,7 +16,6 @@ mods/SonicEXE/images/characters/MajinOG.xml
 mods/SonicEXE/images/characters/GF_assets.png
 mods/SonicEXE/images/characters/GF_assets.xml
 mods/SonicEXE/custom_events/Majin count.lua
-mods/SonicEXE/custom_events/changeNoteTexture.lua
 mods/SonicEXE/custom_events/Majin spin.lua
 mods/SonicEXE/images/FunInfiniteStage/sonicFUNsky.png
 mods/SonicEXE/images/black.png
@@ -33,7 +31,6 @@ mods/SonicEXE/images/FunInfiniteStage/majin FG2.png
 mods/SonicEXE/images/FunInfiniteStage/majin FG2.xml
 mods/SonicEXE/images/FunInfiniteStage/majin FG1.png
 mods/SonicEXE/images/FunInfiniteStage/majin FG1.xml
-mods/SonicEXE/fonts/vcr.ttf
 mods/SonicEXE/images/FunInfiniteStage/three.png
 mods/SonicEXE/images/FunInfiniteStage/two.png
 mods/SonicEXE/images/FunInfiniteStage/one.png

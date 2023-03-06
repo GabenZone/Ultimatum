@@ -14,6 +14,7 @@ mods/OneShotMods/images/characters/Amber.xml
 mods/OneShotMods/images/characters/01.png
 mods/OneShotMods/images/characters/01.xml
 mods/OneShotMods/custom_events/Set Cam Zoom.lua
+mods/OneShotMods/scripts/script.lua
 mods/OneShotMods/images/bg.png
 mods/OneShotMods/images/wall.png
 mods/songs/wacky/Voices.ogg

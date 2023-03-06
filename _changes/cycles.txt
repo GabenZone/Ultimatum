@@ -1,5 +1,4 @@
 mods/data/cycles/changeSplashNoteSonic.lua
-mods/data/cycles/creditos.lua
 mods/data/cycles/cycles-encore.json
 mods/data/cycles/mod.txt
 mods/data/cycles/scriptIntro.lua

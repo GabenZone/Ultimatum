@@ -1,11 +1,23 @@
 mods/data/you-cant-run/Camera.lua
 mods/data/you-cant-run/changeSplashNoteSonic.lua
-mods/data/you-cant-run/creditos.lua
-mods/data/you-cant-run/credits.lua
 mods/data/you-cant-run/forFUNlol.lua
+mods/data/you-cant-run/mod.txt
 mods/data/you-cant-run/scriptCutscene.lua
 mods/data/you-cant-run/scriptIntro.lua
 mods/data/you-cant-run/ycr shit.lua
 mods/data/you-cant-run/you-cant-run-encore.json
+mods/SonicEXE/stages/SonicP2.json
+mods/SonicEXE/stages/SonicP2.lua
+mods/SonicEXE/custom_notetypes/Phantom Note.lua
+mods/SonicEXE/custom_notetypes/staticNotes.lua
+mods/SonicEXE/custom_events/Sonic Face.lua
+mods/SonicEXE/custom_events/Creeps.lua
+mods/SonicEXE/custom_events/Red Flash Camera.lua
+mods/SonicEXE/custom_events/Hud Fade.lua
+mods/SonicEXE/custom_events/Flash Camera.lua
+mods/SonicEXE/custom_events/BlackOut.lua
+mods/SonicEXE/sounds/hitStatic1.ogg
+mods/SonicEXE/sounds/sppok.ogg
+mods/SonicEXE/sounds/simplejumpsound.ogg
 mods/songs/you-cant-run/Inst.ogg
 mods/songs/you-cant-run/inst.ogg

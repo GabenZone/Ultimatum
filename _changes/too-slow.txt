@@ -1,6 +1,5 @@
 mods/data/too-slow/Camera.lua
 mods/data/too-slow/changeSplashNoteSonic.lua
-mods/data/too-slow/creditos.lua
 mods/data/too-slow/LuzNegra.lua
 mods/data/too-slow/mod.txt
 mods/data/too-slow/screenBeat.lua
@@ -25,7 +24,6 @@ mods/SonicEXE/characters/bf-TooSlow.json
 mods/SonicEXE/images/characters/ENCORE_BF.png
 mods/SonicEXE/images/characters/ENCORE_BF.xml
 mods/SonicEXE/custom_notetypes/Static Note.lua
-mods/SonicEXE/custom_events/Lyrics.lua
 mods/SonicEXE/custom_events/Red Flash Camera.lua
 mods/SonicEXE/custom_events/Flash Camera.lua
 mods/SonicEXE/images/hitStatic.png
@@ -36,8 +34,9 @@ mods/SonicEXE/images/TooSlowStage/iamgod.xml
 mods/SonicEXE/images/black.png
 mods/SonicEXE/images/StartScreens/Circle-too-slow.png
 mods/SonicEXE/images/StartScreens/Text-too-slow.png
-mods/SonicEXE/fonts/vcr.ttf
 mods/SonicEXE/images/hitStatic.xml
 mods/SonicEXE/images/staticNotes.png
 mods/SonicEXE/images/staticNotes.xml
 mods/SonicEXE/sounds/hitStatic1.ogg
+mods/songs/too-slow/Inst.ogg
+mods/songs/too-slow/inst.ogg

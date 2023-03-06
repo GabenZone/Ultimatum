@@ -1,10 +1,8 @@
 mods/data/serious/Camera.lua
 mods/data/serious/changeSplashNoteSonic.lua
-mods/data/serious/creditos.lua
 mods/data/serious/mod.txt
 mods/data/serious/serious-hard.json
 mods/SonicEXE/stages/void.json
 mods/SonicEXE/stages/void.lua
-mods/SonicEXE/custom_events/Lyrics.lua
 mods/songs/serious/Inst.ogg
 mods/songs/serious/inst.ogg

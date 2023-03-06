@@ -1,7 +1,6 @@
 mods/data/personel/bye.lua
 mods/data/personel/Camera.lua
 mods/data/personel/changeSplashNoteSonic.lua
-mods/data/personel/creditos.lua
 mods/data/personel/Icallthisoneyourmother.lua
 mods/data/personel/mod.txt
 mods/data/personel/personel-hard.json

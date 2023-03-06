@@ -1,5 +1,4 @@
 mods/data/forestall-desire/changeSplashNoteSonic.lua
-mods/data/forestall-desire/creditos.lua
 mods/data/forestall-desire/forestall-desire-hard.json
 mods/data/forestall-desire/mod.txt
 mods/data/forestall-desire/scriptIntro.lua
