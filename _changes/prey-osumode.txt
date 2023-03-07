@@ -5,7 +5,6 @@ mods/data/prey/mod.txt
 mods/data/prey/Momento Diálogos.lua
 mods/data/prey/prey-hard.json
 mods/data/prey/scriptIntro.lua
-mods/data/prey/SonicTypeHud.lua
 mods/SonicEXE/stages/starved-pixel.json
 mods/SonicEXE/stages/starved-pixel.lua
 mods/songs/prey/Inst.ogg

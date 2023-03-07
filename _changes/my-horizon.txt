@@ -4,7 +4,6 @@ mods/data/my-horizon/mod.txt
 mods/data/my-horizon/my-horizon-hard.json
 mods/data/my-horizon/screenBeat.lua
 mods/data/my-horizon/scriptIntro.lua
-mods/data/my-horizon/SonicTypeHud.lua
 mods/SonicEXE/characters/bf-chaotix.json
 mods/SonicEXE/characters/chaotix.json
 mods/SonicEXE/characters/gf-chaotix.json

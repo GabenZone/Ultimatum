@@ -4,7 +4,6 @@ mods/data/fatality/fatality-hard.json
 mods/data/fatality/mod.txt
 mods/data/fatality/screenBeat.lua
 mods/data/fatality/scriptIntro.lua
-mods/data/fatality/SonicTypeHud.lua
 mods/SonicEXE/stages/fatality.json
 mods/SonicEXE/stages/fatality.lua
 mods/SonicEXE/custom_events/Fatality Popup.lua
