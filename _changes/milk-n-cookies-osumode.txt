@@ -1,0 +1,12 @@
+mods/data/milk-n-cookies/milk-n-cookies.json
+mods/data/milk-n-cookies/mod.txt
+mods/data/milk-n-cookies/script.lua
+mods/MonikaEXE/stages/discoParty.json
+mods/MonikaEXE/stages/discoParty.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/songs/milk-n-cookies/Voices.ogg
+mods/songs/milk-n-cookies/voices.ogg
+mods/songs/milk-n-cookies/Inst.ogg
+mods/songs/milk-n-cookies/inst.ogg

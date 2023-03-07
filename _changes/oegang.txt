@@ -1,0 +1,29 @@
+mods/data/oegang/events.json
+mods/data/oegang/Fadeout.lua
+mods/data/oegang/mod.txt
+mods/data/oegang/oegang-arcade.json
+mods/data/oegang/script.lua
+mods/MarioPCPort/characters/oreo.json
+mods/MarioPCPort/characters/invisible.json
+mods/MarioPCPort/stages/Phantom Arcade Land.json
+mods/MarioPCPort/stages/Phantom Arcade Land.lua
+mods/MarioPCPort/images/characters/mario_phantomart.png
+mods/MarioPCPort/images/characters/mario_phantomart.xml
+mods/MarioPCPort/images/characters/invisible.png
+mods/MarioPCPort/images/characters/invisible.xml
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/Well.png
+mods/MarioPCPort/images/Movie.png
+mods/MarioPCPort/images/HUD.png
+mods/MarioPCPort/images/Sky.png
+mods/MarioPCPort/images/Sand.png
+mods/MarioPCPort/images/Moyai.png
+mods/MarioPCPort/images/BigGreen.png
+mods/MarioPCPort/images/Phantom.png
+mods/MarioPCPort/images/oreo.png
+mods/songs/oegang/Voices.ogg
+mods/songs/oegang/voices.ogg
+mods/songs/oegang/Inst.ogg
+mods/songs/oegang/inst.ogg

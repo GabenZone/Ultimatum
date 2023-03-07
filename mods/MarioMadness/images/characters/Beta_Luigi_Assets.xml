@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Beta_Luigi_Assets.png"><SubTexture name="BetaDown0000" x="1236" y="1159" width="325" height="537" frameX="0" frameY="-20" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0001" x="911" y="1159" width="325" height="556" frameX="-23" frameY="-1" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0002" x="911" y="1159" width="325" height="556" frameX="-23" frameY="-1" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0003" x="586" y="1159" width="325" height="557" frameX="-24" frameY="0" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0004" x="586" y="1159" width="325" height="557" frameX="-24" frameY="0" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0005" x="586" y="1159" width="325" height="557" frameX="-24" frameY="0" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaDown0006" x="586" y="1159" width="325" height="557" frameX="-24" frameY="0" frameWidth="349" frameHeight="557" />
+<SubTexture name="BetaIdle0000" x="1641" y="564" width="271" height="563" frameX="0" frameY="-11" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0001" x="0" y="1159" width="271" height="561" frameX="0" frameY="-13" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0002" x="0" y="1159" width="271" height="561" frameX="0" frameY="-13" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0003" x="1349" y="565" width="269" height="562" frameX="-2" frameY="-12" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0004" x="1349" y="565" width="269" height="562" frameX="-2" frameY="-12" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0005" x="0" y="591" width="270" height="568" frameX="-3" frameY="-6" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0006" x="0" y="591" width="270" height="568" frameX="-3" frameY="-6" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0007" x="277" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0008" x="277" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0009" x="277" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0010" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0011" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0012" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0013" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0014" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaIdle0015" x="545" y="0" width="268" height="574" frameX="-5" frameY="0" frameWidth="273" frameHeight="574" />
+<SubTexture name="BetaLeft0000" x="271" y="1159" width="315" height="559" frameX="0" frameY="-7" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0001" x="270" y="591" width="306" height="565" frameX="-9" frameY="-1" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0002" x="270" y="591" width="306" height="565" frameX="-9" frameY="0" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0003" x="576" y="591" width="307" height="565" frameX="-8" frameY="-1" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0004" x="576" y="591" width="307" height="565" frameX="-8" frameY="0" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0005" x="576" y="591" width="307" height="565" frameX="-8" frameY="0" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaLeft0006" x="576" y="591" width="307" height="565" frameX="-8" frameY="0" frameWidth="316" frameHeight="566" />
+<SubTexture name="BetaRight0000" x="1641" y="0" width="310" height="564" frameX="0" frameY="-1" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0001" x="883" y="591" width="293" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0002" x="883" y="591" width="293" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0003" x="1349" y="0" width="292" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0004" x="1349" y="0" width="292" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0005" x="1349" y="0" width="292" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaRight0006" x="1349" y="0" width="292" height="565" frameX="0" frameY="0" frameWidth="311" frameHeight="565" />
+<SubTexture name="BetaUp0000" x="0" y="0" width="277" height="591" frameX="0" frameY="0" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0001" x="813" y="0" width="268" height="574" frameX="-11" frameY="-17" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0002" x="813" y="0" width="268" height="574" frameX="-11" frameY="-17" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0003" x="1081" y="0" width="268" height="573" frameX="-12" frameY="-18" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0004" x="1081" y="0" width="268" height="573" frameX="-12" frameY="-18" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0005" x="1081" y="0" width="268" height="573" frameX="-12" frameY="-18" frameWidth="280" frameHeight="591" />
+<SubTexture name="BetaUp0006" x="1081" y="0" width="268" height="573" frameX="-12" frameY="-18" frameWidth="280" frameHeight="591" />
+</TextureAtlas>

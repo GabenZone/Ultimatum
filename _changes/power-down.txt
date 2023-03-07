@@ -1,0 +1,36 @@
+mods/data/power-down/mod.txt
+mods/data/power-down/power-down.json
+mods/data/power-down/script.lua
+mods/MarioMadness/characters/bfvhs.json
+mods/MarioMadness/characters/mx.json
+mods/MarioMadness/characters/gfnew.json
+mods/MarioMadness/stages/exeport.json
+mods/MarioMadness/stages/exeport.lua
+mods/MarioMadness/images/characters/BF_New.png
+mods/MarioMadness/images/characters/BF_New.xml
+mods/MarioMadness/images/characters/MX_Assets_v1.png
+mods/MarioMadness/images/characters/MX_Assets_v1.xml
+mods/MarioMadness/images/characters/Mario_Girlfriend_New.png
+mods/MarioMadness/images/characters/Mario_Girlfriend_New.xml
+mods/MarioMadness/custom_events/Image FlashHUD.lua
+mods/MarioMadness/custom_events/MX salto.lua
+mods/MarioMadness/custom_events/FlashROJO.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/MarioMadness/images/mario/MX/MXBC1.png
+mods/MarioMadness/images/mario/MX/mont.png
+mods/MarioMadness/images/mario/MX/mont.xml
+mods/MarioMadness/images/mario/MX/cara.png
+mods/MarioMadness/images/mario/MX/cara.xml
+mods/MarioMadness/images/mario/MX/MXBC2.png
+mods/MarioMadness/images/mario/MX/luigi.png
+mods/MarioMadness/images/mario/MX/tvscreen.png
+mods/MarioMadness/images/mario/MX/emeequis.png
+mods/MarioMadness/images/mario/MX/emeequis.xml
+mods/MarioMadness/images/cuidao.png
+mods/MarioMadness/images/cuidao.xml
+mods/MarioMadness/sounds/warningmx.ogg
+mods/MarioMadness/images/flashROJO.png
+mods/songs/power-down/Voices.ogg
+mods/songs/power-down/voices.ogg
+mods/songs/power-down/Inst.ogg
+mods/songs/power-down/inst.ogg

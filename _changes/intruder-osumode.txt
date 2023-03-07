@@ -1,0 +1,9 @@
+mods/data/intruder/events.json
+mods/data/intruder/intruder-hard.json
+mods/data/intruder/mod.txt
+mods/MarioPCPort/stages/AloneTV.json
+mods/MarioPCPort/stages/AloneTV.lua
+mods/songs/intruder/Voices.ogg
+mods/songs/intruder/voices.ogg
+mods/songs/intruder/Inst.ogg
+mods/songs/intruder/inst.ogg

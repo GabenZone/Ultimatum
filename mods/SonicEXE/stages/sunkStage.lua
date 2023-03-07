@@ -46,11 +46,6 @@ makeLuaSprite('stage', 'sunky/stage', 0, -570)
 	setProperty('pose.visible', false);
 	addLuaSprite('pose', true);
 	setObjectCamera('pose', 'other')
-	
-	makeLuaSprite('4-3', 'sunky/4_3 shit', 0, 0)
-    scaleObject('4-3',1,1);
-    addLuaSprite('4-3', true);
-    setObjectCamera('4-3', 'other')
     
     makeLuaSprite('readthefiletitlelol2', 'black', 0,-50 );
 	scaleObject('readthefiletitlelol2', 2,2);

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-38,
+				191
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pedro idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				165
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pedro left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "BANG",
+			"loop": false,
+			"name": "pedro BANG"
+		},
+		{
+			"offsets": [
+				-60,
+				186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pedro up"
+		},
+		{
+			"offsets": [
+				-47,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pedro right"
+		},
+		{
+			"offsets": [
+				-41,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pedro down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pedro_assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pedro",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		210,
+		255
+	],
+	"camera_position": [
+		-1030,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

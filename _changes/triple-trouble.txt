@@ -15,8 +15,8 @@ mods/SonicEXE/images/characters/TailsTT.xml
 mods/SonicEXE/images/characters/GF_assets.png
 mods/SonicEXE/images/characters/GF_assets.xml
 mods/SonicEXE/characters/encore-xeno.json
-mods/SonicEXE/images/characters/beast.png
-mods/SonicEXE/images/characters/beast.xml
+mods/SonicEXE/images/characters/Beast.png
+mods/SonicEXE/images/characters/Beast.xml
 mods/SonicEXE/characters/encore-bf-peright.json
 mods/SonicEXE/images/characters/BF_Requital.png
 mods/SonicEXE/images/characters/BF_Requital.xml

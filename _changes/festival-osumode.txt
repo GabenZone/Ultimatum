@@ -1,0 +1,15 @@
+mods/data/festival/festival.json
+mods/data/festival/mod.txt
+mods/data/festival/script.lua
+mods/MonikaEXE/stages/festivalGrounds.json
+mods/MonikaEXE/stages/festivalGrounds.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/MonikaEXE/sounds/screamSayori.ogg
+mods/MonikaEXE/sounds/screamNatsuki.ogg
+mods/MonikaEXE/sounds/screamYuri.ogg
+mods/songs/festival/Voices.ogg
+mods/songs/festival/voices.ogg
+mods/songs/festival/Inst.ogg
+mods/songs/festival/inst.ogg

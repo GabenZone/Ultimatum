@@ -1,0 +1,12 @@
+mods/data/reprisal/events.json
+mods/data/reprisal/mod.txt
+mods/data/reprisal/reprisal.json
+mods/data/reprisal/script.lua
+mods/MarioPCPort/stages/Underworld.json
+mods/MarioPCPort/stages/Underworld.lua
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/reprisal/Voices.ogg
+mods/songs/reprisal/voices.ogg
+mods/songs/reprisal/Inst.ogg
+mods/songs/reprisal/inst.ogg

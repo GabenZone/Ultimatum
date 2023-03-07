@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "MXIdle",
+	"idle_anim": "MXIdle",
+	"position": [
+		195,
+		270
+	],
+	"scale": 0.5,
+	"image": "emem"
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fleet idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				788,
+				843
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Fleet left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fleet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				841
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fleet up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fleet right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Fleet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				841
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Fleet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				788,
+				843
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Fleet left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Fleet right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkPuddleLunatic",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "puddle-lunatic",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		48
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

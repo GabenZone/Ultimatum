@@ -1,0 +1,14 @@
+mods/data/hater/events.json
+mods/data/hater/Fadeout.lua
+mods/data/hater/hater.json
+mods/data/hater/mod.txt
+mods/data/hater/script.lua
+mods/MarioPCPort/stages/I HATE YOU.json
+mods/MarioPCPort/stages/I HATE YOU.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/hater/Voices.ogg
+mods/songs/hater/voices.ogg
+mods/songs/hater/Inst.ogg
+mods/songs/hater/inst.ogg

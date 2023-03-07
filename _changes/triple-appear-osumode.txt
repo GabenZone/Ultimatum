@@ -1,0 +1,14 @@
+mods/data/triple-appear/events.json
+mods/data/triple-appear/Fadeout.lua
+mods/data/triple-appear/mod.txt
+mods/data/triple-appear/script.lua
+mods/data/triple-appear/triple-appear-notspecified.json
+mods/MarioPCPort/stages/RUN RED.json
+mods/MarioPCPort/stages/RUN RED.lua
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/triple-appear/Voices.ogg
+mods/songs/triple-appear/voices.ogg
+mods/songs/triple-appear/Inst.ogg
+mods/songs/triple-appear/inst.ogg

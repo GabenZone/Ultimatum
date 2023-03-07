@@ -1,0 +1,13 @@
+mods/data/so-long/events.json
+mods/data/so-long/mod.txt
+mods/data/so-long/script 2.lua
+mods/data/so-long/script.lua
+mods/data/so-long/so-long-notspecified.json
+mods/MarioPCPort/stages/RUN.json
+mods/MarioPCPort/stages/RUN.lua
+mods/MarioPCPort/custom_events/Coinpop.lua
+mods/MarioPCPort/sounds/coin.ogg
+mods/songs/so-long/Voices.ogg
+mods/songs/so-long/voices.ogg
+mods/songs/so-long/Inst.ogg
+mods/songs/so-long/inst.ogg

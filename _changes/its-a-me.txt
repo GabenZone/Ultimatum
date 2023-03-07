@@ -1,0 +1,26 @@
+mods/data/its-a-me/its-a-me-hard.json
+mods/data/its-a-me/mod.txt
+mods/data/its-a-me/script.lua
+mods/MarioMadness/characters/bfexe.json
+mods/MarioMadness/characters/mariano.json
+mods/MarioMadness/characters/gfexe.json
+mods/MarioMadness/stages/execlassic.json
+mods/MarioMadness/stages/execlassic.lua
+mods/MarioMadness/images/characters/Mario_BoyFriend_Assets_v1.png
+mods/MarioMadness/images/characters/Mario_BoyFriend_Assets_v1.xml
+mods/MarioMadness/images/characters/Mario_exe_Assets.png
+mods/MarioMadness/images/characters/Mario_exe_Assets.xml
+mods/MarioMadness/images/characters/Mario_Girlfriend_assets_v1.png
+mods/MarioMadness/images/characters/Mario_Girlfriend_assets_v1.xml
+mods/MarioMadness/custom_notetypes/Nota veneno.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/MarioMadness/images/mario/EXE1/fondo1.png
+mods/MarioMadness/images/mario/EXE1/fondo3.png
+mods/MarioMadness/images/mario/EXE1/fondo4.png
+mods/MarioMadness/images/mario/EXE1/fondo2.png
+mods/MarioMadness/images/poisonMario_NOTE_assets.png
+mods/MarioMadness/images/poisonMario_NOTE_assets.xml
+mods/songs/its-a-me/Voices.ogg
+mods/songs/its-a-me/voices.ogg
+mods/songs/its-a-me/Inst.ogg
+mods/songs/its-a-me/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/salty/events.json
+mods/data/salty/mod.txt
+mods/data/salty/salty-hard.json
+mods/data/salty/script.lua
+mods/PedroEXE/stages/MM2.json
+mods/PedroEXE/stages/MM2.lua
+mods/PedroEXE/custom_notetypes/Bullet Note.lua
+mods/PedroEXE/sounds/bang.ogg
+mods/songs/salty/Voices.ogg
+mods/songs/salty/voices.ogg
+mods/songs/salty/Inst.ogg
+mods/songs/salty/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/just-monika/just-monika.json
+mods/data/just-monika/mod.txt
+mods/data/just-monika/script.lua
+mods/MonikaEXE/stages/greenHill.json
+mods/MonikaEXE/stages/greenHill.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/songs/just-monika/Voices.ogg
+mods/songs/just-monika/voices.ogg
+mods/songs/just-monika/Inst.ogg
+mods/songs/just-monika/inst.ogg

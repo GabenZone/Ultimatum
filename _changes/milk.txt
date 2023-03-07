@@ -20,7 +20,6 @@ mods/SonicEXE/images/sunky/sunker.xml
 mods/SonicEXE/images/sunky/cereal.png
 mods/SonicEXE/images/sunky/sunkyMunch.png
 mods/SonicEXE/images/sunky/sunkyPose.png
-mods/SonicEXE/images/sunky/4_3 shit.png
 mods/SonicEXE/images/black.png
 mods/SonicEXE/images/sunky/sunkage.png
 mods/SonicEXE/images/sunky/uwu.png

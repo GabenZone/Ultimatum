@@ -1,0 +1,34 @@
+mods/data/lunatic/lunatic.json
+mods/data/lunatic/mod.txt
+mods/data/lunatic/script.lua
+mods/MonikaEXE/characters/lunatic.json
+mods/MonikaEXE/characters/nothing.json
+mods/MonikaEXE/stages/chaosChamber.json
+mods/MonikaEXE/stages/chaosChamber.lua
+mods/MonikaEXE/images/characters/Lunatic.png
+mods/MonikaEXE/images/characters/Lunatic.xml
+mods/MonikaEXE/images/characters/Nothing.png
+mods/MonikaEXE/images/characters/Nothing.xml
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/MonikaEXE/images/lunatic/Chamber.png
+mods/MonikaEXE/images/lunatic/Floor.png
+mods/MonikaEXE/images/lunatic/Rocks.png
+mods/MonikaEXE/images/lunatic/Objects.png
+mods/MonikaEXE/images/lunatic/Pillars.png
+mods/MonikaEXE/images/lunatic/Wall.png
+mods/MonikaEXE/images/lunatic/Emerald Beam Charged.png
+mods/MonikaEXE/images/lunatic/Emerald Beam Charged.xml
+mods/MonikaEXE/images/lunatic/dancinsayori.png
+mods/MonikaEXE/images/lunatic/dancinsayori.xml
+mods/MonikaEXE/images/lunatic/Emeralds.png
+mods/MonikaEXE/images/lunatic/Emeralds.xml
+mods/MonikaEXE/sounds/SUPERBF.ogg
+mods/MonikaEXE/images/characters/SuperBF.png
+mods/MonikaEXE/images/characters/SuperBF.xml
+mods/MonikaEXE/characters/bfSuper.json
+mods/songs/lunatic/Voices.ogg
+mods/songs/lunatic/voices.ogg
+mods/songs/lunatic/Inst.ogg
+mods/songs/lunatic/inst.ogg

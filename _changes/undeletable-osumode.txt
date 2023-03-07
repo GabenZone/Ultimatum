@@ -1,0 +1,13 @@
+mods/data/undeletable/mod.txt
+mods/data/undeletable/script.lua
+mods/data/undeletable/undeletable.json
+mods/MonikaEXE/stages/undeletableForest.json
+mods/MonikaEXE/stages/undeletableForest.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/MonikaEXE/sounds/StaticBuzz.ogg
+mods/songs/undeletable/Voices.ogg
+mods/songs/undeletable/voices.ogg
+mods/songs/undeletable/Inst.ogg
+mods/songs/undeletable/inst.ogg

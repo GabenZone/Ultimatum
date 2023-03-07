@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri.exe Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri.exe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri.exe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri.exe Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Yuri.exe Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri-exe",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "yuri-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		80,
+		160
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

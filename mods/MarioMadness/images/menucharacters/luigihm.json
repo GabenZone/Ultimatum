@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "LuigiIdle",
+	"idle_anim": "LuigiIdle",
+	"position": [
+		85,
+		184
+	],
+	"scale": 0.55,
+	"image": "luigihm"
+}

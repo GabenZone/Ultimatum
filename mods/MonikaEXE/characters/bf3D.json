@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SSBF LEFT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SSBF IDLE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SSBF DOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SSBF UP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SSBF RIGHT instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SSBF LEFTmiss instance 1"
+		},
+		{
+			"offsets": [
+				-50,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "SSBF UPmiss instance 1"
+		},
+		{
+			"offsets": [
+				-30,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "SSBF DOWNmiss instance 1"
+		},
+		{
+			"offsets": [
+				-33,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SSBF RIGHTmiss instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF3D",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-3d",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

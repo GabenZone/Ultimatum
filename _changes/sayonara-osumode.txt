@@ -1,0 +1,12 @@
+mods/data/sayonara/mod.txt
+mods/data/sayonara/sayonara.json
+mods/data/sayonara/script.lua
+mods/MonikaEXE/stages/infiniteForest.json
+mods/MonikaEXE/stages/infiniteForest.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/songs/sayonara/Voices.ogg
+mods/songs/sayonara/voices.ogg
+mods/songs/sayonara/Inst.ogg
+mods/songs/sayonara/inst.ogg

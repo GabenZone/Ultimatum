@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "RacistIdle",
+	"idle_anim": "RacistIdle",
+	"position": [
+		446,
+		111
+	],
+	"scale": 0.55,
+	"image": "mariorm"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1531,
+				192
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TordIdleDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1629,
+				262
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordIdleLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1540,
+				270
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TordIdleHEY!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1510,
+				268
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TordIdlePlayable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				253
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordIdleRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1536,
+				291
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordIdleUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nothing",
+	"position": [
+		1590,
+		240
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		-1470,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

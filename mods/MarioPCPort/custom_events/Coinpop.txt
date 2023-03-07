@@ -1,0 +1,6 @@
+value1: Duration to click เวลาที่สามารถคลิกได้ (ถ้าไม่ทันก็ตาย)
+value2: Duration to finish out ความเร็วตอนหายออก เเล้ว ตาย
+
+Example 
+value1 1 (show for 1 sec)
+value2 0.5 ( fall in 0.5 sec) then die

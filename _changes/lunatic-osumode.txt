@@ -1,0 +1,13 @@
+mods/data/lunatic/lunatic.json
+mods/data/lunatic/mod.txt
+mods/data/lunatic/script.lua
+mods/MonikaEXE/stages/chaosChamber.json
+mods/MonikaEXE/stages/chaosChamber.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/MonikaEXE/sounds/SUPERBF.ogg
+mods/songs/lunatic/Voices.ogg
+mods/songs/lunatic/voices.ogg
+mods/songs/lunatic/Inst.ogg
+mods/songs/lunatic/inst.ogg

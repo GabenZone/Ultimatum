@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "WarioIdle",
+	"idle_anim": "WarioIdle",
+	"position": [
+		75,
+		90
+	],
+	"scale": 0.7,
+	"image": "wariom"
+}

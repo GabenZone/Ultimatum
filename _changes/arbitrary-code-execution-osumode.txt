@@ -1,0 +1,12 @@
+mods/data/arbitrary-code-execution/arbitrary-code-execution.json
+mods/data/arbitrary-code-execution/mod.txt
+mods/data/arbitrary-code-execution/script.lua
+mods/MonikaEXE/stages/codeZone.json
+mods/MonikaEXE/stages/codeZone.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/songs/arbitrary-code-execution/Voices.ogg
+mods/songs/arbitrary-code-execution/voices.ogg
+mods/songs/arbitrary-code-execution/Inst.ogg
+mods/songs/arbitrary-code-execution/inst.ogg

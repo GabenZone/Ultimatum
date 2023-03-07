@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="marioexem.png"><SubTexture name="MarioIdle0000" x="1184" y="1571" width="614" height="766" frameX="-8" frameY="-21" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0001" x="1184" y="1571" width="614" height="766" frameX="-8" frameY="-21" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0002" x="2392" y="0" width="614" height="766" frameX="-8" frameY="-21" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0003" x="1780" y="0" width="612" height="773" frameX="-3" frameY="-14" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0004" x="1780" y="773" width="612" height="773" frameX="-3" frameY="-14" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0005" x="1780" y="773" width="612" height="773" frameX="-3" frameY="-14" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0006" x="0" y="787" width="600" height="784" frameX="-1" frameY="-3" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0007" x="0" y="787" width="600" height="784" frameX="-1" frameY="-3" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0008" x="600" y="787" width="600" height="784" frameX="-1" frameY="-3" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0009" x="1187" y="0" width="593" height="786" frameX="0" frameY="-1" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0010" x="1187" y="0" width="593" height="786" frameX="0" frameY="-1" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0011" x="0" y="0" width="593" height="787" frameX="0" frameY="0" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0012" x="593" y="0" width="594" height="787" frameX="-2" frameY="0" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0013" x="0" y="1571" width="592" height="769" frameX="-7" frameY="-18" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0014" x="592" y="1571" width="592" height="769" frameX="-7" frameY="-18" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0015" x="2392" y="1530" width="602" height="763" frameX="-10" frameY="-24" frameWidth="622" frameHeight="787" />
+<SubTexture name="MarioIdle0016" x="2392" y="766" width="602" height="764" frameX="-10" frameY="-23" frameWidth="622" frameHeight="787" />
+</TextureAtlas>

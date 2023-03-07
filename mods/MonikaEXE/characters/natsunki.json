@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				72
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "natsunki left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-141
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "natsunki down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "natsunki up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "natsunki right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "natsunki idle",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "natsunki idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Natsunki",
+	"position": [
+		-190,
+		140
+	],
+	"healthicon": "natsunki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		236
+	],
+	"camera_position": [
+		100,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

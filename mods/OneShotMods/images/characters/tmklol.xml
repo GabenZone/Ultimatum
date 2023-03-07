@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TMK.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Transformation_00000" x="0" y="0" width="356" height="342" frameX="-293" frameY="-324" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00001" x="0" y="0" width="356" height="342" frameX="-293" frameY="-324" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00002" x="356" y="0" width="355" height="348" frameX="-298" frameY="-318" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00003" x="711" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00004" x="711" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00005" x="1065" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00006" x="1065" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00007" x="1065" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00008" x="1065" y="0" width="354" height="349" frameX="-300" frameY="-317" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00009" x="1419" y="0" width="355" height="346" frameX="-297" frameY="-320" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00010" x="1419" y="0" width="355" height="346" frameX="-297" frameY="-320" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00011" x="1774" y="0" width="359" height="326" frameX="-274" frameY="-340" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00012" x="1774" y="0" width="359" height="326" frameX="-274" frameY="-340" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00013" x="2133" y="0" width="361" height="325" frameX="-272" frameY="-341" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00014" x="2133" y="0" width="361" height="325" frameX="-272" frameY="-341" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00015" x="2494" y="0" width="361" height="325" frameX="-278" frameY="-333" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00016" x="2494" y="0" width="361" height="325" frameX="-278" frameY="-333" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00017" x="2855" y="0" width="862" height="422" frameX="-340" frameY="-45" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00018" x="0" y="422" width="861" height="423" frameX="-355" frameY="-32" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00019" x="861" y="422" width="859" height="423" frameX="-359" frameY="-30" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00020" x="861" y="422" width="859" height="423" frameX="-359" frameY="-30" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00021" x="861" y="422" width="859" height="423" frameX="-359" frameY="-30" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00022" x="1720" y="422" width="860" height="423" frameX="-351" frameY="-34" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00023" x="2580" y="422" width="861" height="427" frameX="-29" frameY="-330" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00024" x="2580" y="422" width="861" height="427" frameX="-29" frameY="-330" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00025" x="2580" y="422" width="861" height="427" frameX="-29" frameY="-330" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00026" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00027" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00028" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00029" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00030" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00031" x="0" y="849" width="859" height="391" frameX="-7" frameY="-369" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00032" x="859" y="849" width="859" height="307" frameX="0" frameY="-422" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00033" x="1718" y="849" width="859" height="297" frameX="0" frameY="-427" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00034" x="1718" y="849" width="859" height="297" frameX="0" frameY="-427" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00035" x="1718" y="849" width="859" height="297" frameX="0" frameY="-427" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00036" x="2577" y="849" width="858" height="296" frameX="-8" frameY="-419" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00037" x="0" y="1240" width="856" height="299" frameX="-102" frameY="-6" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00038" x="0" y="1240" width="856" height="299" frameX="-102" frameY="-6" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00039" x="856" y="1240" width="860" height="295" frameX="-103" frameY="0" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00040" x="856" y="1240" width="860" height="295" frameX="-103" frameY="0" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00041" x="856" y="1240" width="860" height="295" frameX="-103" frameY="0" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00042" x="1716" y="1240" width="860" height="294" frameX="-103" frameY="-1" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00043" x="1716" y="1240" width="860" height="294" frameX="-103" frameY="-1" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="Transformation_00044" x="1716" y="1240" width="860" height="294" frameX="-103" frameY="-1" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="bugDOWN0000" x="2576" y="1240" width="860" height="186" frameX="-4" frameY="-50" frameWidth="864" frameHeight="236"/>
+	<SubTexture name="bugDOWN0001" x="0" y="1539" width="860" height="186" frameX="0" frameY="-11" frameWidth="864" frameHeight="236"/>
+	<SubTexture name="bugDOWN0002" x="0" y="1539" width="860" height="186" frameX="0" frameY="-4" frameWidth="864" frameHeight="236"/>
+	<SubTexture name="bugDOWN0003" x="860" y="1539" width="860" height="186" frameX="-1" frameY="0" frameWidth="864" frameHeight="236"/>
+	<SubTexture name="bugIDLE0000" x="1720" y="1539" width="860" height="294"/>
+	<SubTexture name="bugLEFT0000" x="2580" y="1539" width="862" height="335" frameX="-52" frameY="0" frameWidth="914" frameHeight="340"/>
+	<SubTexture name="bugLEFT0001" x="0" y="1874" width="861" height="335" frameX="-24" frameY="-3" frameWidth="914" frameHeight="340"/>
+	<SubTexture name="bugLEFT0002" x="861" y="1874" width="861" height="335" frameX="-6" frameY="-5" frameWidth="914" frameHeight="340"/>
+	<SubTexture name="bugLEFT0003" x="1722" y="1874" width="861" height="335" frameX="0" frameY="-5" frameWidth="914" frameHeight="340"/>
+	<SubTexture name="bugRIGHT0000" x="2583" y="1874" width="861" height="292" frameX="0" frameY="0" frameWidth="949" frameHeight="293"/>
+	<SubTexture name="bugRIGHT0001" x="0" y="2209" width="860" height="292" frameX="-68" frameY="0" frameWidth="949" frameHeight="293"/>
+	<SubTexture name="bugRIGHT0002" x="0" y="2209" width="860" height="292" frameX="-83" frameY="-1" frameWidth="949" frameHeight="293"/>
+	<SubTexture name="bugRIGHT0003" x="0" y="2209" width="860" height="292" frameX="-89" frameY="-1" frameWidth="949" frameHeight="293"/>
+	<SubTexture name="bugUP0000" x="860" y="2209" width="861" height="291" frameX="-1" frameY="0" frameWidth="862" frameHeight="326"/>
+	<SubTexture name="bugUP0001" x="1721" y="2209" width="861" height="291" frameX="0" frameY="-19" frameWidth="862" frameHeight="326"/>
+	<SubTexture name="bugUP0002" x="2582" y="2209" width="861" height="291" frameX="0" frameY="-28" frameWidth="862" frameHeight="326"/>
+	<SubTexture name="bugUP0003" x="0" y="2501" width="861" height="291" frameX="0" frameY="-35" frameWidth="862" frameHeight="326"/>
+	<SubTexture name="tmkDOWN0000" x="861" y="2501" width="446" height="299" frameX="0" frameY="-10" frameWidth="446" frameHeight="310"/>
+	<SubTexture name="tmkDOWN0001" x="1307" y="2501" width="446" height="310"/>
+	<SubTexture name="tmkIDLE0000" x="0" y="0" width="356" height="342" frameX="0" frameY="0" frameWidth="1218" frameHeight="760"/>
+	<SubTexture name="tmkLEFT0000" x="1753" y="2501" width="356" height="337" frameX="-3" frameY="0" frameWidth="359" frameHeight="337"/>
+	<SubTexture name="tmkLEFT0001" x="2109" y="2501" width="355" height="337" frameX="0" frameY="0" frameWidth="359" frameHeight="337"/>
+	<SubTexture name="tmkRIGHT0000" x="2464" y="2501" width="379" height="331" frameX="0" frameY="0" frameWidth="381" frameHeight="331"/>
+	<SubTexture name="tmkRIGHT0001" x="2843" y="2501" width="377" height="331" frameX="-4" frameY="0" frameWidth="381" frameHeight="331"/>
+	<SubTexture name="tmkUP0000" x="3220" y="2501" width="336" height="350" frameX="-3" frameY="0" frameWidth="342" frameHeight="350"/>
+	<SubTexture name="tmkUP0001" x="3556" y="2501" width="342" height="345" frameX="0" frameY="-5" frameWidth="342" frameHeight="350"/>
+</TextureAtlas>

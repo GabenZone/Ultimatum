@@ -4,6 +4,8 @@ mods/data/triple-trouble-eddsworld/triple-trouble-eddsworld-hard.json
 mods/OneShotMods/stages/stageeddsworld.json
 mods/OneShotMods/stages/stageeddsworld.lua
 mods/OneShotMods/custom_events/Zoom.lua
+mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
+mods/OneShotMods/scripts/susHUD.lua
 mods/songs/triple-trouble-eddsworld/Inst.ogg
 mods/songs/triple-trouble-eddsworld/inst.ogg

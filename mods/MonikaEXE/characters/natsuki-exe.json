@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-93,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nat Left"
+		},
+		{
+			"offsets": [
+				65,
+				-252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nat down"
+		},
+		{
+			"offsets": [
+				-18,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nat Up"
+		},
+		{
+			"offsets": [
+				134,
+				-194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nat right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-168
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nat Idle",
+			"indices": [
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-168
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Nat Idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Natsuki-exe",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "natsuki-exe",
+	"flip_x": true,
+	"healthbar_colors": [
+		191,
+		68,
+		151
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

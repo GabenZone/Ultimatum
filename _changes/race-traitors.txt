@@ -1,0 +1,37 @@
+mods/data/race-traitors/mod.txt
+mods/data/race-traitors/race-traitors.json
+mods/MarioMadness/characters/racebf.json
+mods/MarioMadness/characters/race.json
+mods/MarioMadness/characters/gfrace.json
+mods/MarioMadness/stages/racing.json
+mods/MarioMadness/stages/racing.lua
+mods/MarioMadness/images/characters/Race_Mario_Boyfriend_Assets_v1.png
+mods/MarioMadness/images/characters/Race_Mario_Boyfriend_Assets_v1.xml
+mods/MarioMadness/images/characters/Race_Mario_Assets.png
+mods/MarioMadness/images/characters/Race_Mario_Assets.xml
+mods/MarioMadness/images/characters/Race_Mario_Girlfriend_Assets_v1.png
+mods/MarioMadness/images/characters/Race_Mario_Girlfriend_Assets_v1.xml
+mods/MarioMadness/custom_notetypes/Nota boo.lua
+mods/MarioMadness/custom_notetypes/Nota bomba.lua
+mods/MarioMadness/custom_events/AAAAAAAAAAAAAAAA.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/MarioMadness/custom_events/Caparazon.lua
+mods/MarioMadness/custom_events/HudVisible.lua
+mods/MarioMadness/custom_events/BAP BOP BESP BOP.lua
+mods/MarioMadness/custom_events/quitarhud.lua
+mods/MarioMadness/images/mario/Races/cielo.png
+mods/MarioMadness/images/mario/Races/Race_Mario_BG3.png
+mods/MarioMadness/images/mario/Races/Ground.png
+mods/MarioMadness/images/mario/Races/Ground.xml
+mods/MarioMadness/images/mario/Races/cajamk.png
+mods/MarioMadness/images/mario/Races/cajamk.xml
+mods/MarioMadness/sounds/si.ogg
+mods/MarioMadness/images/booMario_NOTE_assets.png
+mods/MarioMadness/images/booMario_NOTE_assets.xml
+mods/MarioMadness/images/bombMario_NOTE_assets.png
+mods/MarioMadness/images/bombMario_NOTE_assets.xml
+mods/MarioMadness/images/redshell.png
+mods/songs/race-traitors/Voices.ogg
+mods/songs/race-traitors/voices.ogg
+mods/songs/race-traitors/Inst.ogg
+mods/songs/race-traitors/inst.ogg

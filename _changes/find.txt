@@ -1,0 +1,27 @@
+mods/data/find/events.json
+mods/data/find/find-hard.json
+mods/data/find/mod.txt
+mods/data/find/script.lua
+mods/MarioPCPort/characters/bflookup.json
+mods/MarioPCPort/characters/findme.json
+mods/MarioPCPort/characters/invisible.json
+mods/MarioPCPort/stages/Find Stage.json
+mods/MarioPCPort/stages/Find Stage.lua
+mods/MarioPCPort/images/characters/Bf_lookup.png
+mods/MarioPCPort/images/characters/Bf_lookup.xml
+mods/MarioPCPort/images/characters/findme_assets.png
+mods/MarioPCPort/images/characters/findme_assets.xml
+mods/MarioPCPort/images/characters/invisible.png
+mods/MarioPCPort/images/characters/invisible.xml
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/SetHealth.lua
+mods/MarioPCPort/custom_events/Zaa red.lua
+mods/MarioPCPort/images/item box.png
+mods/MarioPCPort/images/fmShade.png
+mods/MarioPCPort/images/FindFloor.png
+mods/MarioPCPort/images/ZAAAA/broke red.png
+mods/MarioPCPort/images/ZAAAA/broke red.xml
+mods/songs/find/Voices.ogg
+mods/songs/find/voices.ogg
+mods/songs/find/Inst.ogg
+mods/songs/find/inst.ogg

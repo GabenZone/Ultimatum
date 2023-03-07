@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tmkIdle"
+		},
+		{
+			"offsets": [
+				-170,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tmkDown"
+		},
+		{
+			"offsets": [
+				-146,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tmkUp"
+		},
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tmkLeft"
+		},
+		{
+			"offsets": [
+				-90,
+				-163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tmkRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evil",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tmk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

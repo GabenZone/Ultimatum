@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="getdonnymoving.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tmkDown0000" x="0" y="0" width="390" height="459" frameX="-5" frameY="-6" frameWidth="395" frameHeight="501"/>
+	<SubTexture name="tmkDown0001" x="390" y="0" width="391" height="457" frameX="-3" frameY="-1" frameWidth="395" frameHeight="501"/>
+	<SubTexture name="tmkDown0002" x="390" y="0" width="391" height="457" frameX="-3" frameY="-1" frameWidth="395" frameHeight="501"/>
+	<SubTexture name="tmkDown0003" x="390" y="0" width="391" height="457" frameX="-3" frameY="-1" frameWidth="395" frameHeight="501"/>
+	<SubTexture name="tmkDown0004" x="781" y="0" width="391" height="501" frameX="0" frameY="0" frameWidth="395" frameHeight="501"/>
+	<SubTexture name="tmkIdle0000" x="1172" y="0" width="395" height="443"/>
+	<SubTexture name="tmkLeft0000" x="1567" y="0" width="395" height="442" frameX="-31" frameY="0" frameWidth="426" frameHeight="448"/>
+	<SubTexture name="tmkLeft0001" x="0" y="501" width="392" height="440" frameX="-8" frameY="-3" frameWidth="426" frameHeight="448"/>
+	<SubTexture name="tmkLeft0002" x="0" y="501" width="392" height="440" frameX="-8" frameY="-3" frameWidth="426" frameHeight="448"/>
+	<SubTexture name="tmkLeft0003" x="0" y="501" width="392" height="440" frameX="-8" frameY="-3" frameWidth="426" frameHeight="448"/>
+	<SubTexture name="tmkLeft0004" x="392" y="501" width="392" height="442" frameX="0" frameY="-6" frameWidth="426" frameHeight="448"/>
+	<SubTexture name="tmkRight0000" x="784" y="501" width="411" height="448" frameX="0" frameY="-1" frameWidth="421" frameHeight="449"/>
+	<SubTexture name="tmkRight0001" x="1195" y="501" width="405" height="446" frameX="-16" frameY="0" frameWidth="421" frameHeight="449"/>
+	<SubTexture name="tmkRight0002" x="1195" y="501" width="405" height="446" frameX="-16" frameY="0" frameWidth="421" frameHeight="449"/>
+	<SubTexture name="tmkRight0003" x="1195" y="501" width="405" height="446" frameX="-16" frameY="0" frameWidth="421" frameHeight="449"/>
+	<SubTexture name="tmkRight0004" x="1600" y="501" width="403" height="446" frameX="-18" frameY="-1" frameWidth="421" frameHeight="449"/>
+	<SubTexture name="tmkUp0000" x="0" y="949" width="395" height="444" frameX="0" frameY="0" frameWidth="400" frameHeight="456"/>
+	<SubTexture name="tmkUp0001" x="395" y="949" width="395" height="440" frameX="-4" frameY="-12" frameWidth="400" frameHeight="456"/>
+	<SubTexture name="tmkUp0002" x="395" y="949" width="395" height="440" frameX="-4" frameY="-12" frameWidth="400" frameHeight="456"/>
+	<SubTexture name="tmkUp0003" x="395" y="949" width="395" height="440" frameX="-4" frameY="-12" frameWidth="400" frameHeight="456"/>
+	<SubTexture name="tmkUp0004" x="790" y="949" width="395" height="441" frameX="-5" frameY="-15" frameWidth="400" frameHeight="456"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+mods/data/terrifying/events.json
+mods/data/terrifying/mod.txt
+mods/data/terrifying/script 2.lua
+mods/data/terrifying/script.lua
+mods/data/terrifying/terrifying-notspecified.json
+mods/MarioPCPort/stages/RUN.json
+mods/MarioPCPort/stages/RUN.lua
+mods/MarioPCPort/custom_events/Zaa.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/terrifying/Voices.ogg
+mods/songs/terrifying/voices.ogg
+mods/songs/terrifying/Inst.ogg
+mods/songs/terrifying/inst.ogg

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				788,
+				843
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				840
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				790,
+				841
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sonic up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic right"
+		},
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sonic down"
+		},
+		{
+			"offsets": [
+				790,
+				841
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sonic up"
+		},
+		{
+			"offsets": [
+				788,
+				843
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sonic left"
+		},
+		{
+			"offsets": [
+				790,
+				840
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sonic right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkPuddleMonika",
+	"position": [
+		-20,
+		0
+	],
+	"healthicon": "puddle-monika",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		137,
+		40
+	],
+	"camera_position": [
+		90,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

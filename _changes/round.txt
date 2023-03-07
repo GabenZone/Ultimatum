@@ -1,0 +1,22 @@
+mods/data/round/events.json
+mods/data/round/mod.txt
+mods/data/round/round-hard.json
+mods/data/round/round-legacy.json
+mods/data/round/script.lua
+mods/data/round/Set Cam Zoom.lua
+mods/OneShotMods/characters/bf.json
+mods/OneShotMods/characters/tmk.json
+mods/OneShotMods/stages/darkbg.json
+mods/OneShotMods/stages/darkbg.lua
+mods/OneShotMods/images/characters/tmklol.png
+mods/OneShotMods/images/characters/tmklol.xml
+mods/OneShotMods/custom_events/Set Cam Zoom.lua
+mods/OneShotMods/scripts/cambiarGameOvers.lua
+mods/OneShotMods/scripts/script.lua
+mods/OneShotMods/scripts/susHUD.lua
+mods/OneShotMods/images/timeBar.png
+mods/OneShotMods/images/greenBar.png
+mods/songs/round/Voices.ogg
+mods/songs/round/voices.ogg
+mods/songs/round/Inst.ogg
+mods/songs/round/inst.ogg

@@ -1,0 +1,17 @@
+mods/data/race-traitors/mod.txt
+mods/data/race-traitors/race-traitors.json
+mods/MarioMadness/stages/racing.json
+mods/MarioMadness/stages/racing.lua
+mods/MarioMadness/custom_notetypes/Nota boo.lua
+mods/MarioMadness/custom_notetypes/Nota bomba.lua
+mods/MarioMadness/custom_events/AAAAAAAAAAAAAAAA.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/MarioMadness/custom_events/Caparazon.lua
+mods/MarioMadness/custom_events/HudVisible.lua
+mods/MarioMadness/custom_events/BAP BOP BESP BOP.lua
+mods/MarioMadness/custom_events/quitarhud.lua
+mods/MarioMadness/sounds/si.ogg
+mods/songs/race-traitors/Voices.ogg
+mods/songs/race-traitors/voices.ogg
+mods/songs/race-traitors/Inst.ogg
+mods/songs/race-traitors/inst.ogg

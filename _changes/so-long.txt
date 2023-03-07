@@ -1,0 +1,30 @@
+mods/data/so-long/events.json
+mods/data/so-long/mod.txt
+mods/data/so-long/script 2.lua
+mods/data/so-long/script.lua
+mods/data/so-long/so-long-notspecified.json
+mods/MarioPCPort/characters/bflook.json
+mods/MarioPCPort/characters/MX.json
+mods/MarioPCPort/characters/invisible.json
+mods/MarioPCPort/stages/RUN.json
+mods/MarioPCPort/stages/RUN.lua
+mods/MarioPCPort/images/characters/bf_look_on_the_top.png
+mods/MarioPCPort/images/characters/bf_look_on_the_top.xml
+mods/MarioPCPort/images/characters/mario_pc_port.png
+mods/MarioPCPort/images/characters/mario_pc_port.xml
+mods/MarioPCPort/images/characters/invisible.png
+mods/MarioPCPort/images/characters/invisible.xml
+mods/MarioPCPort/custom_events/Coinpop.lua
+mods/MarioPCPort/images/evil.png
+mods/MarioPCPort/images/evil.xml
+mods/MarioPCPort/images/Looking to you.png
+mods/MarioPCPort/images/Looking.png
+mods/MarioPCPort/images/MFloor.png
+mods/MarioPCPort/images/NFloor.png
+mods/MarioPCPort/images/Movie.png
+mods/MarioPCPort/images/pow.png
+mods/MarioPCPort/sounds/coin.ogg
+mods/songs/so-long/Voices.ogg
+mods/songs/so-long/voices.ogg
+mods/songs/so-long/Inst.ogg
+mods/songs/so-long/inst.ogg

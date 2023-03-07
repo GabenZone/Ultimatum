@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fleet.png"><SubTexture name="Fleet down0000" x="0" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet down0001" x="2052" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet down0002" x="4104" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0000" x="6156" y="0" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0001" x="0" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0002" x="2052" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0003" x="4104" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0004" x="6156" y="2052" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0005" x="0" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet idle0006" x="2052" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet left0000" x="4104" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet left0001" x="6156" y="4104" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet left0002" x="0" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet right0000" x="2052" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet right0001" x="4104" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet right0002" x="6156" y="6156" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet up0000" x="0" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet up0001" x="2052" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet up0002" x="4104" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="Fleet up0003" x="6156" y="8208" width="2052" height="2052" frameX="0" frameY="0" frameWidth="2052" frameHeight="2052" />
+</TextureAtlas>

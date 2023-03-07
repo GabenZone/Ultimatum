@@ -1,0 +1,14 @@
+mods/data/oegang/events.json
+mods/data/oegang/Fadeout.lua
+mods/data/oegang/mod.txt
+mods/data/oegang/oegang-arcade.json
+mods/data/oegang/script.lua
+mods/MarioPCPort/stages/Phantom Arcade Land.json
+mods/MarioPCPort/stages/Phantom Arcade Land.lua
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/oegang/Voices.ogg
+mods/songs/oegang/voices.ogg
+mods/songs/oegang/Inst.ogg
+mods/songs/oegang/inst.ogg

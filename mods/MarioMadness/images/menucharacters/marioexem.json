@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "MarioIdle",
+	"idle_anim": "MarioIdle",
+	"position": [
+		124,
+		217
+	],
+	"scale": 0.5,
+	"image": "marioexem"
+}

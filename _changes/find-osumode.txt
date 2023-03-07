@@ -1,0 +1,13 @@
+mods/data/find/events.json
+mods/data/find/find-hard.json
+mods/data/find/mod.txt
+mods/data/find/script.lua
+mods/MarioPCPort/stages/Find Stage.json
+mods/MarioPCPort/stages/Find Stage.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/SetHealth.lua
+mods/MarioPCPort/custom_events/Zaa red.lua
+mods/songs/find/Voices.ogg
+mods/songs/find/voices.ogg
+mods/songs/find/Inst.ogg
+mods/songs/find/inst.ogg

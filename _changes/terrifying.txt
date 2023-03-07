@@ -1,0 +1,28 @@
+mods/data/terrifying/events.json
+mods/data/terrifying/mod.txt
+mods/data/terrifying/script 2.lua
+mods/data/terrifying/script.lua
+mods/data/terrifying/terrifying-notspecified.json
+mods/MarioPCPort/characters/bflook.json
+mods/MarioPCPort/characters/MX.json
+mods/MarioPCPort/stages/RUN.json
+mods/MarioPCPort/stages/RUN.lua
+mods/MarioPCPort/images/characters/bf_look_on_the_top.png
+mods/MarioPCPort/images/characters/bf_look_on_the_top.xml
+mods/MarioPCPort/images/characters/mario_pc_port.png
+mods/MarioPCPort/images/characters/mario_pc_port.xml
+mods/MarioPCPort/custom_events/Zaa.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/evil.png
+mods/MarioPCPort/images/evil.xml
+mods/MarioPCPort/images/Looking to you.png
+mods/MarioPCPort/images/Looking.png
+mods/MarioPCPort/images/MFloor.png
+mods/MarioPCPort/images/NFloor.png
+mods/MarioPCPort/images/Movie.png
+mods/MarioPCPort/images/ZAAAA/broke.png
+mods/MarioPCPort/images/ZAAAA/broke.xml
+mods/songs/terrifying/Voices.ogg
+mods/songs/terrifying/voices.ogg
+mods/songs/terrifying/Inst.ogg
+mods/songs/terrifying/inst.ogg

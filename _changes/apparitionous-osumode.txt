@@ -1,0 +1,15 @@
+mods/data/apparitionous/apparitionous-FUN.json
+mods/data/apparitionous/events.json
+mods/data/apparitionous/mod.txt
+mods/data/apparitionous/script 2.lua
+mods/data/apparitionous/script.lua
+mods/MarioPCPort/stages/Wario world.json
+mods/MarioPCPort/stages/Wario world.lua
+mods/MarioPCPort/custom_notetypes/Rock.lua
+mods/MarioPCPort/custom_notetypes/Bomb_Note.lua
+mods/MarioPCPort/custom_events/Toggle Trail.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/apparitionous/Voices.ogg
+mods/songs/apparitionous/voices.ogg
+mods/songs/apparitionous/Inst.ogg
+mods/songs/apparitionous/inst.ogg

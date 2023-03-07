@@ -1,0 +1,25 @@
+mods/data/alone/alone.json
+mods/data/alone/mod.txt
+mods/data/alone/script.lua
+mods/MarioMadness/characters/bfbeta.json
+mods/MarioMadness/characters/beta.json
+mods/MarioMadness/characters/gfbeta.json
+mods/MarioMadness/stages/betamansion.json
+mods/MarioMadness/stages/betamansion.lua
+mods/MarioMadness/images/characters/BoyFriend_Beta_Assets_v1.png
+mods/MarioMadness/images/characters/BoyFriend_Beta_Assets_v1.xml
+mods/MarioMadness/images/characters/Beta_Luigi_Assets.png
+mods/MarioMadness/images/characters/Beta_Luigi_Assets.xml
+mods/MarioMadness/images/characters/Mario_Girlfriend_Beta_assets_v1.png
+mods/MarioMadness/images/characters/Mario_Girlfriend_Beta_assets_v1.xml
+mods/MarioMadness/custom_events/Triggers Alone.lua
+mods/MarioMadness/images/mario/LuigiBeta/RainLuigi.png
+mods/MarioMadness/images/mario/LuigiBeta/RainLuigi.xml
+mods/MarioMadness/images/mario/LuigiBeta/Beta_BF_Hang.png
+mods/MarioMadness/images/mario/LuigiBeta/Beta_BF_Hang.xml
+mods/MarioMadness/images/mario/LuigiBeta/Beta_Luigi_BG_Assets_1.png
+mods/MarioMadness/images/flash.png
+mods/songs/alone/Voices.ogg
+mods/songs/alone/voices.ogg
+mods/songs/alone/Inst.ogg
+mods/songs/alone/inst.ogg

@@ -1,0 +1,10 @@
+mods/data/alone/alone.json
+mods/data/alone/mod.txt
+mods/data/alone/script.lua
+mods/MarioMadness/stages/betamansion.json
+mods/MarioMadness/stages/betamansion.lua
+mods/MarioMadness/custom_events/Triggers Alone.lua
+mods/songs/alone/Voices.ogg
+mods/songs/alone/voices.ogg
+mods/songs/alone/Inst.ogg
+mods/songs/alone/inst.ogg

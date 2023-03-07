@@ -1,0 +1,13 @@
+mods/data/intruder/events.json
+mods/data/intruder/intruder-hard.json
+mods/data/intruder/mod.txt
+mods/MarioPCPort/characters/TVMario'85.json
+mods/MarioPCPort/stages/AloneTV.json
+mods/MarioPCPort/stages/AloneTV.lua
+mods/MarioPCPort/images/characters/tv_mario_pc.png
+mods/MarioPCPort/images/characters/tv_mario_pc.xml
+mods/MarioPCPort/images/anTV.png
+mods/songs/intruder/Voices.ogg
+mods/songs/intruder/voices.ogg
+mods/songs/intruder/Inst.ogg
+mods/songs/intruder/inst.ogg

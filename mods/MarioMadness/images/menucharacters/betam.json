@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BetaIdle",
+	"idle_anim": "BetaIdle",
+	"position": [
+		-18,
+		104
+	],
+	"scale": 0.65,
+	"image": "betam"
+}

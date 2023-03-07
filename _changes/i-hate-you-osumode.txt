@@ -1,0 +1,11 @@
+mods/data/i-hate-you/i-hate-you.json
+mods/data/i-hate-you/mod.txt
+mods/data/i-hate-you/script.lua
+mods/MarioMadness/stages/hatebg.json
+mods/MarioMadness/stages/hatebg.lua
+mods/MarioMadness/custom_events/Flash.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/songs/i-hate-you/Voices.ogg
+mods/songs/i-hate-you/voices.ogg
+mods/songs/i-hate-you/Inst.ogg
+mods/songs/i-hate-you/inst.ogg

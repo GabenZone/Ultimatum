@@ -1,0 +1,13 @@
+mods/data/your-dear-brother/events.json
+mods/data/your-dear-brother/Fadeout.lua
+mods/data/your-dear-brother/mod.txt
+mods/data/your-dear-brother/script.lua
+mods/data/your-dear-brother/your-dear-brother.json
+mods/MarioPCPort/stages/DEAR.json
+mods/MarioPCPort/stages/DEAR.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/songs/your-dear-brother/Voices.ogg
+mods/songs/your-dear-brother/voices.ogg
+mods/songs/your-dear-brother/Inst.ogg
+mods/songs/your-dear-brother/inst.ogg

@@ -5,7 +5,9 @@ mods/data/wacky/wacky-hard.json
 mods/OneShotMods/stages/room.json
 mods/OneShotMods/stages/room.lua
 mods/OneShotMods/custom_events/Set Cam Zoom.lua
+mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
+mods/OneShotMods/scripts/susHUD.lua
 mods/songs/wacky/Voices.ogg
 mods/songs/wacky/voices.ogg
 mods/songs/wacky/Inst.ogg

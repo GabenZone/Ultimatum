@@ -1,0 +1,19 @@
+mods/data/triple-kill/Flipped Health Bar.lua
+mods/data/triple-kill/info.lua
+mods/data/triple-kill/mod.txt
+mods/data/triple-kill/triple-kill-hard.json
+mods/OneShotMods/stages/triplekill.json
+mods/OneShotMods/stages/triplekill.lua
+mods/OneShotMods/custom_events/flash.lua
+mods/OneShotMods/custom_events/Triple Kill Events.lua
+mods/OneShotMods/scripts/cambiarGameOvers.lua
+mods/OneShotMods/scripts/script.lua
+mods/OneShotMods/scripts/susHUD.lua
+mods/OneShotMods/fonts/SusFont.ttf
+mods/OneShotMods/sounds/JumpsSounds/PinkScream.ogg
+mods/OneShotMods/sounds/JumpsSounds/GrayScream.ogg
+mods/OneShotMods/sounds/JumpsSounds/MaroonScream.ogg
+mods/songs/triple-kill/Voices.ogg
+mods/songs/triple-kill/voices.ogg
+mods/songs/triple-kill/Inst.ogg
+mods/songs/triple-kill/inst.ogg

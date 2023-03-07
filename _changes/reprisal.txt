@@ -1,0 +1,23 @@
+mods/data/reprisal/events.json
+mods/data/reprisal/mod.txt
+mods/data/reprisal/reprisal.json
+mods/data/reprisal/script.lua
+mods/MarioPCPort/characters/bfshad.json
+mods/MarioPCPort/characters/Underworld L.json
+mods/MarioPCPort/stages/Underworld.json
+mods/MarioPCPort/stages/Underworld.lua
+mods/MarioPCPort/images/characters/bf-shad.png
+mods/MarioPCPort/images/characters/bf-shad.xml
+mods/MarioPCPort/images/characters/luigi_real.png
+mods/MarioPCPort/images/characters/luigi_real.xml
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/fmShade.png
+mods/MarioPCPort/images/Front tree.png
+mods/MarioPCPort/images/Forest tree.png
+mods/MarioPCPort/images/Forest front.png
+mods/MarioPCPort/images/Forest back.png
+mods/songs/reprisal/Voices.ogg
+mods/songs/reprisal/voices.ogg
+mods/songs/reprisal/Inst.ogg
+mods/songs/reprisal/inst.ogg

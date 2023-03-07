@@ -1,0 +1,14 @@
+mods/data/power-down/mod.txt
+mods/data/power-down/power-down.json
+mods/data/power-down/script.lua
+mods/MarioMadness/stages/exeport.json
+mods/MarioMadness/stages/exeport.lua
+mods/MarioMadness/custom_events/Image FlashHUD.lua
+mods/MarioMadness/custom_events/MX salto.lua
+mods/MarioMadness/custom_events/FlashROJO.lua
+mods/MarioMadness/custom_events/Set Cam Zoom.lua
+mods/MarioMadness/sounds/warningmx.ogg
+mods/songs/power-down/Voices.ogg
+mods/songs/power-down/voices.ogg
+mods/songs/power-down/Inst.ogg
+mods/songs/power-down/inst.ogg

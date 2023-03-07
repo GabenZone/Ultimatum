@@ -1,0 +1,16 @@
+mods/data/dear-sunshine/dear-sunshine.json
+mods/data/dear-sunshine/mod.txt
+mods/data/dear-sunshine/script.lua
+mods/data/dear-sunshine/vcrGlitch.lua
+mods/MonikaEXE/stages/dollPlaza.json
+mods/MonikaEXE/stages/dollPlaza.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/MonikaEXE/sounds/SonicRReady.ogg
+mods/MonikaEXE/sounds/SonicRSet.ogg
+mods/MonikaEXE/sounds/SonicRGo.ogg
+mods/songs/dear-sunshine/Voices.ogg
+mods/songs/dear-sunshine/voices.ogg
+mods/songs/dear-sunshine/Inst.ogg
+mods/songs/dear-sunshine/inst.ogg

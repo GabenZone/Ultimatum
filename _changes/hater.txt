@@ -1,0 +1,29 @@
+mods/data/hater/events.json
+mods/data/hater/Fadeout.lua
+mods/data/hater/hater.json
+mods/data/hater/mod.txt
+mods/data/hater/script.lua
+mods/MarioPCPort/characters/bflook.json
+mods/MarioPCPort/characters/I hate you.json
+mods/MarioPCPort/stages/I HATE YOU.json
+mods/MarioPCPort/stages/I HATE YOU.lua
+mods/MarioPCPort/images/characters/bf_look_on_the_top.png
+mods/MarioPCPort/images/characters/bf_look_on_the_top.xml
+mods/MarioPCPort/images/characters/ihateu.png
+mods/MarioPCPort/images/characters/ihateu.xml
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/item box.png
+mods/MarioPCPort/images/Fire.png
+mods/MarioPCPort/images/Fire.xml
+mods/MarioPCPort/images/Window.png
+mods/MarioPCPort/images/WindowLight.png
+mods/MarioPCPort/images/Wood.png
+mods/MarioPCPort/images/Wand.png
+mods/MarioPCPort/images/Lava.png
+mods/MarioPCPort/images/hate.png
+mods/songs/hater/Voices.ogg
+mods/songs/hater/voices.ogg
+mods/songs/hater/Inst.ogg
+mods/songs/hater/inst.ogg

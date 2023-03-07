@@ -1,0 +1,12 @@
+mods/data/too-smol/mod.txt
+mods/data/too-smol/script.lua
+mods/data/too-smol/too-smol.json
+mods/MonikaEXE/stages/gm_construct.json
+mods/MonikaEXE/stages/gm_construct.lua
+mods/MonikaEXE/scripts/CustomMusic.lua
+mods/MonikaEXE/scripts/Debug_Keys.lua
+mods/MonikaEXE/scripts/SongCredits.lua
+mods/songs/too-smol/Voices.ogg
+mods/songs/too-smol/voices.ogg
+mods/songs/too-smol/Inst.ogg
+mods/songs/too-smol/inst.ogg

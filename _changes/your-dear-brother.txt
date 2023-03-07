@@ -1,0 +1,32 @@
+mods/data/your-dear-brother/events.json
+mods/MarioPCPort/characters/LX.json
+mods/MarioPCPort/images/characters/luigi_x.png
+mods/MarioPCPort/images/characters/luigi_x.xml
+mods/data/your-dear-brother/Fadeout.lua
+mods/data/your-dear-brother/mod.txt
+mods/data/your-dear-brother/script.lua
+mods/data/your-dear-brother/your-dear-brother.json
+mods/MarioPCPort/characters/AngryGF.json
+mods/MarioPCPort/characters/lui.json
+mods/MarioPCPort/characters/Mario Dead.json
+mods/MarioPCPort/stages/DEAR.json
+mods/MarioPCPort/stages/DEAR.lua
+mods/MarioPCPort/images/characters/GF_MAD.png
+mods/MarioPCPort/images/characters/GF_MAD.xml
+mods/MarioPCPort/images/characters/luigi_phase_1.png
+mods/MarioPCPort/images/characters/luigi_phase_1.xml
+mods/MarioPCPort/images/characters/mario_nohead.png
+mods/MarioPCPort/images/characters/mario_nohead.xml
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/fmShade.png
+mods/MarioPCPort/images/LXHealthBar.png
+mods/MarioPCPort/images/Mario_.png
+mods/MarioPCPort/images/Blood_.png
+mods/MarioPCPort/images/bg Luigi_2.png
+mods/MarioPCPort/images/Shadow.png
+mods/MarioPCPort/images/white.png
+mods/songs/your-dear-brother/Voices.ogg
+mods/songs/your-dear-brother/voices.ogg
+mods/songs/your-dear-brother/Inst.ogg
+mods/songs/your-dear-brother/inst.ogg

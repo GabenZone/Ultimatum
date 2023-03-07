@@ -1,0 +1,52 @@
+mods/data/triple-appear/events.json
+mods/MarioPCPort/characters/x.json
+mods/MarioPCPort/images/characters/mx_red.png
+mods/MarioPCPort/images/characters/mx_red.xml
+mods/MarioPCPort/characters/mx red.json
+mods/MarioPCPort/characters/LX.json
+mods/MarioPCPort/images/characters/luigi_x.png
+mods/MarioPCPort/images/characters/luigi_x.xml
+mods/MarioPCPort/characters/AngryGF.json
+mods/MarioPCPort/images/characters/GF_MAD.png
+mods/MarioPCPort/images/characters/GF_MAD.xml
+mods/MarioPCPort/characters/bfcry.json
+mods/MarioPCPort/images/characters/BF_CRY.png
+mods/MarioPCPort/images/characters/BF_CRY.xml
+mods/MarioPCPort/characters/CryGF.json
+mods/MarioPCPort/images/characters/GF_CRY.png
+mods/MarioPCPort/images/characters/GF_CRY.xml
+mods/MarioPCPort/characters/bffinal.json
+mods/MarioPCPort/images/characters/bf_final.png
+mods/MarioPCPort/images/characters/bf_final.xml
+mods/data/triple-appear/Fadeout.lua
+mods/data/triple-appear/mod.txt
+mods/data/triple-appear/script.lua
+mods/data/triple-appear/triple-appear-notspecified.json
+mods/MarioPCPort/characters/Red x.json
+mods/MarioPCPort/stages/RUN RED.json
+mods/MarioPCPort/stages/RUN RED.lua
+mods/MarioPCPort/images/characters/lordx.png
+mods/MarioPCPort/images/characters/lordx.xml
+mods/MarioPCPort/custom_events/Set_Cam_Zoom.lua
+mods/MarioPCPort/custom_events/Jumpscare.lua
+mods/MarioPCPort/custom_events/whiteflash.lua
+mods/MarioPCPort/images/broke red.png
+mods/MarioPCPort/images/broke red.xml
+mods/MarioPCPort/images/luigi_stand.png
+mods/MarioPCPort/images/luigi_stand.xml
+mods/MarioPCPort/images/Red rock.png
+mods/MarioPCPort/images/Red mount.png
+mods/MarioPCPort/images/Red mount2.png
+mods/MarioPCPort/images/Red back.png
+mods/MarioPCPort/images/Red floor.png
+mods/MarioPCPort/images/Red floor2.png
+mods/MarioPCPort/images/Red stick.png
+mods/MarioPCPort/images/Red blood.png
+mods/MarioPCPort/images/toolatefloor.png
+mods/MarioPCPort/images/Movie.png
+mods/MarioPCPort/images/fmShade.png
+mods/MarioPCPort/images/X.png
+mods/songs/triple-appear/Voices.ogg
+mods/songs/triple-appear/voices.ogg
+mods/songs/triple-appear/Inst.ogg
+mods/songs/triple-appear/inst.ogg
