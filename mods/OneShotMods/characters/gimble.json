@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GimbleIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GimbleLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-153
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GimbleDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-114
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GimbleUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-124
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GimbleRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gimble",
+	"position": [
+		670,
+		-10
+	],
+	"healthicon": "icon_gimble",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		0,
+		0
+	],
+	"camera_position": [
+		-510,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

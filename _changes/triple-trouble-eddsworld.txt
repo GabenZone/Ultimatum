@@ -23,11 +23,7 @@ mods/OneShotMods/characters/tord.json
 mods/OneShotMods/images/characters/tord-exe.png
 mods/OneShotMods/images/characters/tord-exe.xml
 mods/OneShotMods/custom_events/Zoom.lua
-mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
-mods/OneShotMods/scripts/susHUD.lua
 mods/OneShotMods/images/stage.png
-mods/OneShotMods/images/timeBar.png
-mods/OneShotMods/images/greenBar.png
 mods/songs/triple-trouble-eddsworld/Inst.ogg
 mods/songs/triple-trouble-eddsworld/inst.ogg

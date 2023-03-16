@@ -9,13 +9,9 @@ mods/OneShotMods/stages/dream.json
 mods/OneShotMods/stages/dream.lua
 mods/OneShotMods/images/characters/evil.png
 mods/OneShotMods/images/characters/evil.xml
-mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
-mods/OneShotMods/scripts/susHUD.lua
 mods/OneShotMods/images/stars.png
 mods/OneShotMods/images/level.png
-mods/OneShotMods/images/timeBar.png
-mods/OneShotMods/images/greenBar.png
 mods/songs/dreamland/Voices.ogg
 mods/songs/dreamland/voices.ogg
 mods/songs/dreamland/Inst.ogg

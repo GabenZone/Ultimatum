@@ -11,11 +11,7 @@ mods/OneShotMods/stages/darkbg.lua
 mods/OneShotMods/images/characters/tmklol.png
 mods/OneShotMods/images/characters/tmklol.xml
 mods/OneShotMods/custom_events/Set Cam Zoom.lua
-mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
-mods/OneShotMods/scripts/susHUD.lua
-mods/OneShotMods/images/timeBar.png
-mods/OneShotMods/images/greenBar.png
 mods/songs/round/Voices.ogg
 mods/songs/round/voices.ogg
 mods/songs/round/Inst.ogg

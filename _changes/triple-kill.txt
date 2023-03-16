@@ -46,9 +46,7 @@ mods/OneShotMods/images/characters/maroonTTBFezzNormal.png
 mods/OneShotMods/images/characters/maroonTTBFezzNormal.xml
 mods/OneShotMods/custom_events/flash.lua
 mods/OneShotMods/custom_events/Triple Kill Events.lua
-mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
-mods/OneShotMods/scripts/susHUD.lua
 mods/OneShotMods/images/tripleTrouble/tripleBG.png
 mods/OneShotMods/images/tripleTrouble/blackBG.png
 mods/OneShotMods/images/tripleTrouble/blackFG.png
@@ -72,8 +70,6 @@ mods/OneShotMods/images/tripleTrouble/jumpscareMaroon.png
 mods/OneShotMods/sounds/JumpsSounds/PinkScream.ogg
 mods/OneShotMods/sounds/JumpsSounds/GrayScream.ogg
 mods/OneShotMods/sounds/JumpsSounds/MaroonScream.ogg
-mods/OneShotMods/images/timeBar.png
-mods/OneShotMods/images/greenBar.png
 mods/songs/triple-kill/Voices.ogg
 mods/songs/triple-kill/voices.ogg
 mods/songs/triple-kill/Inst.ogg

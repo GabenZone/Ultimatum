@@ -6,9 +6,7 @@ mods/OneShotMods/stages/triplekill.json
 mods/OneShotMods/stages/triplekill.lua
 mods/OneShotMods/custom_events/flash.lua
 mods/OneShotMods/custom_events/Triple Kill Events.lua
-mods/OneShotMods/scripts/cambiarGameOvers.lua
 mods/OneShotMods/scripts/script.lua
-mods/OneShotMods/scripts/susHUD.lua
 mods/OneShotMods/fonts/SusFont.ttf
 mods/OneShotMods/sounds/JumpsSounds/PinkScream.ogg
 mods/OneShotMods/sounds/JumpsSounds/GrayScream.ogg

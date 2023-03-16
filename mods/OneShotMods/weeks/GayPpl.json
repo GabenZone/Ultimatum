@@ -1,0 +1,31 @@
+{
+	"storyName": "Ok people, tomorrow morning",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "gay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"wheresthesnow",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"10am",
+			"icon_buddy",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Gay"
+}
