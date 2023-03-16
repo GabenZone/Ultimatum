@@ -13,8 +13,8 @@ mods/SonicEXE/images/characters/Exe_Assets.png
 mods/SonicEXE/images/characters/Exe_Assets.xml
 mods/SonicEXE/images/characters/exe_gf_assets.png
 mods/SonicEXE/images/characters/exe_gf_assets.xml
-mods/SonicEXE/images/faker/EXBg.png
-mods/SonicEXE/images/faker/EXBg.xml
+mods/SonicEXE/images/faker/EXbg.png
+mods/SonicEXE/images/faker/EXbg.xml
 mods/songs/black-sun/Voices.ogg
 mods/songs/black-sun/voices.ogg
 mods/songs/black-sun/Inst.ogg
