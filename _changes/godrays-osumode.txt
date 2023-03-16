@@ -1,0 +1,11 @@
+mods/data/godrays/godrays-hard.json
+mods/data/godrays/mod.txt
+mods/data/godrays/script.lua
+mods/Agoti/stages/city.json
+mods/Agoti/stages/city.lua
+mods/Agoti/scripts/Script.lua
+mods/Agoti/scripts/Script1.lua
+mods/songs/godrays/Voices.ogg
+mods/songs/godrays/voices.ogg
+mods/songs/godrays/Inst.ogg
+mods/songs/godrays/inst.ogg

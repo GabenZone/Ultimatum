@@ -1,0 +1,8 @@
+mods/data/slaughter/mod.txt
+mods/data/slaughter/slaughter-hard.json
+mods/AbandonedArcade/stages/dinerwilliam.json
+mods/AbandonedArcade/stages/dinerwilliam.lua
+mods/songs/slaughter/Voices.ogg
+mods/songs/slaughter/voices.ogg
+mods/songs/slaughter/Inst.ogg
+mods/songs/slaughter/inst.ogg

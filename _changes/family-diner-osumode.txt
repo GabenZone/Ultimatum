@@ -1,0 +1,8 @@
+mods/data/family-diner/family-diner-hard.json
+mods/data/family-diner/mod.txt
+mods/AbandonedArcade/stages/diner.json
+mods/AbandonedArcade/stages/diner.lua
+mods/songs/family-diner/Voices.ogg
+mods/songs/family-diner/voices.ogg
+mods/songs/family-diner/Inst.ogg
+mods/songs/family-diner/inst.ogg

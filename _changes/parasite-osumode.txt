@@ -1,0 +1,10 @@
+mods/data/parasite/mod.txt
+mods/data/parasite/parasite-hard.json
+mods/Agoti/stages/void.json
+mods/Agoti/stages/void.lua
+mods/Agoti/scripts/Script.lua
+mods/Agoti/scripts/Script1.lua
+mods/songs/parasite/Voices.ogg
+mods/songs/parasite/voices.ogg
+mods/songs/parasite/Inst.ogg
+mods/songs/parasite/inst.ogg

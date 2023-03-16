@@ -1,0 +1,11 @@
+mods/data/shotgun-shell/mod.txt
+mods/data/shotgun-shell/script.lua
+mods/data/shotgun-shell/shotgun-shell-hard.json
+mods/Agoti/stages/market.json
+mods/Agoti/stages/market.lua
+mods/Agoti/scripts/Script.lua
+mods/Agoti/scripts/Script1.lua
+mods/songs/shotgun-shell/Voices.ogg
+mods/songs/shotgun-shell/voices.ogg
+mods/songs/shotgun-shell/Inst.ogg
+mods/songs/shotgun-shell/inst.ogg

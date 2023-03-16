@@ -1,0 +1,8 @@
+mods/data/massacre/massacre-hard.json
+mods/data/massacre/mod.txt
+mods/AbandonedArcade/stages/dinerdead.json
+mods/AbandonedArcade/stages/dinerdead.lua
+mods/songs/massacre/Voices.ogg
+mods/songs/massacre/voices.ogg
+mods/songs/massacre/Inst.ogg
+mods/songs/massacre/inst.ogg

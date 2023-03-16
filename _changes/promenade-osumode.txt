@@ -1,0 +1,11 @@
+mods/data/promenade/mod.txt
+mods/data/promenade/promenade-hard.json
+mods/data/promenade/script.lua
+mods/Agoti/stages/hall.json
+mods/Agoti/stages/hall.lua
+mods/Agoti/scripts/Script.lua
+mods/Agoti/scripts/Script1.lua
+mods/songs/promenade/Voices.ogg
+mods/songs/promenade/voices.ogg
+mods/songs/promenade/Inst.ogg
+mods/songs/promenade/inst.ogg

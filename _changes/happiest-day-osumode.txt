@@ -1,0 +1,8 @@
+mods/data/happiest-day/happiest-day-hard.json
+mods/data/happiest-day/mod.txt
+mods/AbandonedArcade/stages/party.json
+mods/AbandonedArcade/stages/party.lua
+mods/songs/happiest-day/Voices.ogg
+mods/songs/happiest-day/voices.ogg
+mods/songs/happiest-day/Inst.ogg
+mods/songs/happiest-day/inst.ogg
