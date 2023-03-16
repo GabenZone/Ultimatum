@@ -1,5 +1,5 @@
 function onCreate()
- makeAnimatedLuaSprite('ExeBG', 'faker/EXBg', -3500, -700); 
+ makeAnimatedLuaSprite('ExeBG', 'faker/EXbg', -3500, -700); 
 addAnimationByPrefix('ExeBG', 'anim', 'Idle', 10, true); 
   scaleObject('ExeBG', 3.5,3.5);
   addLuaSprite('ExeBG', false);
